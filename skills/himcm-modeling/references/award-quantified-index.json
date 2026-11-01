@@ -1,0 +1,1208 @@
+{
+  "scope": "23complete-main-textdiagnosticreadings,15standardO/8standardF; evidencefrozenbeforelabelmerge; IDsremainnotfullyblind; noofficialscore/awardprediction",
+  "score_definitions": "Ttask,Mmath,Ddata,Vvalidation,Rrobustdecision,Ccommunication,each0–3,total18local; notgenericcompletionprobability",
+  "award_group_statistics": {
+    "Outstanding": {
+      "T": {
+        "n": 15,
+        "median": 2,
+        "q1": 2.0,
+        "q3": 2.0,
+        "minimum": 2,
+        "maximum": 2,
+        "distribution": {
+          "2": 15
+        }
+      },
+      "M": {
+        "n": 15,
+        "median": 1,
+        "q1": 0.5,
+        "q3": 2.0,
+        "minimum": 0,
+        "maximum": 2,
+        "distribution": {
+          "0": 4,
+          "1": 6,
+          "2": 5
+        }
+      },
+      "D": {
+        "n": 15,
+        "median": 2,
+        "q1": 1.0,
+        "q3": 2.0,
+        "minimum": 1,
+        "maximum": 2,
+        "distribution": {
+          "1": 5,
+          "2": 10
+        }
+      },
+      "V": {
+        "n": 15,
+        "median": 1,
+        "q1": 1.0,
+        "q3": 1.0,
+        "minimum": 0,
+        "maximum": 2,
+        "distribution": {
+          "0": 2,
+          "1": 10,
+          "2": 3
+        }
+      },
+      "R": {
+        "n": 15,
+        "median": 1,
+        "q1": 1.0,
+        "q3": 1.5,
+        "minimum": 1,
+        "maximum": 2,
+        "distribution": {
+          "1": 11,
+          "2": 4
+        }
+      },
+      "C": {
+        "n": 15,
+        "median": 1,
+        "q1": 1.0,
+        "q3": 2.0,
+        "minimum": 1,
+        "maximum": 2,
+        "distribution": {
+          "1": 9,
+          "2": 6
+        }
+      },
+      "total18": {
+        "n": 15,
+        "median": 8,
+        "q1": 6.5,
+        "q3": 11.0,
+        "minimum": 5,
+        "maximum": 12,
+        "distribution": {
+          "5": 1,
+          "6": 3,
+          "7": 1,
+          "8": 4,
+          "9": 1,
+          "11": 4,
+          "12": 1
+        }
+      },
+      "fully_answered_count": 4
+    },
+    "Finalist": {
+      "T": {
+        "n": 8,
+        "median": 2.0,
+        "q1": 2.0,
+        "q3": 2.0,
+        "minimum": 1,
+        "maximum": 2,
+        "distribution": {
+          "1": 1,
+          "2": 7
+        }
+      },
+      "M": {
+        "n": 8,
+        "median": 1.0,
+        "q1": 0.0,
+        "q3": 1.0,
+        "minimum": 0,
+        "maximum": 2,
+        "distribution": {
+          "0": 3,
+          "1": 4,
+          "2": 1
+        }
+      },
+      "D": {
+        "n": 8,
+        "median": 1.0,
+        "q1": 1.0,
+        "q3": 2.0,
+        "minimum": 1,
+        "maximum": 2,
+        "distribution": {
+          "1": 5,
+          "2": 3
+        }
+      },
+      "V": {
+        "n": 8,
+        "median": 1.0,
+        "q1": 0.75,
+        "q3": 1.0,
+        "minimum": 0,
+        "maximum": 1,
+        "distribution": {
+          "0": 2,
+          "1": 6
+        }
+      },
+      "R": {
+        "n": 8,
+        "median": 1.0,
+        "q1": 1.0,
+        "q3": 1.0,
+        "minimum": 0,
+        "maximum": 2,
+        "distribution": {
+          "0": 1,
+          "1": 6,
+          "2": 1
+        }
+      },
+      "C": {
+        "n": 8,
+        "median": 2.0,
+        "q1": 1.0,
+        "q3": 2.0,
+        "minimum": 1,
+        "maximum": 2,
+        "distribution": {
+          "1": 3,
+          "2": 5
+        }
+      },
+      "total18": {
+        "n": 8,
+        "median": 7.5,
+        "q1": 6.0,
+        "q3": 8.5,
+        "minimum": 4,
+        "maximum": 10,
+        "distribution": {
+          "4": 1,
+          "6": 2,
+          "7": 1,
+          "8": 2,
+          "10": 2
+        }
+      },
+      "fully_answered_count": 3
+    }
+  },
+  "matched_case_groups": [
+    {
+      "case_id": "2012-B",
+      "Outstanding": {
+        "T": {
+          "n": 5,
+          "median": 2,
+          "q1": 2.0,
+          "q3": 2.0,
+          "minimum": 2,
+          "maximum": 2,
+          "distribution": {
+            "2": 5
+          }
+        },
+        "M": {
+          "n": 5,
+          "median": 1,
+          "q1": 1.0,
+          "q3": 2.0,
+          "minimum": 0,
+          "maximum": 2,
+          "distribution": {
+            "0": 1,
+            "1": 2,
+            "2": 2
+          }
+        },
+        "D": {
+          "n": 5,
+          "median": 2,
+          "q1": 2.0,
+          "q3": 2.0,
+          "minimum": 1,
+          "maximum": 2,
+          "distribution": {
+            "1": 1,
+            "2": 4
+          }
+        },
+        "V": {
+          "n": 5,
+          "median": 1,
+          "q1": 1.0,
+          "q3": 2.0,
+          "minimum": 1,
+          "maximum": 2,
+          "distribution": {
+            "1": 3,
+            "2": 2
+          }
+        },
+        "R": {
+          "n": 5,
+          "median": 1,
+          "q1": 1.0,
+          "q3": 1.0,
+          "minimum": 1,
+          "maximum": 1,
+          "distribution": {
+            "1": 5
+          }
+        },
+        "C": {
+          "n": 5,
+          "median": 1,
+          "q1": 1.0,
+          "q3": 2.0,
+          "minimum": 1,
+          "maximum": 2,
+          "distribution": {
+            "1": 3,
+            "2": 2
+          }
+        },
+        "total18": {
+          "n": 5,
+          "median": 8,
+          "q1": 8.0,
+          "q3": 11.0,
+          "minimum": 6,
+          "maximum": 11,
+          "distribution": {
+            "6": 1,
+            "8": 2,
+            "11": 2
+          }
+        },
+        "reference_ids": [
+          "RV04",
+          "RV12",
+          "RV17",
+          "RV20",
+          "RV21"
+        ]
+      },
+      "Finalist": {
+        "T": {
+          "n": 1,
+          "median": 2,
+          "q1": 2.0,
+          "q3": 2.0,
+          "minimum": 2,
+          "maximum": 2,
+          "distribution": {
+            "2": 1
+          }
+        },
+        "M": {
+          "n": 1,
+          "median": 2,
+          "q1": 2.0,
+          "q3": 2.0,
+          "minimum": 2,
+          "maximum": 2,
+          "distribution": {
+            "2": 1
+          }
+        },
+        "D": {
+          "n": 1,
+          "median": 2,
+          "q1": 2.0,
+          "q3": 2.0,
+          "minimum": 2,
+          "maximum": 2,
+          "distribution": {
+            "2": 1
+          }
+        },
+        "V": {
+          "n": 1,
+          "median": 1,
+          "q1": 1.0,
+          "q3": 1.0,
+          "minimum": 1,
+          "maximum": 1,
+          "distribution": {
+            "1": 1
+          }
+        },
+        "R": {
+          "n": 1,
+          "median": 1,
+          "q1": 1.0,
+          "q3": 1.0,
+          "minimum": 1,
+          "maximum": 1,
+          "distribution": {
+            "1": 1
+          }
+        },
+        "C": {
+          "n": 1,
+          "median": 2,
+          "q1": 2.0,
+          "q3": 2.0,
+          "minimum": 2,
+          "maximum": 2,
+          "distribution": {
+            "2": 1
+          }
+        },
+        "total18": {
+          "n": 1,
+          "median": 10,
+          "q1": 10.0,
+          "q3": 10.0,
+          "minimum": 10,
+          "maximum": 10,
+          "distribution": {
+            "10": 1
+          }
+        },
+        "reference_ids": [
+          "RV01"
+        ]
+      },
+      "median_total_difference_O_minus_F": -2
+    },
+    {
+      "case_id": "2016-A",
+      "Outstanding": {
+        "T": {
+          "n": 4,
+          "median": 2.0,
+          "q1": 2.0,
+          "q3": 2.0,
+          "minimum": 2,
+          "maximum": 2,
+          "distribution": {
+            "2": 4
+          }
+        },
+        "M": {
+          "n": 4,
+          "median": 0.5,
+          "q1": 0.0,
+          "q3": 1.0,
+          "minimum": 0,
+          "maximum": 1,
+          "distribution": {
+            "0": 2,
+            "1": 2
+          }
+        },
+        "D": {
+          "n": 4,
+          "median": 1.5,
+          "q1": 1.0,
+          "q3": 2.0,
+          "minimum": 1,
+          "maximum": 2,
+          "distribution": {
+            "1": 2,
+            "2": 2
+          }
+        },
+        "V": {
+          "n": 4,
+          "median": 1.0,
+          "q1": 0.75,
+          "q3": 1.0,
+          "minimum": 0,
+          "maximum": 1,
+          "distribution": {
+            "0": 1,
+            "1": 3
+          }
+        },
+        "R": {
+          "n": 4,
+          "median": 1.0,
+          "q1": 1.0,
+          "q3": 1.0,
+          "minimum": 1,
+          "maximum": 1,
+          "distribution": {
+            "1": 4
+          }
+        },
+        "C": {
+          "n": 4,
+          "median": 1.0,
+          "q1": 1.0,
+          "q3": 1.25,
+          "minimum": 1,
+          "maximum": 2,
+          "distribution": {
+            "1": 3,
+            "2": 1
+          }
+        },
+        "total18": {
+          "n": 4,
+          "median": 7.0,
+          "q1": 6.0,
+          "q3": 8.0,
+          "minimum": 6,
+          "maximum": 8,
+          "distribution": {
+            "6": 2,
+            "8": 2
+          }
+        },
+        "reference_ids": [
+          "RV05",
+          "RV14",
+          "RV18",
+          "RV19"
+        ]
+      },
+      "Finalist": {
+        "T": {
+          "n": 1,
+          "median": 2,
+          "q1": 2.0,
+          "q3": 2.0,
+          "minimum": 2,
+          "maximum": 2,
+          "distribution": {
+            "2": 1
+          }
+        },
+        "M": {
+          "n": 1,
+          "median": 1,
+          "q1": 1.0,
+          "q3": 1.0,
+          "minimum": 1,
+          "maximum": 1,
+          "distribution": {
+            "1": 1
+          }
+        },
+        "D": {
+          "n": 1,
+          "median": 1,
+          "q1": 1.0,
+          "q3": 1.0,
+          "minimum": 1,
+          "maximum": 1,
+          "distribution": {
+            "1": 1
+          }
+        },
+        "V": {
+          "n": 1,
+          "median": 1,
+          "q1": 1.0,
+          "q3": 1.0,
+          "minimum": 1,
+          "maximum": 1,
+          "distribution": {
+            "1": 1
+          }
+        },
+        "R": {
+          "n": 1,
+          "median": 1,
+          "q1": 1.0,
+          "q3": 1.0,
+          "minimum": 1,
+          "maximum": 1,
+          "distribution": {
+            "1": 1
+          }
+        },
+        "C": {
+          "n": 1,
+          "median": 1,
+          "q1": 1.0,
+          "q3": 1.0,
+          "minimum": 1,
+          "maximum": 1,
+          "distribution": {
+            "1": 1
+          }
+        },
+        "total18": {
+          "n": 1,
+          "median": 7,
+          "q1": 7.0,
+          "q3": 7.0,
+          "minimum": 7,
+          "maximum": 7,
+          "distribution": {
+            "7": 1
+          }
+        },
+        "reference_ids": [
+          "RV10"
+        ]
+      },
+      "median_total_difference_O_minus_F": 0.0
+    },
+    {
+      "case_id": "2022-B",
+      "Finalist": {
+        "T": {
+          "n": 1,
+          "median": 2,
+          "q1": 2.0,
+          "q3": 2.0,
+          "minimum": 2,
+          "maximum": 2,
+          "distribution": {
+            "2": 1
+          }
+        },
+        "M": {
+          "n": 1,
+          "median": 1,
+          "q1": 1.0,
+          "q3": 1.0,
+          "minimum": 1,
+          "maximum": 1,
+          "distribution": {
+            "1": 1
+          }
+        },
+        "D": {
+          "n": 1,
+          "median": 1,
+          "q1": 1.0,
+          "q3": 1.0,
+          "minimum": 1,
+          "maximum": 1,
+          "distribution": {
+            "1": 1
+          }
+        },
+        "V": {
+          "n": 1,
+          "median": 1,
+          "q1": 1.0,
+          "q3": 1.0,
+          "minimum": 1,
+          "maximum": 1,
+          "distribution": {
+            "1": 1
+          }
+        },
+        "R": {
+          "n": 1,
+          "median": 1,
+          "q1": 1.0,
+          "q3": 1.0,
+          "minimum": 1,
+          "maximum": 1,
+          "distribution": {
+            "1": 1
+          }
+        },
+        "C": {
+          "n": 1,
+          "median": 2,
+          "q1": 2.0,
+          "q3": 2.0,
+          "minimum": 2,
+          "maximum": 2,
+          "distribution": {
+            "2": 1
+          }
+        },
+        "total18": {
+          "n": 1,
+          "median": 8,
+          "q1": 8.0,
+          "q3": 8.0,
+          "minimum": 8,
+          "maximum": 8,
+          "distribution": {
+            "8": 1
+          }
+        },
+        "reference_ids": [
+          "RV11"
+        ]
+      }
+    },
+    {
+      "case_id": "2023-B",
+      "Finalist": {
+        "T": {
+          "n": 1,
+          "median": 2,
+          "q1": 2.0,
+          "q3": 2.0,
+          "minimum": 2,
+          "maximum": 2,
+          "distribution": {
+            "2": 1
+          }
+        },
+        "M": {
+          "n": 1,
+          "median": 0,
+          "q1": 0.0,
+          "q3": 0.0,
+          "minimum": 0,
+          "maximum": 0,
+          "distribution": {
+            "0": 1
+          }
+        },
+        "D": {
+          "n": 1,
+          "median": 2,
+          "q1": 2.0,
+          "q3": 2.0,
+          "minimum": 2,
+          "maximum": 2,
+          "distribution": {
+            "2": 1
+          }
+        },
+        "V": {
+          "n": 1,
+          "median": 0,
+          "q1": 0.0,
+          "q3": 0.0,
+          "minimum": 0,
+          "maximum": 0,
+          "distribution": {
+            "0": 1
+          }
+        },
+        "R": {
+          "n": 1,
+          "median": 1,
+          "q1": 1.0,
+          "q3": 1.0,
+          "minimum": 1,
+          "maximum": 1,
+          "distribution": {
+            "1": 1
+          }
+        },
+        "C": {
+          "n": 1,
+          "median": 1,
+          "q1": 1.0,
+          "q3": 1.0,
+          "minimum": 1,
+          "maximum": 1,
+          "distribution": {
+            "1": 1
+          }
+        },
+        "total18": {
+          "n": 1,
+          "median": 6,
+          "q1": 6.0,
+          "q3": 6.0,
+          "minimum": 6,
+          "maximum": 6,
+          "distribution": {
+            "6": 1
+          }
+        },
+        "reference_ids": [
+          "RV16"
+        ]
+      }
+    },
+    {
+      "case_id": "2024-B",
+      "Finalist": {
+        "T": {
+          "n": 1,
+          "median": 2,
+          "q1": 2.0,
+          "q3": 2.0,
+          "minimum": 2,
+          "maximum": 2,
+          "distribution": {
+            "2": 1
+          }
+        },
+        "M": {
+          "n": 1,
+          "median": 1,
+          "q1": 1.0,
+          "q3": 1.0,
+          "minimum": 1,
+          "maximum": 1,
+          "distribution": {
+            "1": 1
+          }
+        },
+        "D": {
+          "n": 1,
+          "median": 2,
+          "q1": 2.0,
+          "q3": 2.0,
+          "minimum": 2,
+          "maximum": 2,
+          "distribution": {
+            "2": 1
+          }
+        },
+        "V": {
+          "n": 1,
+          "median": 1,
+          "q1": 1.0,
+          "q3": 1.0,
+          "minimum": 1,
+          "maximum": 1,
+          "distribution": {
+            "1": 1
+          }
+        },
+        "R": {
+          "n": 1,
+          "median": 2,
+          "q1": 2.0,
+          "q3": 2.0,
+          "minimum": 2,
+          "maximum": 2,
+          "distribution": {
+            "2": 1
+          }
+        },
+        "C": {
+          "n": 1,
+          "median": 2,
+          "q1": 2.0,
+          "q3": 2.0,
+          "minimum": 2,
+          "maximum": 2,
+          "distribution": {
+            "2": 1
+          }
+        },
+        "total18": {
+          "n": 1,
+          "median": 10,
+          "q1": 10.0,
+          "q3": 10.0,
+          "minimum": 10,
+          "maximum": 10,
+          "distribution": {
+            "10": 1
+          }
+        },
+        "reference_ids": [
+          "RV15"
+        ]
+      }
+    }
+  ],
+  "entries": [
+    {
+      "reference_id": "RV01",
+      "source_id": "H005",
+      "case_id": "2012-B",
+      "team": "3873",
+      "award": "Finalist",
+      "report_url": "https://raw.githubusercontent.com/siddk/himcm-2013/master/Past%20Papers/3873.pdf",
+      "report_sha256": "55c67335aa12902113a6549443a33c525d0133c0d700f80f34cb8792c22ea6f0",
+      "official_award_source": "https://www.contest.comap.org/highschool/contests/himcm/2012results.pdf",
+      "official_award_source_page": 4,
+      "main_text_pages": [
+        1,
+        15
+      ],
+      "actual_reading_scope": "完整主文p1–15（含摘要、目录和报纸信函）；附录数据p16–17补读；渲染查看p6–8、12–13的公式、拟合图和城市结果表。p18–27代码未作为评分证据。",
+      "scores": {
+        "T": 2,
+        "M": 2,
+        "D": 2,
+        "V": 1,
+        "R": 1,
+        "C": 2
+      },
+      "total18": 10,
+      "task_completion": {
+        "completed": 5,
+        "total": 6
+      },
+      "model_scope": "Publishedreport evidence only; no authorcodeexecution",
+      "local_diagnostic_issues": "AQ-RV01-01：补一般里程阈值与可行库存约束；AQ-RV01-02：统一终止库存、分母和全知比较，复验SF异常；AQ-RV01-03：纠正因果检验解释并报告按时点预测误差。"
+    },
+    {
+      "reference_id": "RV04",
+      "source_id": "H072",
+      "case_id": "2012-B",
+      "team": "3594",
+      "award": "Outstanding",
+      "report_url": "https://raw.githubusercontent.com/CanfengMenghan/HiMCM/master/Past%20Essays/2012/B/3594.pdf",
+      "report_sha256": "46a77df14fd9f16680e1a05acd30be08678039f2a0df108bc8627fef585d1e5e",
+      "official_award_source": "https://www.contest.comap.org/highschool/contests/himcm/2012results.pdf",
+      "official_award_source_page": 2,
+      "main_text_pages": [
+        1,
+        14
+      ],
+      "actual_reading_scope": "完整主文p1–14；图像附录p15–24全部渲染补读，p25参考文献查看。渲染p7、9、12、13核对公式/表。",
+      "scores": {
+        "T": 2,
+        "M": 2,
+        "D": 2,
+        "V": 2,
+        "R": 1,
+        "C": 2
+      },
+      "total18": 11,
+      "task_completion": {
+        "completed": 6,
+        "total": 6
+      },
+      "model_scope": "Publishedreport evidence only; no authorcodeexecution",
+      "local_diagnostic_issues": "AQ-RV04-01：统一训练年份与公式符号；AQ-RV04-02：补等终库存的空箱满箱基线和全期最优基准；AQ-RV04-03：为大于200的里程给可行库存策略及阈值测试。"
+    },
+    {
+      "reference_id": "RV05",
+      "source_id": "H106",
+      "case_id": "2016-A",
+      "team": "6453",
+      "award": "Outstanding",
+      "report_url": "https://raw.githubusercontent.com/CanfengMenghan/HiMCM/master/Past%20Essays/2016/A/6453.pdf",
+      "report_sha256": "4aa4b12b19cb7ae0ab9e8fc780ee1a651bb95713b150b9eeca5750606a1f5ab8",
+      "official_award_source": "https://www.contest.comap.org/highschool/contests/himcm/2016_Results.pdf",
+      "official_award_source_page": 2,
+      "main_text_pages": [
+        1,
+        29
+      ],
+      "actual_reading_scope": "本次逐页读取物理p1–33：p1–29主文与市长信，p30参考文献，p30–33遗传算法附录作静态阅读；实际查看p3、20、22、27图像。未运行作者程序。",
+      "scores": {
+        "T": 2,
+        "M": 1,
+        "D": 2,
+        "V": 1,
+        "R": 1,
+        "C": 1
+      },
+      "total18": 8,
+      "task_completion": {
+        "completed": 5,
+        "total": 5
+      },
+      "model_scope": "Publishedreport evidence only; no authorcodeexecution",
+      "local_diagnostic_issues": "AQ-RV05-01：用个人速度分布、转换区/道路容量和追越规则检验所有波的拥堵及末位完成，报告≥330分钟概率。AQ-RV05-02：统一秒/分钟并由同一数据源生成市长赛程、正文和代码输入，修正女子公开组表格及4.5小时结论。AQ-RV05-03：明确距离是否允许缩短，将真实上下界写入LP并重算；枚举六组720种顺序作为GA基线，再做人数/速度/波间隔敏感性。"
+    },
+    {
+      "reference_id": "RV10",
+      "source_id": "H013",
+      "case_id": "2016-A",
+      "team": "7059",
+      "award": "Finalist",
+      "report_url": "https://raw.githubusercontent.com/adithyabsk/himcm/main/himcm.pdf",
+      "report_sha256": "ba40f7ce7fa5bcd86f4a89dda4ef5439fcd5301306ff5a5ca70269fefe421441",
+      "official_award_source": "https://www.contest.comap.org/highschool/contests/himcm/2016_Results.pdf",
+      "official_award_source_page": 5,
+      "main_text_pages": [
+        1,
+        22
+      ],
+      "actual_reading_scope": "本次逐页读取p1–26完整文本，主文p1–22、附录代码p22–26作静态阅读；实际查看p3、18、19、20图像。",
+      "scores": {
+        "T": 2,
+        "M": 1,
+        "D": 1,
+        "V": 1,
+        "R": 1,
+        "C": 1
+      },
+      "total18": 7,
+      "task_completion": {
+        "completed": 4,
+        "total": 5
+      },
+      "model_scope": "Publishedreport evidence only; no authorcodeexecution",
+      "local_diagnostic_issues": "AQ-RV10-01：统一2000人规模，修正老年Athena创建器与女子公开组速度索引，逐类别检查总人数守恒后重跑全部情景。AQ-RV10-02：以合理道路宽度、转换区容量及速度-密度关系检验拥挤，验证500米时间/空间离散误差。AQ-RV10-03：展示相同输入下基线与候选距离的总完赛率、各类截停率、封路时长及多次随机运行区间，补齐速度CSV和赛程/图注。"
+    },
+    {
+      "reference_id": "RV11",
+      "source_id": "H006",
+      "case_id": "2022-B",
+      "team": "12664",
+      "award": "Finalist",
+      "report_url": "https://raw.githubusercontent.com/lycLTb/HiMCM_2022/main/paper/latex/12664.pdf",
+      "report_sha256": "4b64011ac28a038845ab02918765b214695417645c5050aa5da21ce0acd10e3f",
+      "official_award_source": "https://www.contest.comap.org/highschool/contests/himcm/2022_HiMCM_Results.pdf",
+      "official_award_source_page": 3,
+      "main_text_pages": [
+        1,
+        25
+      ],
+      "actual_reading_scope": "恢复后完整读取p1–25主文和参考；p2文本为空，实际渲染读取非技术文章；渲染p7、20、21核对十年图、阈值图与相关公式。",
+      "scores": {
+        "T": 2,
+        "M": 1,
+        "D": 1,
+        "V": 1,
+        "R": 1,
+        "C": 2
+      },
+      "total18": 8,
+      "task_completion": {
+        "completed": 8,
+        "total": 9
+      },
+      "model_scope": "Publishedreport evidence only; no authorcodeexecution",
+      "local_diagnostic_issues": "AQ-RV11-01：给定数据逐个滚动十年计算并明确时间口径；AQ-RV11-02：修正秩相关公式、去趋势检验，移除灰关联因果化与模拟相关可靠期断言；AQ-RV11-03：公布系数/预处理和时序留出误差，加能源/政策情景区间后复验2050/2100与温升年份。"
+    },
+    {
+      "reference_id": "RV12",
+      "source_id": "H071",
+      "case_id": "2012-B",
+      "team": "3455",
+      "award": "Outstanding",
+      "report_url": "https://raw.githubusercontent.com/CanfengMenghan/HiMCM/master/Past%20Essays/2012/B/3455.pdf",
+      "report_sha256": "c2c1417543ec4d455fb7413db8e3b38796b68a1fccc1e58b509aac1ccb8fc4f8",
+      "official_award_source": "https://www.contest.comap.org/highschool/contests/himcm/2012results.pdf",
+      "official_award_source_page": 2,
+      "main_text_pages": [
+        1,
+        68
+      ],
+      "actual_reading_scope": "完整读取物理 p1–70：p1–68 主文（含摘要、封面、信函），p69–70 参考文献；实际查看 p25、40、54、57–60、67 的公式、决策树、结果表及曲线。前段阅读跨平台中断恢复保留。",
+      "scores": {
+        "T": 2,
+        "M": 0,
+        "D": 1,
+        "V": 1,
+        "R": 1,
+        "C": 1
+      },
+      "total18": 6,
+      "task_completion": {
+        "completed": 5,
+        "total": 6
+      },
+      "model_scope": "Publishedreport evidence only; no authorcodeexecution",
+      "local_diagnostic_issues": "AQ-RV12-01（M/T）：改正200英里实际里程、各表分母及期末存油价值，统一52周现金支出目标，列可行库存轨迹与简单基线；复验两种里程和Boston。AQ-RV12-02（D/V/R）：明确供应单位和发布滞后、校正天气类别，固定训练估计而非随机分母反解平均，报告随机种子/多次预测与持平基线误差及决策后悔值。AQ-RV12-03（C）：将信函准确性限制为已展示样本，列输入和风险，复核二项独立性与概率算术。"
+    },
+    {
+      "reference_id": "RV14",
+      "source_id": "H108",
+      "case_id": "2016-A",
+      "team": "7054",
+      "award": "Outstanding",
+      "report_url": "https://raw.githubusercontent.com/CanfengMenghan/HiMCM/master/Past%20Essays/2016/A/7054.pdf",
+      "report_sha256": "13d26bce7a3596cecc227fc594eeff0118b6eddf79e8fe0b7866e667a4571d47",
+      "official_award_source": "https://www.contest.comap.org/highschool/contests/himcm/2016_Results.pdf",
+      "official_award_source_page": 2,
+      "main_text_pages": [
+        1,
+        24
+      ],
+      "actual_reading_scope": "本次主文p1–24完整逐页文本读取；p25–45附录/参考文献文本均读，其中图片式调查问卷p25–26实际查看，p27–31仅图片标题及与主文结果对应的文本，不把这些截图算作实际图像阅读。实际查看p12、15、16、18、21、22、25、26。代码p33–44静态阅读，未执行。",
+      "scores": {
+        "T": 2,
+        "M": 1,
+        "D": 1,
+        "V": 1,
+        "R": 1,
+        "C": 2
+      },
+      "total18": 8,
+      "task_completion": {
+        "completed": 5,
+        "total": 5
+      },
+      "model_scope": "Publishedreport evidence only; no authorcodeexecution",
+      "local_diagnostic_issues": "AQ-RV14-01：核实原始CSV类别边界，独立保存原数据索引和目标样本索引，确保2000人及各类比例；修正各阶段车道阈值后复验。AQ-RV14-02：用同一随机样本/种子和相同长度做车道、波包、道路消融，多次重复给置信区间，不能用不同骑车距离归因车道效应。AQ-RV14-03：以道路首位进入至末位退出连续时段加布撤场余量检验5.5小时；在240秒最终方案下重新评估5公里跑步，并扰动申报误差、人数、赛道宽度。"
+    },
+    {
+      "reference_id": "RV15",
+      "source_id": "H125",
+      "case_id": "2024-B",
+      "team": "15803",
+      "award": "Finalist",
+      "report_url": "https://raw.githubusercontent.com/q1zhen/2024-himcm/master/15803.pdf",
+      "report_sha256": "7278b6f14b40e0398820d23a499b7c3dc9e99e973e1ca59cf35e0c6c168f9313",
+      "official_award_source": "https://www.contest.comap.org/highschool/contests/himcm/2024_Results/2024_HiMCM_Problem_B_Results.pdf",
+      "official_award_source_page": 3,
+      "main_text_pages": [
+        1,
+        24
+      ],
+      "actual_reading_scope": "恢复后完整读取p1–25；主文p1–24含UN信，p25参考；实际渲染p17–19、21核对能源比例、2030情景、敏感性和气温阈值。",
+      "scores": {
+        "T": 2,
+        "M": 1,
+        "D": 2,
+        "V": 1,
+        "R": 2,
+        "C": 2
+      },
+      "total18": 10,
+      "task_completion": {
+        "completed": 6,
+        "total": 9
+      },
+      "model_scope": "Publishedreport evidence only; no authorcodeexecution",
+      "local_diagnostic_issues": "AQ-RV15-01：区分CPU负载/设施能耗并加入空载功率与数据覆盖审计；AQ-RV15-02：份额用单纯形约束和实际供电情景、竞争需求及100%可再生挑战，给可行2030界；AQ-RV15-03：气温分析用累积碳预算/碳汇与响应模型，修正图例和政策期限，复验50%建议；AQ-RV15-04：明确外部对照区间误差，补时序留出和增长代理敏感性。"
+    },
+    {
+      "reference_id": "RV17",
+      "source_id": "H073",
+      "case_id": "2012-B",
+      "team": "3681",
+      "award": "Outstanding",
+      "report_url": "https://raw.githubusercontent.com/CanfengMenghan/HiMCM/master/Past%20Essays/2012/B/3681.pdf",
+      "report_sha256": "8e4f2d7a0e766bf3577a69c50607eab96bc7a269e92769353aaccc03865bfffc",
+      "official_award_source": "https://www.contest.comap.org/highschool/contests/himcm/2012results.pdf",
+      "official_award_source_page": 2,
+      "main_text_pages": [
+        1,
+        21
+      ],
+      "actual_reading_scope": "本次p1–37文本完整逐页读取；主文p1–21（报告内页码比物理页小2），其中图片式主文p12–16已全部实际查看；参考p22，附录p23–37静态阅读。实际图像p12–16、23、25、30、32–34、37；附录历史曲线p26–29仅文字坐标读取，未逐图视觉核验。",
+      "scores": {
+        "T": 2,
+        "M": 1,
+        "D": 2,
+        "V": 1,
+        "R": 1,
+        "C": 1
+      },
+      "total18": 8,
+      "task_completion": {
+        "completed": 5,
+        "total": 6
+      },
+      "model_scope": "Publishedreport evidence only; no authorcodeexecution",
+      "local_diagnostic_issues": "AQ-RV17-01：日期键对齐全部滞后和原油可用时点，移除NY硬编码，以2011均值或滚动可见均值构造偏移；独立计算2012残差/误差。AQ-RV17-02：统一所有策略起终库存、耗油与购买动作，修复按时间正序的离线最优，要求任何可行策略费用不得低于最优；再复核各城表及节省年化。AQ-RV17-03：条件归一化Markov矩阵，补周里程/油箱可行边界与油耗、误判、期末价值敏感性。"
+    },
+    {
+      "reference_id": "RV18",
+      "source_id": "H109",
+      "case_id": "2016-A",
+      "team": "7055",
+      "award": "Outstanding",
+      "report_url": "https://raw.githubusercontent.com/CanfengMenghan/HiMCM/master/Past%20Essays/2016/A/7055.pdf",
+      "report_sha256": "69da39daf1cba8d264e7693609794ac5bcfe74434b260abf6bebed6acce341cf",
+      "official_award_source": "https://www.contest.comap.org/highschool/contests/himcm/2016_Results.pdf",
+      "official_award_source_page": 2,
+      "main_text_pages": [
+        1,
+        20
+      ],
+      "actual_reading_scope": "本次完整逐页文本读取p1–37，主文p1–20、参考p21、Q-Q图p22–24实际查看、代码p24–37静态阅读；另实际查看p5、14、19、29、30。未执行作者代码。",
+      "scores": {
+        "T": 2,
+        "M": 0,
+        "D": 1,
+        "V": 1,
+        "R": 1,
+        "C": 1
+      },
+      "total18": 6,
+      "task_completion": {
+        "completed": 5,
+        "total": 5
+      },
+      "model_scope": "Publishedreport evidence only; no authorcodeexecution",
+      "local_diagnostic_issues": "AQ-RV18-01：将米转换为patch（3米=0.03patch），以双/多选手可人工计算场景验证受阻规则；校正全部年龄字符串、人数边界和截停转换区条件。AQ-RV18-02：用同一导出结果生成全部表格，重算M及比值，修正取消截停和权重扫描结果；修复后重新选择推荐方案。AQ-RV18-03：以经验联合分布或校准相关结构采样，重复实验给区间并扫描通过概率/道路宽度/人数；补转换区容量与布撤场时间。"
+    },
+    {
+      "reference_id": "RV19",
+      "source_id": "H019",
+      "case_id": "2016-A",
+      "team": "6770",
+      "award": "Outstanding",
+      "report_url": "https://raw.githubusercontent.com/CanfengMenghan/HiMCM/master/2017/%E5%81%9A/2016-swim-6770.pdf",
+      "report_sha256": "ade9d7b1cde838ffd8e8683eebdd0895d02b5a143e46ebbf020591b7c256a7fb",
+      "official_award_source": "https://www.contest.comap.org/highschool/contests/himcm/2016_Results.pdf",
+      "official_award_source_page": 2,
+      "main_text_pages": [
+        1,
+        28
+      ],
+      "actual_reading_scope": "本次逐页完整读取p1–40文本，主文p1–28；图片表格p29–30实际查看，p31–39数据/代码静态读取，参考p39–40；实际查看p18、22、23、24、29、30、31、32图像。",
+      "scores": {
+        "T": 2,
+        "M": 0,
+        "D": 2,
+        "V": 0,
+        "R": 1,
+        "C": 1
+      },
+      "total18": 6,
+      "task_completion": {
+        "completed": 4,
+        "total": 5
+      },
+      "model_scope": "Publishedreport evidence only; no authorcodeexecution",
+      "local_diagnostic_issues": "AQ-RV19-01：先修正数组边界、T2真假分支和波索引，以人工构造有/无/完全包含重叠例验证计数；统一每段曲线、连续终点、积分上下限及费用单位。AQ-RV19-02：用完整个体速度/时间分布而非剔除尾部均值检验最晚完成，明确可接受截停率，验证转换区关闭时间。AQ-RV19-03：在5.5小时内联合扫描距离/波间隔，报告可行基线与候选的完整成本、拥挤和尾部结果，测试成本权重与人数变化。"
+    },
+    {
+      "reference_id": "RV20",
+      "source_id": "H074",
+      "case_id": "2012-B",
+      "team": "3874",
+      "award": "Outstanding",
+      "report_url": "https://raw.githubusercontent.com/CanfengMenghan/HiMCM/master/Past%20Essays/2012/B/3874.pdf",
+      "report_sha256": "0bac4a391074f70fd9a9a1370aaa5ad099aec4623ad4f022758e60fb311ff055",
+      "official_award_source": "https://www.contest.comap.org/highschool/contests/himcm/2012results.pdf",
+      "official_award_source_page": 2,
+      "main_text_pages": [
+        1,
+        16
+      ],
+      "actual_reading_scope": "完整主文p1–16（p1与2重复摘要）；附录p17–19的AIC及概率代码补读，参考p20。渲染p11、13–15核对公式与状态图。",
+      "scores": {
+        "T": 2,
+        "M": 2,
+        "D": 2,
+        "V": 2,
+        "R": 1,
+        "C": 2
+      },
+      "total18": 11,
+      "task_completion": {
+        "completed": 5,
+        "total": 6
+      },
+      "model_scope": "Publishedreport evidence only; no authorcodeexecution",
+      "local_diagnostic_issues": "AQ-RV20-01：给数值里程界及可行性；AQ-RV20-02：明确预测百分比转换、终库存与DP成本缩放；AQ-RV20-03：用实际类别逐周log score及校准图复验巨大似然比。"
+    },
+    {
+      "reference_id": "RV21",
+      "source_id": "H070",
+      "case_id": "2012-B",
+      "team": "3413",
+      "award": "Outstanding",
+      "report_url": "https://raw.githubusercontent.com/CanfengMenghan/HiMCM/master/Past%20Essays/2012/B/3413.pdf",
+      "report_sha256": "6505f2b2898d6d73c33a51fd40bc750dffb1631f434e17dceedc24387c0d30aa",
+      "official_award_source": "https://www.contest.comap.org/highschool/contests/himcm/2012results.pdf",
+      "official_award_source_page": 2,
+      "main_text_pages": [
+        1,
+        19
+      ],
+      "actual_reading_scope": "本次逐页完整读取p1–36文本；主文p1–19，p20–32代码与p32–35输出作静态阅读；实际查看p5、6、7、10、33、34、35、36，p36为空白页。",
+      "scores": {
+        "T": 2,
+        "M": 1,
+        "D": 2,
+        "V": 1,
+        "R": 1,
+        "C": 1
+      },
+      "total18": 8,
+      "task_completion": {
+        "completed": 5,
+        "total": 6
+      },
+      "model_scope": "Publishedreport evidence only; no authorcodeexecution",
+      "local_diagnostic_issues": "AQ-RV21-01：以日期键明确决策可见信息、购买当周价格与预测周，统一正文及代码规则和末库存。AQ-RV21-02：只在2011内部选择阶数与事件规则，2012冻结测试，给朴素趋势、固定策略和离线动态规划下界，统一44周费用。AQ-RV21-03：从q=d/25、0≤库存≤16及0/8/16动作推导周里程可行区域/政策变化，替换未经证明133.3上限；完整公布城市与事件修正结果。"
+    }
+  ]
+}

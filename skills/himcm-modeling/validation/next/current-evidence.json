@@ -1,0 +1,24 @@
+{
+  "stage": "INTEGRATION_DEVELOPMENT06_STAGED_NOT_INDEPENDENTLY_ACCEPTED",
+  "utc": "2026-11-01T10:12:28.874279+00:00",
+  "whole_authors": 0,
+  "whole_passes": 0,
+  "Q": null,
+  "I": null,
+  "installed_default": false,
+  "source92_sha256": "c8b122894e006a5f346b6025de7a929ecc9329ff61d0c501dd2059c470978bd8",
+  "previous_evidence_sha256": "9fc38769f4da8bcac1103a030e5b466fc4f782372adbea9b81fd04be37e91f98",
+  "prior90_attempts_retained": true,
+  "scope": "Full isolated snapshot. Separate frozen90 attempt and staged92 remain distinct. No inherited quality/idea scores.",
+  "changes": [
+    "Conditional identification/decision guidance and routing.",
+    "Structured review entry clarification; gate behavior unchanged.",
+    "Temporal target/proxy domain separation, output schema v2."
+  ],
+  "root_only_evidence": {
+    "temporal_regression_CLI": 39,
+    "scope": "Existing parent cases replayed from packaged script, not independent author or novel cases."
+  },
+  "no_new_general_solver": true,
+  "no_independent_whole_workflow_acceptance": true
+}

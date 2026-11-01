@@ -1,0 +1,28 @@
+{
+  "parent_verified_utc": "2026-10-23T23:29:18.141373+00:00",
+  "arm": "candidate",
+  "author_reported_complete_utc": "2026-10-23T23:20:45.627229+00:00",
+  "author_elapsed_minutes": 38.61284138333333,
+  "deadline_utc": "2026-10-23T23:57:08.856746+00:00",
+  "parent_observed_deliverables_before_original_deadline": true,
+  "final_pdf_sha256": "fcf73b2ce8243539ca06c3a090f5970a236405f6703573796abd0ea3650ca8ad",
+  "pages": 15,
+  "support_zip_sha256": "464ed3ad4d0c69fd185718ffec580205630940c31d238a0bd12b99537757304d",
+  "zip_members": 188,
+  "zip_manifest_payloads_verified": 187,
+  "zip_crc_pass": true,
+  "archive_first_snapshot_payloads_verified": 37,
+  "input_hashes_verified": {
+    "inputs/prompt.pdf": "e3b18419d2def36943cf8ec1e445a1223a6873f65add819d36e14ff0995740a1",
+    "inputs/prompt.txt": "dbbed095929ff38d3c1946a4ccace5fdb0f74c73c18849c7335e6daf57fe08f7",
+    "inputs/attachments/HiMCM_Olympic_Data.xlsx": "62b2318f6099fde55cdc617cbd33dcdfcbfec17184d10bcecdccefb53d3f970f"
+  },
+  "code_disk_hashes_verified": 5,
+  "declared_code_not_in_original_zip_copied_as_supplement": [],
+  "existing_same_path_archive_disk_matches": 165,
+  "existing_same_path_archive_disk_mismatches": [],
+  "critical_current_payload_mismatches": 0,
+  "certificate_sha256": "2f57761412d594c53ca522d078476b915ea4d890f90e6579a9d5d9b3888dc09b",
+  "forward_result_sha256": "2a1e59c2aff225902a0046c929eb6321c0cbbaca4bdfce4b04bc93794cbcc7a4",
+  "scope": "Parent hash/CRC/version/timing consistency verification, independent critics provide actual scientific scope; full author rerun was not rerun by parent. Original author ZIP/records unedited. Supplemental packager source added only if archive omitted it. No award/stability guarantee."
+}

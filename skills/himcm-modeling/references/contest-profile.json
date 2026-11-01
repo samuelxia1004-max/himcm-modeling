@@ -1,0 +1,58 @@
+{
+  "competition": "HiMCM",
+  "year": 2026,
+  "verified_on": "2026-10-12",
+  "status": "OFFICIAL_SNAPSHOT_REFRESH_BEFORE_LIVE_USE",
+  "problem_choices": [
+    "A",
+    "B"
+  ],
+  "language": "English",
+  "format": "PDF",
+  "summary_first": true,
+  "main_report_max_pages": 25,
+  "summary_pages": 1,
+  "references_count_in_main_limit": true,
+  "appendices_count_in_main_limit": true,
+  "ai_report_excluded_from_main_limit": true,
+  "minimum_font_pt": 12,
+  "maximum_file_bytes_conservative": 20000000,
+  "filename": "TEAM_CONTROL_NUMBER.pdf",
+  "anonymous": true,
+  "header_fields": [
+    "team_control_number",
+    "page_number"
+  ],
+  "submit_code_or_data_separately": false,
+  "submission_channel": "https://forms.comap.org/242386224483964",
+  "sources": [
+    {
+      "url": "https://www.contest.comap.org/highschool/contests/himcm/instructions.html",
+      "archive_path": "references/official/rules_2026.html",
+      "sha256": "5db10f048762f84b2688950cf03d10ebbfc6b78afd728029895974c9b2f30f0e"
+    },
+    {
+      "url": "https://www.contest.comap.org/undergraduate/contests/mcm/flyer/Contest_AI_Policy.pdf",
+      "archive_path": "references/official/AI_policy.pdf",
+      "sha256": "d6272d6aabeff5cccfcda0554277ed569db4e8f4d855e0dd24b8b2ecd9b32331"
+    }
+  ],
+  "deadline_timezone": "America/New_York",
+  "times": {
+    "opens": {
+      "America/New_York": "2026-11-04T15:00:00-05:00",
+      "Asia/Shanghai": "2026-11-05T04:00:00+08:00",
+      "UTC": "2026-11-04T20:00:00+00:00"
+    },
+    "stop_editing": {
+      "America/New_York": "2026-11-17T20:00:00-05:00",
+      "Asia/Shanghai": "2026-11-18T09:00:00+08:00",
+      "UTC": "2026-11-18T01:00:00+00:00"
+    },
+    "submit_by": {
+      "America/New_York": "2026-11-17T21:00:00-05:00",
+      "Asia/Shanghai": "2026-11-18T10:00:00+08:00",
+      "UTC": "2026-11-18T02:00:00+00:00"
+    }
+  }
+}

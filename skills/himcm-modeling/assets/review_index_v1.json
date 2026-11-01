@@ -1,0 +1,8 @@
+{
+  "schema": "himcm-review-index/v1",
+  "task_contract": {
+    "path": "artifacts/task_contract.v1.json",
+    "sha256": ""
+  },
+  "rounds": []
+}

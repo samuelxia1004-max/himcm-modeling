@@ -1,0 +1,1910 @@
+{
+  "schema_version": 1,
+  "created_date": "2026-10-12",
+  "task": "Thirteen selected nonclinical data-analysis method chains for HiMCM reference",
+  "reference_path": "references/nature-method-transfer.md",
+  "reference_sha256": "416fc6d51c4021d57f670064826d1829e08de59ba768f6f9a7dfb2a541ae1e17",
+  "direct_review_scope": {
+    "paper_count": 13,
+    "ids": [
+      "N008",
+      "N051",
+      "N064",
+      "N076",
+      "C025",
+      "R01",
+      "R06",
+      "R09",
+      "R15",
+      "R20",
+      "R28",
+      "R43",
+      "R50"
+    ],
+    "body_scope": "Specified current-PDF passages, including N008 in-file data/aggregation appendix and C025 in-file Extended Data Fig. 2. Separately linked supplements, raw datasets and source programs were not independently reviewed or run.",
+    "other_paper_bodies_read_in_this_subtask": false,
+    "all_231_full_text_read_claim": false
+  },
+  "background_library_scope": {
+    "independent_doi_count": 231,
+    "body_passages_reviewed_any_saved_version": 134,
+    "abstract_only": 97,
+    "base_card_sets": {
+      "himcm_evidence": 100,
+      "nature_core_additional": 80,
+      "grok_supplement": 51
+    },
+    "base_cards_body_passages": 130,
+    "base_cards_abstract_only": 101,
+    "supplemental_version_cards_for_existing_doi": 7,
+    "upgrades_from_abstract_to_body_passages": 4,
+    "counting_rule": "Deduplicate DOI; maximum documented reading depth across three base sets and seven existing-DOI supplementary version cards.",
+    "verification_level_in_this_subtask": "Metadata/card inventory and counts audited; other IDs body passages not reopened.",
+    "source_inventory_sha256": {
+      "outputs/himcm-evidence/literature/learning_cards.json": "aaeb82a38a06a6ae3d3b10d8d1521e5eeb5da28ebb971e902df736e5c3b4a6e2",
+      "outputs/nature-core-100/learning_cards.json": "30295359873314f2187a3d79552fdcedde3cb597c571e0644929e571b3cac5e3",
+      "outputs/grok-literature-supplement/learning_cards.json": "49ffcbd658ba69f1d9b5f8b7f771764ad0653e48d66056961d030544587f47f7",
+      "outputs/grok-literature-supplement/oa_learning_cards.json": "520de8736fb398c9e09bc7dfb232d877e3d8e05005be5868d17155ebf09dda7b",
+      "outputs/grok-literature-supplement/final_integration_audit.json": "77c8e4fe10e8f6f803237c97b93a996edd584639fe617df15af97718165711e1"
+    },
+    "source_inventory_sha256_at_original_review": {
+      "outputs/himcm-evidence/literature/learning_cards.json": "bf0bede02a37cc364687508050448611aff448d86b3ca99ad6dae772c2944011",
+      "outputs/nature-core-100/learning_cards.json": "30295359873314f2187a3d79552fdcedde3cb597c571e0644929e571b3cac5e3",
+      "outputs/grok-literature-supplement/learning_cards.json": "49ffcbd658ba69f1d9b5f8b7f771764ad0653e48d66056961d030544587f47f7",
+      "outputs/grok-literature-supplement/oa_learning_cards.json": "520de8736fb398c9e09bc7dfb232d877e3d8e05005be5868d17155ebf09dda7b",
+      "outputs/grok-literature-supplement/final_integration_audit.json": "77c8e4fe10e8f6f803237c97b93a996edd584639fe617df15af97718165711e1"
+    },
+    "original_inventory_snapshot_paths": {
+      "outputs/himcm-evidence/literature/learning_cards.json": "outputs/himcm-evidence/literature/learning_cards.pre-locator-correction.json"
+    }
+  },
+  "old_card_locator_discrepancies": [
+    {
+      "id": "N008",
+      "old_section": "数据来源",
+      "old_physical_pages": [
+        17,
+        17
+      ],
+      "current_physical_pages": [
+        20,
+        21,
+        22
+      ],
+      "exact_anchor": "Data on commuting trips between United States counties",
+      "exact_anchor_current_physical_page": 20,
+      "page_17_actual_content": "Figure 3 continuation caption for mobility, migrations, calls and commodity flows.",
+      "repair_required": "Use p20 for US commuting data paragraph and p20–22 for full Datasets chain.",
+      "repair_status": "APPLIED_TO_MAIN_LIBRARY_AND_ORIGINAL20_COPY",
+      "packaged_correction_ledger": "validation/library-locator-corrections.json"
+    }
+  ],
+  "old_locator_audit_result": "One detected anchor discrepancy (N008). Other old page anchors match. Full-section continuation pages and newly supplied physical locators are not counted as old excerpt errors.",
+  "source_internal_issues": [
+    {
+      "id": "R28",
+      "issue": "Runoff averaging period differs inside current PDF",
+      "locations": [
+        {
+          "physical_page": 5,
+          "statement": "2005–2014 for seasonal monthly-average runoff"
+        },
+        {
+          "physical_page": 8,
+          "statement": "2005–2015 for monthly/yearly averages"
+        }
+      ],
+      "handling": "Preserve both; resolve source data/code before reproduction."
+    },
+    {
+      "id": "R50",
+      "issue": "112-km threshold differs between narrative and other representations",
+      "locations": [
+        {
+          "physical_page": 3,
+          "statement": "Narrative approximately 23%"
+        },
+        {
+          "physical_page": 4,
+          "statement": "Threshold D >=27.5%"
+        },
+        {
+          "physical_page": 1,
+          "statement": "Abstract 25–30%"
+        }
+      ],
+      "handling": "Reference gives scale-dependent range plus discrepancy."
+    },
+    {
+      "id": "R43",
+      "issue": "2016 labeled coverage with reported 8760-hour sequence",
+      "locations": [
+        {
+          "physical_pages": [
+            7,
+            8
+          ],
+          "statement": "Source reports 2016 and 8760 hours"
+        }
+      ],
+      "handling": "Preserve coverage statement; inspect original timestamps before complete-calendar claims."
+    },
+    {
+      "id": "R28",
+      "issue": "MPW rate unit labels differ between method/table and flowchart",
+      "locations": [
+        {
+          "physical_pages": [
+            7,
+            8
+          ],
+          "statement": "Method and Table 4 use t/year; Figure 4 labels kg/day"
+        }
+      ],
+      "handling": "Keep fitted k tied to the exact input rate unit; convert k or refit when changing unit."
+    }
+  ],
+  "papers": [
+    {
+      "id": "N008",
+      "exact_original_title": "A universal model for mobility and migration patterns",
+      "doi": "10.1038/nature10856",
+      "publisher_url": "https://www.nature.com/articles/nature10856",
+      "version": "OA_REPOSITORY_SUBMITTED_VERSION",
+      "version_evidence": "N008既有仓储来源记录为submittedVersion，封面未显示可核验arXiv修订号；未验证与发表版逐字一致。",
+      "source_card": "outputs/himcm-evidence/literature/learning_cards.pre-locator-correction.json",
+      "source_card_sha256": "bf0bede02a37cc364687508050448611aff448d86b3ca99ad6dae772c2944011",
+      "pdf_path": "outputs/himcm-evidence/literature/pdf/N008_oa.pdf",
+      "pdf_sha256": "73feaa4f125feb7bab15bdcf5076925c271f5feeb3027a98c6e928fc24a7e88f",
+      "pdf_page_count": 45,
+      "existing_extracted_text_path": "outputs/himcm-evidence/literature/text/N008_oa.txt",
+      "existing_extracted_text_sha256": "f4037451c2dd33e0cd001789e02189706c8f0820cf06af6415ba8774535838d5",
+      "direct_review_modality": [
+        "EXTRACTED_CURRENT_PDF_TEXT"
+      ],
+      "physical_page_numbering": "ONE_BASED_CURRENT_FILE_SEQUENCE_INCLUDING_APPENDICES",
+      "substantive_passage_pages_reviewed": [
+        1,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        17,
+        20,
+        21,
+        22,
+        31,
+        32
+      ],
+      "scope": "Specified data, processing, mechanism/fitting, validation, uncertainty/limitation and decision-output passages. Title and locator-check pages are included. No whole-document close-reading claim.",
+      "whole_document_close_reading": false,
+      "data_or_source_code_reexecuted": false,
+      "reviewed_sections": [
+        {
+          "section_or_passage": "Job-selection mechanism and radiation flux",
+          "physical_pages": [
+            4,
+            5
+          ],
+          "directly_checked_content": "人口代理、介入机会、总流出和解析流量"
+        },
+        {
+          "section_or_passage": "Commuting validation and cross-source comparisons",
+          "physical_pages": [
+            6,
+            7,
+            8,
+            9
+          ],
+          "directly_checked_content": "流量/距离/目的地分布及本县优势扩展"
+        },
+        {
+          "section_or_passage": "Figure 3 continuation caption",
+          "physical_pages": [
+            17
+          ],
+          "directly_checked_content": "旧卡数据定位实为图注"
+        },
+        {
+          "section_or_passage": "1 Datasets: US commuting / US migrations / US Commodity flow / Mobile phone database / Call patterns",
+          "physical_pages": [
+            20,
+            21,
+            22
+          ],
+          "directly_checked_content": "通勤34116820人3141县；小时市镇OD聚合"
+        },
+        {
+          "section_or_passage": "Spatial aggregation and gravity fit error",
+          "physical_pages": [
+            31,
+            32
+          ],
+          "directly_checked_content": "等人口选区与等面积网格；对数误差1.43与0.96"
+        }
+      ],
+      "old_card_locator_audit": [
+        {
+          "old_section": "Abstract",
+          "old_subsection": null,
+          "old_physical_pages": null,
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": null,
+          "status": "NO_OLD_PHYSICAL_PAGE_LOCATOR"
+        },
+        {
+          "old_section": "模型构造",
+          "old_subsection": null,
+          "old_physical_pages": [
+            4,
+            5
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            4,
+            5
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "验证比较",
+          "old_subsection": null,
+          "old_physical_pages": [
+            6,
+            7
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            6,
+            7
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "假设与空间背景",
+          "old_subsection": null,
+          "old_physical_pages": [
+            8,
+            8
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            8
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "数据来源",
+          "old_subsection": null,
+          "old_physical_pages": [
+            17,
+            17
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            20,
+            21,
+            22
+          ],
+          "status": "LOCATOR_DISCREPANCY"
+        },
+        {
+          "old_section": "附录拟合检查",
+          "old_subsection": null,
+          "old_physical_pages": [
+            32,
+            32
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            31,
+            32
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        }
+      ],
+      "source_card_original_path": "outputs/himcm-evidence/literature/learning_cards.json",
+      "current_source_card": "outputs/himcm-evidence/literature/learning_cards.json",
+      "current_source_card_sha256": "aaeb82a38a06a6ae3d3b10d8d1521e5eeb5da28ebb971e902df736e5c3b4a6e2"
+    },
+    {
+      "id": "N051",
+      "exact_original_title": "Model structures amplify uncertainty in predicted soil carbon responses to climate change",
+      "doi": "10.1038/s41467-018-04526-9",
+      "publisher_url": "https://www.nature.com/articles/s41467-018-04526-9",
+      "version": "PUBLISHER_VERSION_OF_RECORD",
+      "version_evidence": "当前PDF期刊出版页/DOI标题，结合原卡来源版本记录。",
+      "source_card": "outputs/himcm-evidence/literature/learning_cards.pre-locator-correction.json",
+      "source_card_sha256": "bf0bede02a37cc364687508050448611aff448d86b3ca99ad6dae772c2944011",
+      "pdf_path": "outputs/himcm-evidence/literature/pdf/N051.pdf",
+      "pdf_sha256": "661a9b4ec7d2f1a636b13a8267165644e75090409aa90da54fe0190d422344cb",
+      "pdf_page_count": 11,
+      "existing_extracted_text_path": "outputs/himcm-evidence/literature/text/N051.txt",
+      "existing_extracted_text_sha256": "7f5f640bd8bc73c24f5a9d8ff4dd19d17d77622ea2c2bec24709e0135e96b5a5",
+      "direct_review_modality": [
+        "EXTRACTED_CURRENT_PDF_TEXT"
+      ],
+      "physical_page_numbering": "ONE_BASED_CURRENT_FILE_SEQUENCE_INCLUDING_APPENDICES",
+      "substantive_passage_pages_reviewed": [
+        1,
+        3,
+        4,
+        7,
+        8,
+        9,
+        10
+      ],
+      "scope": "Specified data, processing, mechanism/fitting, validation, uncertainty/limitation and decision-output passages. Title and locator-check pages are included. No whole-document close-reading claim.",
+      "whole_document_close_reading": false,
+      "data_or_source_code_reexecuted": false,
+      "reviewed_sections": [
+        {
+          "section_or_passage": "Posterior distribution of model parameters / Steady states in soil carbon stock",
+          "physical_pages": [
+            3,
+            4
+          ],
+          "directly_checked_content": "后验约束与同源观测空间偏差"
+        },
+        {
+          "section_or_passage": "Uncertainties in soil carbon projections",
+          "physical_pages": [
+            4
+          ],
+          "directly_checked_content": "1000后验参数组及三结构的符号/区间差异"
+        },
+        {
+          "section_or_passage": "Discussion / Models / Solutions for steady-state estimation",
+          "physical_pages": [
+            7,
+            8,
+            9
+          ],
+          "directly_checked_content": "稳态、土深、默认修正与模型结构"
+        },
+        {
+          "section_or_passage": "Datasets / Model-data fusion / Projection in soil carbon under RCP 8.5 / Convergence of MCMC",
+          "physical_pages": [
+            9,
+            10
+          ],
+          "directly_checked_content": "保守重网格、先验、MH、步长、G-R检查"
+        }
+      ],
+      "old_card_locator_audit": [
+        {
+          "old_section": "Abstract",
+          "old_subsection": null,
+          "old_physical_pages": null,
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": null,
+          "status": "NO_OLD_PHYSICAL_PAGE_LOCATOR"
+        },
+        {
+          "old_section": "Results",
+          "old_subsection": "Posterior distribution of model parameters",
+          "old_physical_pages": null,
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            3
+          ],
+          "status": "NO_OLD_PHYSICAL_PAGE_LOCATOR"
+        },
+        {
+          "old_section": "Results",
+          "old_subsection": "Uncertainties in soil carbon projections",
+          "old_physical_pages": null,
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            4
+          ],
+          "status": "NO_OLD_PHYSICAL_PAGE_LOCATOR"
+        }
+      ],
+      "source_card_original_path": "outputs/himcm-evidence/literature/learning_cards.json",
+      "current_source_card": "outputs/himcm-evidence/literature/learning_cards.json",
+      "current_source_card_sha256": "aaeb82a38a06a6ae3d3b10d8d1521e5eeb5da28ebb971e902df736e5c3b4a6e2"
+    },
+    {
+      "id": "N064",
+      "exact_original_title": "Learning about climate change uncertainty enables flexible water infrastructure planning",
+      "doi": "10.1038/s41467-019-09677-x",
+      "publisher_url": "https://www.nature.com/articles/s41467-019-09677-x",
+      "version": "PUBLISHER_VERSION_OF_RECORD",
+      "version_evidence": "当前PDF期刊出版页/DOI标题，结合原卡来源版本记录。",
+      "source_card": "outputs/himcm-evidence/literature/learning_cards.pre-locator-correction.json",
+      "source_card_sha256": "bf0bede02a37cc364687508050448611aff448d86b3ca99ad6dae772c2944011",
+      "pdf_path": "outputs/himcm-evidence/literature/pdf/N064.pdf",
+      "pdf_sha256": "e4b483e63267a181931d2d0e5e15177a506d249dd38256edf21676a8b3490a42",
+      "pdf_page_count": 11,
+      "existing_extracted_text_path": "outputs/himcm-evidence/literature/text/N064.txt",
+      "existing_extracted_text_sha256": "87d05dcb6bd2a246cbc8b1b3848c006b348ba6e6f21ffefb091219b8d3137b31",
+      "direct_review_modality": [
+        "EXTRACTED_CURRENT_PDF_TEXT"
+      ],
+      "physical_page_numbering": "ONE_BASED_CURRENT_FILE_SEQUENCE_INCLUDING_APPENDICES",
+      "substantive_passage_pages_reviewed": [
+        1,
+        2,
+        4,
+        7,
+        8,
+        9,
+        10
+      ],
+      "scope": "Specified data, processing, mechanism/fitting, validation, uncertainty/limitation and decision-output passages. Title and locator-check pages are included. No whole-document close-reading claim.",
+      "whole_document_close_reading": false,
+      "data_or_source_code_reexecuted": false,
+      "reviewed_sections": [
+        {
+          "section_or_passage": "Planning framework and scenarios / Bayesian learning about climate change uncertainty",
+          "physical_pages": [
+            2,
+            4
+          ],
+          "directly_checked_content": "Mombasa设施方案、虚拟气候观测及策略"
+        },
+        {
+          "section_or_passage": "Discussion / Bayesian modeling of climate change uncertainty",
+          "physical_pages": [
+            7,
+            8,
+            9
+          ],
+          "directly_checked_content": "20年窗、模型权重、Gibbs与独立/Markov假设"
+        },
+        {
+          "section_or_passage": "Estimating transition probabilities / Stochastic dynamic programming",
+          "physical_pages": [
+            9,
+            10
+          ],
+          "directly_checked_content": "Monte Carlo转移、状态动作、Bellman目标"
+        },
+        {
+          "section_or_passage": "Stochastic weather generation / Rainfall-runoff model / Infrastructure costs and operations",
+          "physical_pages": [
+            10
+          ],
+          "directly_checked_content": "100条天气路径、14年径流校准与固定设施运行"
+        }
+      ],
+      "old_card_locator_audit": [
+        {
+          "old_section": "Abstract",
+          "old_subsection": null,
+          "old_physical_pages": null,
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": null,
+          "status": "NO_OLD_PHYSICAL_PAGE_LOCATOR"
+        },
+        {
+          "old_section": "Results",
+          "old_subsection": "Planning framework and scenarios",
+          "old_physical_pages": null,
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            2,
+            4
+          ],
+          "status": "NO_OLD_PHYSICAL_PAGE_LOCATOR"
+        },
+        {
+          "old_section": "Results",
+          "old_subsection": "Bayesian learning about climate change uncertainty",
+          "old_physical_pages": null,
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            4
+          ],
+          "status": "NO_OLD_PHYSICAL_PAGE_LOCATOR"
+        }
+      ],
+      "source_card_original_path": "outputs/himcm-evidence/literature/learning_cards.json",
+      "current_source_card": "outputs/himcm-evidence/literature/learning_cards.json",
+      "current_source_card_sha256": "aaeb82a38a06a6ae3d3b10d8d1521e5eeb5da28ebb971e902df736e5c3b4a6e2"
+    },
+    {
+      "id": "N076",
+      "exact_original_title": "Multi-year field measurements of home storage systems and their use in capacity estimation",
+      "doi": "10.1038/s41560-024-01620-9",
+      "publisher_url": "https://www.nature.com/articles/s41560-024-01620-9",
+      "version": "PUBLISHER_VERSION_OF_RECORD",
+      "version_evidence": "当前PDF期刊出版页/DOI标题，结合原卡来源版本记录。",
+      "source_card": "outputs/himcm-evidence/literature/learning_cards.pre-locator-correction.json",
+      "source_card_sha256": "bf0bede02a37cc364687508050448611aff448d86b3ca99ad6dae772c2944011",
+      "pdf_path": "outputs/himcm-evidence/literature/pdf/N076.pdf",
+      "pdf_sha256": "2acd547311aeeffbe704eb2a9517414336461a2d663f5723b122a9f14f8abde2",
+      "pdf_page_count": 10,
+      "existing_extracted_text_path": "outputs/himcm-evidence/literature/text/N076.txt",
+      "existing_extracted_text_sha256": "47802602d657e5973bf6e680103c657bf8b77fb866baef9e61eee5e4936a7fca",
+      "direct_review_modality": [
+        "EXTRACTED_CURRENT_PDF_TEXT"
+      ],
+      "physical_page_numbering": "ONE_BASED_CURRENT_FILE_SEQUENCE_INCLUDING_APPENDICES",
+      "substantive_passage_pages_reviewed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "scope": "Specified data, processing, mechanism/fitting, validation, uncertainty/limitation and decision-output passages. Title and locator-check pages are included. No whole-document close-reading claim.",
+      "whole_document_close_reading": false,
+      "data_or_source_code_reexecuted": false,
+      "reviewed_sections": [
+        {
+          "section_or_passage": "Dataset of 21 home storage systems over 8 years / Field operation",
+          "physical_pages": [
+            2,
+            3
+          ],
+          "directly_checked_content": "21系统/106系统年/秒级数据、缺口和运行分布"
+        },
+        {
+          "section_or_passage": "Field capacity tests for method validation",
+          "physical_pages": [
+            3,
+            4
+          ],
+          "directly_checked_content": "60次现场满充/最大功率放电容量测试"
+        },
+        {
+          "section_or_passage": "Capacity estimation based on operational data",
+          "physical_pages": [
+            4,
+            5,
+            6
+          ],
+          "directly_checked_content": "端点、OCV、闭环积分、偏置校正、75%点分布带"
+        },
+        {
+          "section_or_passage": "Battery model and relaxation phase detection / SOC calculation and current correction / SOH calculation",
+          "physical_pages": [
+            6,
+            7
+          ],
+          "directly_checked_content": "二阶RC松弛、库仑积分、容量与名义容量比例"
+        }
+      ],
+      "old_card_locator_audit": [
+        {
+          "old_section": "Abstract",
+          "old_subsection": null,
+          "old_physical_pages": null,
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": null,
+          "status": "NO_OLD_PHYSICAL_PAGE_LOCATOR"
+        },
+        {
+          "old_section": "Methods",
+          "old_subsection": "Battery model and relaxation phase detection",
+          "old_physical_pages": null,
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            6
+          ],
+          "status": "NO_OLD_PHYSICAL_PAGE_LOCATOR"
+        },
+        {
+          "old_section": "Main",
+          "old_subsection": "Main",
+          "old_physical_pages": null,
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "status": "NO_OLD_PHYSICAL_PAGE_LOCATOR"
+        },
+        {
+          "old_section": "Methods",
+          "old_subsection": null,
+          "old_physical_pages": null,
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            6,
+            7
+          ],
+          "status": "NO_OLD_PHYSICAL_PAGE_LOCATOR"
+        }
+      ],
+      "source_card_original_path": "outputs/himcm-evidence/literature/learning_cards.json",
+      "current_source_card": "outputs/himcm-evidence/literature/learning_cards.json",
+      "current_source_card_sha256": "aaeb82a38a06a6ae3d3b10d8d1521e5eeb5da28ebb971e902df736e5c3b4a6e2"
+    },
+    {
+      "id": "C025",
+      "exact_original_title": "Human mobility networks reveal increased segregation in large cities",
+      "doi": "10.1038/s41586-023-06757-3",
+      "publisher_url": "https://www.nature.com/articles/s41586-023-06757-3",
+      "version": "PUBLISHER_VERSION_OF_RECORD",
+      "version_evidence": "当前PDF期刊出版页/DOI标题，结合原卡来源版本记录。",
+      "source_card": "outputs/nature-core-100/learning_cards.json",
+      "source_card_sha256": "30295359873314f2187a3d79552fdcedde3cb597c571e0644929e571b3cac5e3",
+      "pdf_path": "outputs/nature-core-100/pdf/C025.pdf",
+      "pdf_sha256": "a543f796325ccaafefa6dd394922d38d77f2f5ea0297d88a5724b0412bc389d1",
+      "pdf_page_count": 26,
+      "existing_extracted_text_path": "outputs/nature-core-100/text/C025.txt",
+      "existing_extracted_text_sha256": "239f2996b5d2f959808d78893790dd29f541f4516ff5e5ea619366206b23cc84",
+      "direct_review_modality": [
+        "EXTRACTED_CURRENT_PDF_TEXT"
+      ],
+      "physical_page_numbering": "ONE_BASED_CURRENT_FILE_SEQUENCE_INCLUDING_APPENDICES",
+      "substantive_passage_pages_reviewed": [
+        1,
+        3,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11,
+        12,
+        14
+      ],
+      "scope": "Specified data, processing, mechanism/fitting, validation, uncertainty/limitation and decision-output passages. Title and locator-check pages are included. No whole-document close-reading claim.",
+      "whole_document_close_reading": false,
+      "data_or_source_code_reexecuted": false,
+      "reviewed_sections": [
+        {
+          "section_or_passage": "Main results / Discussion",
+          "physical_pages": [
+            3,
+            5,
+            6
+          ],
+          "directly_checked_content": "暴露与桥接关联；邻近、租金及手机覆盖局限"
+        },
+        {
+          "section_or_passage": "Datasets: SafeGraph / CoreLogic / Zillow / US census / TIGER",
+          "physical_pages": [
+            8,
+            9
+          ],
+          "directly_checked_content": "91755502原用户到9567559有效用户的联结/筛选"
+        },
+        {
+          "section_or_passage": "Inferring home location / Inferring SES / Constructing the exposure network / Annotating exposures",
+          "physical_pages": [
+            9,
+            10
+          ],
+          "directly_checked_content": "小时插值、夜间静止阈值、去重/截尾与时空k-d树"
+        },
+        {
+          "section_or_passage": "Exposure segregation / Estimating exposure segregation / Bridging index / Hypothesis testing",
+          "physical_pages": [
+            10,
+            11,
+            12
+          ],
+          "directly_checked_content": "REML混合模型、最近枢纽Gini、10000bootstrap、未调整多重比较"
+        },
+        {
+          "section_or_passage": "Extended Data Fig. 2",
+          "physical_pages": [
+            14
+          ],
+          "directly_checked_content": "Facebook/代际流动外部关联"
+        }
+      ],
+      "old_card_locator_audit": [
+        {
+          "old_section": "Abstract",
+          "old_subsection": null,
+          "old_physical_pages": null,
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": null,
+          "status": "NO_OLD_PHYSICAL_PAGE_LOCATOR"
+        },
+        {
+          "old_section": "Methods",
+          "old_subsection": "SafeGraph",
+          "old_physical_pages": null,
+          "old_html_paragraph_index": 10,
+          "current_section_physical_pages": [
+            8
+          ],
+          "status": "NO_OLD_PHYSICAL_PAGE_LOCATOR"
+        },
+        {
+          "old_section": "Methods",
+          "old_subsection": "Constructing the exposure network",
+          "old_physical_pages": null,
+          "old_html_paragraph_index": 30,
+          "current_section_physical_pages": [
+            9,
+            10
+          ],
+          "status": "NO_OLD_PHYSICAL_PAGE_LOCATOR"
+        },
+        {
+          "old_section": "Methods",
+          "old_subsection": "Inferring home location",
+          "old_physical_pages": null,
+          "old_html_paragraph_index": 24,
+          "current_section_physical_pages": [
+            9
+          ],
+          "status": "NO_OLD_PHYSICAL_PAGE_LOCATOR"
+        },
+        {
+          "old_section": "Discussion",
+          "old_subsection": "Discussion",
+          "old_physical_pages": null,
+          "old_html_paragraph_index": 6,
+          "current_section_physical_pages": [
+            6
+          ],
+          "status": "NO_OLD_PHYSICAL_PAGE_LOCATOR"
+        }
+      ]
+    },
+    {
+      "id": "R01",
+      "exact_original_title": "Regional impacts of electricity system transition in Central Europe until 2035",
+      "doi": "10.1038/s41467-020-18812-y",
+      "publisher_url": "https://www.nature.com/articles/s41467-020-18812-y",
+      "version": "PUBLISHER_VERSION_OF_RECORD",
+      "version_evidence": "当前PDF期刊出版页/DOI标题，结合原卡来源版本记录。",
+      "source_card": "outputs/grok-literature-supplement/learning_cards.json",
+      "source_card_sha256": "49ffcbd658ba69f1d9b5f8b7f771764ad0653e48d66056961d030544587f47f7",
+      "pdf_path": "outputs/grok-literature-supplement/pdf/R01_Regional_impacts_of_electricity_system_t.pdf",
+      "pdf_sha256": "88fc218f9e35a205f77e30ed61858b1a1d675a32176a9af081960cc75e473f3d",
+      "pdf_page_count": 14,
+      "existing_extracted_text_path": "outputs/grok-literature-supplement/text/R01.txt",
+      "existing_extracted_text_sha256": "82fc0a3d73718c1777fd86a53a3e1ad6eacc999c1ed92d7da508609156c7c60b",
+      "direct_review_modality": [
+        "EXTRACTED_CURRENT_PDF_TEXT"
+      ],
+      "physical_page_numbering": "ONE_BASED_CURRENT_FILE_SEQUENCE_INCLUDING_APPENDICES",
+      "substantive_passage_pages_reviewed": [
+        1,
+        2,
+        9,
+        10,
+        11,
+        12
+      ],
+      "scope": "Specified data, processing, mechanism/fitting, validation, uncertainty/limitation and decision-output passages. Title and locator-check pages are included. No whole-document close-reading claim.",
+      "whole_document_close_reading": false,
+      "data_or_source_code_reexecuted": false,
+      "reviewed_sections": [
+        {
+          "section_or_passage": "Overall scenario ranges of system infrastructure and impacts / Discussion",
+          "physical_pages": [
+            2,
+            9,
+            10
+          ],
+          "directly_checked_content": "MGA范围、成本/平等/可再生权衡及四类边界"
+        },
+        {
+          "section_or_passage": "Modeling approach / Soft-linked EXANSE-PyPSA model",
+          "physical_pages": [
+            10,
+            11
+          ],
+          "directly_checked_content": "650区域年度100近优布局到100节点小时运行"
+        },
+        {
+          "section_or_passage": "Input data and assumptions / Definitions of distinct scenarios",
+          "physical_pages": [
+            11,
+            12
+          ],
+          "directly_checked_content": "需求分摊、当前设备、资源/成本与101方案"
+        },
+        {
+          "section_or_passage": "Evaluating regional impacts and regional equality",
+          "physical_pages": [
+            12
+          ],
+          "directly_checked_content": "直接影响因子、分母和1-Gini"
+        }
+      ],
+      "old_card_locator_audit": [
+        {
+          "old_section": "Abstract",
+          "old_subsection": null,
+          "old_physical_pages": [
+            1
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            1
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Results; Overall scenario ranges of system infrastructure and impacts",
+          "old_subsection": null,
+          "old_physical_pages": [
+            2
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            2
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Discussion",
+          "old_subsection": null,
+          "old_physical_pages": [
+            9,
+            10
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            9,
+            10
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Methods; Modeling approach; Soft-linked EXANSE-PyPSA model; Input data and assumptions",
+          "old_subsection": null,
+          "old_physical_pages": [
+            10,
+            11
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            10,
+            11
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Evaluating regional impacts and regional equality",
+          "old_subsection": null,
+          "old_physical_pages": [
+            12
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            12
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        }
+      ]
+    },
+    {
+      "id": "R06",
+      "exact_original_title": "Traffic light optimization with low penetration rate vehicle trajectory data",
+      "doi": "10.1038/s41467-024-45427-4",
+      "publisher_url": "https://www.nature.com/articles/s41467-024-45427-4",
+      "version": "PUBLISHER_VERSION_OF_RECORD",
+      "version_evidence": "当前PDF期刊出版页/DOI标题，结合原卡来源版本记录。",
+      "source_card": "outputs/grok-literature-supplement/learning_cards.json",
+      "source_card_sha256": "49ffcbd658ba69f1d9b5f8b7f771764ad0653e48d66056961d030544587f47f7",
+      "pdf_path": "outputs/grok-literature-supplement/pdf/R06_Traffic_light_optimization_with_low_pene.pdf",
+      "pdf_sha256": "ddf8fe482b13461ef50add7ab5ab2683202cec8bb2f33516b26f596c8d0c8e01",
+      "pdf_page_count": 14,
+      "existing_extracted_text_path": "outputs/grok-literature-supplement/text/R06.txt",
+      "existing_extracted_text_sha256": "ebb7ff274500a36872d3b82d99f21106ed1c21023b361d2caf4ea58b3042b884",
+      "direct_review_modality": [
+        "EXTRACTED_CURRENT_PDF_TEXT"
+      ],
+      "physical_page_numbering": "ONE_BASED_CURRENT_FILE_SEQUENCE_INCLUDING_APPENDICES",
+      "substantive_passage_pages_reviewed": [
+        1,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "scope": "Specified data, processing, mechanism/fitting, validation, uncertainty/limitation and decision-output passages. Title and locator-check pages are included. No whole-document close-reading claim.",
+      "whole_document_close_reading": false,
+      "data_or_source_code_reexecuted": false,
+      "reviewed_sections": [
+        {
+          "section_or_passage": "Historical trajectory pooling / Reconstructed state validation",
+          "physical_pages": [
+            5,
+            6
+          ],
+          "directly_checked_content": "周期对齐、校准图一致性IoU69.92%"
+        },
+        {
+          "section_or_passage": "Field implementation results / Discussion",
+          "physical_pages": [
+            7,
+            8,
+            9
+          ],
+          "directly_checked_content": "34路口、三周工作日实施前后；每路口轨迹分母"
+        },
+        {
+          "section_or_passage": "Discrete approximation, stochastic point-queue model, and PTS diagram / Traffic state and parameter estimation",
+          "physical_pages": [
+            9,
+            10,
+            11
+          ],
+          "directly_checked_content": "Bernoulli到达、平均欠饱和、矩法延误匹配渗透率"
+        },
+        {
+          "section_or_passage": "Traffic signal optimization",
+          "physical_pages": [
+            11
+          ],
+          "directly_checked_content": "延误+停车目标、坐标下降与梯度更新"
+        },
+        {
+          "section_or_passage": "Vehicle trajectories, map, and signal timing data",
+          "physical_pages": [
+            12
+          ],
+          "directly_checked_content": "GM轨迹、地图匹配、SPaT、3/31与4/1安装日期"
+        }
+      ],
+      "old_card_locator_audit": [
+        {
+          "old_section": "Abstract",
+          "old_subsection": null,
+          "old_physical_pages": [
+            1
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            1
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Field implementation results",
+          "old_subsection": null,
+          "old_physical_pages": [
+            7,
+            8
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            7,
+            8
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Discussion",
+          "old_subsection": null,
+          "old_physical_pages": [
+            8,
+            9
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            8,
+            9
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Methods; Discrete approximation, stochastic point-queue model, and PTS diagram",
+          "old_subsection": null,
+          "old_physical_pages": [
+            9
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            9,
+            10
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Traffic signal optimization",
+          "old_subsection": null,
+          "old_physical_pages": [
+            11
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            11
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Vehicle trajectories, map, and signal timing data",
+          "old_subsection": null,
+          "old_physical_pages": [
+            12
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            12
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        }
+      ]
+    },
+    {
+      "id": "R09",
+      "exact_original_title": "Ecosystem-based fisheries management forestalls climate-driven collapse",
+      "doi": "10.1038/s41467-020-18300-3",
+      "publisher_url": "https://www.nature.com/articles/s41467-020-18300-3",
+      "version": "PUBLISHER_VERSION_OF_RECORD",
+      "version_evidence": "当前PDF期刊出版页/DOI标题，结合原卡来源版本记录。",
+      "source_card": "outputs/grok-literature-supplement/learning_cards.json",
+      "source_card_sha256": "49ffcbd658ba69f1d9b5f8b7f771764ad0653e48d66056961d030544587f47f7",
+      "pdf_path": "outputs/grok-literature-supplement/pdf/R09_Ecosystem_based_fisheries_management_for.pdf",
+      "pdf_sha256": "6ce0b1391de7d0d8a30e9ea71b68d2a5eb26954a65cebd47e70aa5826573722e",
+      "pdf_page_count": 10,
+      "existing_extracted_text_path": "outputs/grok-literature-supplement/text/R09.txt",
+      "existing_extracted_text_sha256": "79ebeea94db4a7c62e2331e9286186c286a10cd0495e03754ad121f0eeaeb4fd",
+      "direct_review_modality": [
+        "EXTRACTED_CURRENT_PDF_TEXT"
+      ],
+      "physical_page_numbering": "ONE_BASED_CURRENT_FILE_SEQUENCE_INCLUDING_APPENDICES",
+      "substantive_passage_pages_reviewed": [
+        1,
+        3,
+        6,
+        7,
+        8,
+        9
+      ],
+      "scope": "Specified data, processing, mechanism/fitting, validation, uncertainty/limitation and decision-output passages. Title and locator-check pages are included. No whole-document close-reading claim.",
+      "whole_document_close_reading": false,
+      "data_or_source_code_reexecuted": false,
+      "reviewed_sections": [
+        {
+          "section_or_passage": "Results / Discussion",
+          "physical_pages": [
+            3,
+            6,
+            7
+          ],
+          "directly_checked_content": "资源/渔获未来情景；短期稳定与后期衰退、独立资源预警"
+        },
+        {
+          "section_or_passage": "Regionally-downscaled climate change projections / Climate-enhanced multispecies stock assessment model / Evaluation of harvest management approaches",
+          "physical_pages": [
+            7
+          ],
+          "directly_checked_content": "气候delta校正、惩罚似然、省略观测/估计误差"
+        },
+        {
+          "section_or_passage": "Determine the annual ABC / Simulate TAC / Simulate annual harvest (catch)",
+          "physical_pages": [
+            8
+          ],
+          "directly_checked_content": "资源到ABC到TAC到渔获反馈；ATTACH逐年留一证据"
+        },
+        {
+          "section_or_passage": "Evaluating management performance and risk / Threshold and tipping point analysis",
+          "physical_pages": [
+            8,
+            9
+          ],
+          "directly_checked_content": "10/50/80%风险阈值、100/30重复与GAMbootstrap"
+        }
+      ],
+      "old_card_locator_audit": [
+        {
+          "old_section": "Abstract",
+          "old_subsection": null,
+          "old_physical_pages": [
+            1
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            1
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Results; Projected changes in environmental conditions; Projected changes in unfished spawning biomass; Effect of the EBFM 2 MT cap on projected catch",
+          "old_subsection": null,
+          "old_physical_pages": [
+            3
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            3
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Discussion",
+          "old_subsection": null,
+          "old_physical_pages": [
+            6,
+            7
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            6,
+            7
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Methods; Regionally-downscaled climate change projections; Climate-enhanced multispecies stock assessment model; Evaluation of harvest management approaches",
+          "old_subsection": null,
+          "old_physical_pages": [
+            7
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            7
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Determine the annual ABC",
+          "old_subsection": null,
+          "old_physical_pages": [
+            8
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            8
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        }
+      ]
+    },
+    {
+      "id": "R15",
+      "exact_original_title": "A Deep Gravity model for mobility flows generation",
+      "doi": "10.1038/s41467-021-26752-4",
+      "publisher_url": "https://www.nature.com/articles/s41467-021-26752-4",
+      "version": "PUBLISHER_VERSION_OF_RECORD",
+      "version_evidence": "当前PDF期刊出版页/DOI标题，结合原卡来源版本记录。",
+      "source_card": "outputs/grok-literature-supplement/learning_cards.json",
+      "source_card_sha256": "49ffcbd658ba69f1d9b5f8b7f771764ad0653e48d66056961d030544587f47f7",
+      "pdf_path": "outputs/grok-literature-supplement/pdf/R15_A_Deep_Gravity_model_for_mobility_flows_.pdf",
+      "pdf_sha256": "ccb6eaba94606d1af9cc1a615178a983557ceecb81424cbe41ee9bb29fe8e006",
+      "pdf_page_count": 13,
+      "existing_extracted_text_path": "outputs/grok-literature-supplement/text/R15.txt",
+      "existing_extracted_text_sha256": "466568763a2d70b2b7bbe0e1358b5ec82682d6392e1a5d536550c97b867a6f60",
+      "direct_review_modality": [
+        "EXTRACTED_CURRENT_PDF_TEXT"
+      ],
+      "physical_page_numbering": "ONE_BASED_CURRENT_FILE_SEQUENCE_INCLUDING_APPENDICES",
+      "substantive_passage_pages_reviewed": [
+        1,
+        3,
+        4,
+        5,
+        8,
+        9,
+        10,
+        11
+      ],
+      "scope": "Specified data, processing, mechanism/fitting, validation, uncertainty/limitation and decision-output passages. Title and locator-check pages are included. No whole-document close-reading claim.",
+      "whole_document_close_reading": false,
+      "data_or_source_code_reexecuted": false,
+      "reviewed_sections": [
+        {
+          "section_or_passage": "Derivation of Deep Gravity / Architecture of Deep Gravity",
+          "physical_pages": [
+            3,
+            4
+          ],
+          "directly_checked_content": "约束重力、已知起点总流出、39输入/15隐藏层"
+        },
+        {
+          "section_or_passage": "Training / Experiments",
+          "physical_pages": [
+            5
+          ],
+          "directly_checked_content": "交叉熵、负采样、G/NG/MFG基线"
+        },
+        {
+          "section_or_passage": "Geographic transferability / Explaining generated flows",
+          "physical_pages": [
+            8,
+            9
+          ],
+          "directly_checked_content": "五次分区与英国整城留出；SHAP关联解释"
+        },
+        {
+          "section_or_passage": "Regions of interest / Locations / Location features / Mobility flows",
+          "physical_pages": [
+            10,
+            11
+          ],
+          "directly_checked_content": "2011普查/手机流、OSM面积标准化、同方格OD"
+        }
+      ],
+      "old_card_locator_audit": [
+        {
+          "old_section": "Abstract",
+          "old_subsection": null,
+          "old_physical_pages": [
+            1
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            1
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Derivation of Deep Gravity; Architecture of Deep Gravity",
+          "old_subsection": null,
+          "old_physical_pages": [
+            3
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            3,
+            4
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Experiments",
+          "old_subsection": null,
+          "old_physical_pages": [
+            5
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            5
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Geographic transferability",
+          "old_subsection": null,
+          "old_physical_pages": [
+            8,
+            9
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            8,
+            9
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Explaining generated flows",
+          "old_subsection": null,
+          "old_physical_pages": [
+            9
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            9
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Methods; Regions of interest",
+          "old_subsection": null,
+          "old_physical_pages": [
+            10
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            10
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        }
+      ]
+    },
+    {
+      "id": "R20",
+      "exact_original_title": "Solving groundwater depletion in India while achieving food security",
+      "doi": "10.1038/s41467-022-31122-9",
+      "publisher_url": "https://www.nature.com/articles/s41467-022-31122-9",
+      "version": "PUBLISHER_VERSION_OF_RECORD",
+      "version_evidence": "当前PDF期刊出版页/DOI标题，结合原卡来源版本记录。",
+      "source_card": "outputs/grok-literature-supplement/learning_cards.json",
+      "source_card_sha256": "49ffcbd658ba69f1d9b5f8b7f771764ad0653e48d66056961d030544587f47f7",
+      "pdf_path": "outputs/grok-literature-supplement/pdf/R20_Solving_groundwater_depletion_in_India_w.pdf",
+      "pdf_sha256": "d18855d1124016defb6461646cf4fc335212672903cadc29959775dcaee4fbf9",
+      "pdf_page_count": 10,
+      "existing_extracted_text_path": "outputs/grok-literature-supplement/text/R20.txt",
+      "existing_extracted_text_sha256": "47d2cf693bca1ac9d2ce9ab3ec706fe70d74bffd325e59edca8762666939aff7",
+      "direct_review_modality": [
+        "EXTRACTED_CURRENT_PDF_TEXT"
+      ],
+      "physical_page_numbering": "ONE_BASED_CURRENT_FILE_SEQUENCE_INCLUDING_APPENDICES",
+      "substantive_passage_pages_reviewed": [
+        1,
+        3,
+        4,
+        7,
+        8
+      ],
+      "scope": "Specified data, processing, mechanism/fitting, validation, uncertainty/limitation and decision-output passages. Title and locator-check pages are included. No whole-document close-reading claim.",
+      "whole_document_close_reading": false,
+      "data_or_source_code_reexecuted": false,
+      "reviewed_sections": [
+        {
+          "section_or_passage": "Crop allocation optimization / Optimal cropping patterns, water, and energy use",
+          "physical_pages": [
+            3,
+            4
+          ],
+          "directly_checked_content": "期望LP、当前比较、10–50%单类净收入敏感性"
+        },
+        {
+          "section_or_passage": "Climate and groundwater data / Agricultural data / Estimating crop water deficit and yields",
+          "physical_pages": [
+            7
+          ],
+          "directly_checked_content": "109年天气、补足气温、586区、日缺水减产"
+        },
+        {
+          "section_or_passage": "Objective function / Constraints / Scenarios",
+          "physical_pages": [
+            8
+          ],
+          "directly_checked_content": "泵能量单位、15%补给代理、期望LP与两灌溉方案"
+        }
+      ],
+      "old_card_locator_audit": [
+        {
+          "old_section": "Abstract",
+          "old_subsection": null,
+          "old_physical_pages": [
+            1
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            1
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Optimal cropping patterns, water, and energy use",
+          "old_subsection": null,
+          "old_physical_pages": [
+            4
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            4
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Methods; Data; Agricultural data; Models; Estimating crop water deficit and yields",
+          "old_subsection": null,
+          "old_physical_pages": [
+            7
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            7
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Objective function; Constraints; Scenarios",
+          "old_subsection": null,
+          "old_physical_pages": [
+            8
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            8
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        }
+      ]
+    },
+    {
+      "id": "R28",
+      "exact_original_title": "River plastic emissions to the world’s oceans",
+      "doi": "10.1038/ncomms15611",
+      "publisher_url": "https://www.nature.com/articles/ncomms15611",
+      "version": "PUBLISHER_VERSION_OF_RECORD",
+      "version_evidence": "当前PDF期刊出版页/DOI标题，结合原卡来源版本记录。",
+      "source_card": "outputs/grok-literature-supplement/learning_cards.json",
+      "source_card_sha256": "49ffcbd658ba69f1d9b5f8b7f771764ad0653e48d66056961d030544587f47f7",
+      "pdf_path": "outputs/grok-literature-supplement/pdf/R28_River_plastic_emissions_to_the_world_s_o.pdf",
+      "pdf_sha256": "c77b45a9abe27cf7a7a02d85ebd6b5b95029d8e3747eab11265d0d24b3951a71",
+      "pdf_page_count": 10,
+      "existing_extracted_text_path": "outputs/grok-literature-supplement/text/R28.txt",
+      "existing_extracted_text_sha256": "8309f7f226b35962a6bd7b67f125db5ca2992d127d34e906853009c9ebde9bc0",
+      "direct_review_modality": [
+        "EXTRACTED_CURRENT_PDF_TEXT",
+        "PDF_FORMULA_VISUAL_CROP"
+      ],
+      "physical_page_numbering": "ONE_BASED_CURRENT_FILE_SEQUENCE_INCLUDING_APPENDICES",
+      "substantive_passage_pages_reviewed": [
+        1,
+        3,
+        5,
+        6,
+        7,
+        8
+      ],
+      "scope": "Specified data, processing, mechanism/fitting, validation, uncertainty/limitation and decision-output passages. Title and locator-check pages are included. No whole-document close-reading claim.",
+      "whole_document_close_reading": false,
+      "data_or_source_code_reexecuted": false,
+      "reviewed_sections": [
+        {
+          "section_or_passage": "River plastic mass inputs to oceans / Figure 2 / Discussion",
+          "physical_pages": [
+            3,
+            5,
+            6,
+            7
+          ],
+          "directly_checked_content": "13河30记录校准；观测转换范围、浮性表层/完全坝截留边界"
+        },
+        {
+          "section_or_passage": "Model approach / Model formulation / Correction for surface waters / Estimating MPW mass in catchments worldwide",
+          "physical_pages": [
+            7,
+            8
+          ],
+          "directly_checked_content": "源栅格流向累计、数/质量/日量转换、两参数曲线"
+        },
+        {
+          "section_or_passage": "Estimating monthly averaged catchment runoff / Figure 4 / Table 4",
+          "physical_pages": [
+            8
+          ],
+          "directly_checked_content": "GLDAS月径流、去长江高杠杆点的相关"
+        }
+      ],
+      "old_card_locator_audit": [
+        {
+          "old_section": "Unheaded abstract",
+          "old_subsection": null,
+          "old_physical_pages": [
+            1
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            1
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Figure 2 | Comparison between river input model and measurements.",
+          "old_subsection": null,
+          "old_physical_pages": [
+            5
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            5
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Discussion",
+          "old_subsection": null,
+          "old_physical_pages": [
+            5,
+            6
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            5,
+            6,
+            7
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Model approach.",
+          "old_subsection": null,
+          "old_physical_pages": [
+            7
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            7
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Model formulation.",
+          "old_subsection": null,
+          "old_physical_pages": [
+            7
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            7
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Estimating MPW mass in catchments worldwide.",
+          "old_subsection": null,
+          "old_physical_pages": [
+            7,
+            8
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            7,
+            8
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Estimating monthly averaged catchment runoff.",
+          "old_subsection": null,
+          "old_physical_pages": [
+            8
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            8
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        }
+      ]
+    },
+    {
+      "id": "R43",
+      "exact_original_title": "Inherent spatiotemporal uncertainty of renewable power in China",
+      "doi": "10.1038/s41467-023-40670-7",
+      "publisher_url": "https://www.nature.com/articles/s41467-023-40670-7",
+      "version": "PUBLISHER_VERSION_OF_RECORD",
+      "version_evidence": "当前PDF期刊出版页/DOI标题，结合原卡来源版本记录。",
+      "source_card": "outputs/grok-literature-supplement/learning_cards.json",
+      "source_card_sha256": "49ffcbd658ba69f1d9b5f8b7f771764ad0653e48d66056961d030544587f47f7",
+      "pdf_path": "outputs/grok-literature-supplement/pdf/R43_Inherent_spatiotemporal_uncertainty_of_r.pdf",
+      "pdf_sha256": "5bf2f53abea9cc080276334e783fa08c5a0a2d0a8dfa5273e33a03065e8017f2",
+      "pdf_page_count": 11,
+      "existing_extracted_text_path": "outputs/grok-literature-supplement/text/R43.txt",
+      "existing_extracted_text_sha256": "8d7c89283b7b00778cb29ec2dff7857b5f7c9d85c1f9c744074340ce9abb7817",
+      "direct_review_modality": [
+        "EXTRACTED_CURRENT_PDF_TEXT"
+      ],
+      "physical_page_numbering": "ONE_BASED_CURRENT_FILE_SEQUENCE_INCLUDING_APPENDICES",
+      "substantive_passage_pages_reviewed": [
+        1,
+        2,
+        4,
+        5,
+        7,
+        8,
+        9
+      ],
+      "scope": "Specified data, processing, mechanism/fitting, validation, uncertainty/limitation and decision-output passages. Title and locator-check pages are included. No whole-document close-reading claim.",
+      "whole_document_close_reading": false,
+      "data_or_source_code_reexecuted": false,
+      "reviewed_sections": [
+        {
+          "section_or_passage": "Nationwide analysis / Key factors / Discussions",
+          "physical_pages": [
+            2,
+            4,
+            5
+          ],
+          "directly_checked_content": "2016省级预测误差数据库；天气/弃电/保守预测边界"
+        },
+        {
+          "section_or_passage": "Wind and solar output data / Benchmark prediction model / Comparative prediction models",
+          "physical_pages": [
+            7,
+            8
+          ],
+          "directly_checked_content": "8760小时、日最大功率、168到6小时滑窗、全年随机五周调参"
+        },
+        {
+          "section_or_passage": "Prediction error calculation / First-order difference / Analysis and calculation of the peak ratio",
+          "physical_pages": [
+            8,
+            9
+          ],
+          "directly_checked_content": "装机归一残差、风小时/光日波动、峰比"
+        }
+      ],
+      "old_card_locator_audit": [
+        {
+          "old_section": "Unheaded abstract",
+          "old_subsection": null,
+          "old_physical_pages": [
+            1
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            1
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Nationwide analysis of the uncertainty of wind and solar generation",
+          "old_subsection": null,
+          "old_physical_pages": [
+            2
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            2
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Key factors affecting prediction errors",
+          "old_subsection": null,
+          "old_physical_pages": [
+            2
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            2
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Discussions",
+          "old_subsection": null,
+          "old_physical_pages": [
+            4,
+            5
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            4,
+            5
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Wind and solar output data",
+          "old_subsection": null,
+          "old_physical_pages": [
+            7,
+            8
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            7,
+            8
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Benchmark prediction model",
+          "old_subsection": null,
+          "old_physical_pages": [
+            8
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            8
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Comparative prediction models",
+          "old_subsection": null,
+          "old_physical_pages": [
+            8
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            8
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Prediction error calculation",
+          "old_subsection": null,
+          "old_physical_pages": [
+            8,
+            9
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            8,
+            9
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "First-order difference",
+          "old_subsection": null,
+          "old_physical_pages": [
+            9
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            9
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        }
+      ]
+    },
+    {
+      "id": "R50",
+      "exact_original_title": "Deforestation reduces rainfall and agricultural revenues in the Brazilian Amazon",
+      "doi": "10.1038/s41467-021-22840-7",
+      "publisher_url": "https://www.nature.com/articles/s41467-021-22840-7",
+      "version": "PUBLISHER_VERSION_OF_RECORD",
+      "version_evidence": "当前PDF期刊出版页/DOI标题，结合原卡来源版本记录。",
+      "source_card": "outputs/grok-literature-supplement/learning_cards.json",
+      "source_card_sha256": "49ffcbd658ba69f1d9b5f8b7f771764ad0653e48d66056961d030544587f47f7",
+      "pdf_path": "outputs/grok-literature-supplement/pdf/R50_Deforestation_reduces_rainfall_and_agric.pdf",
+      "pdf_sha256": "c877755385f88e8b899aed129d3a65a156f1426838c993b24a83f83343a6367c",
+      "pdf_page_count": 7,
+      "existing_extracted_text_path": "outputs/grok-literature-supplement/text/R50.txt",
+      "existing_extracted_text_sha256": "ba647c80038b85145a01368601906b40461a261dacd4a369d1796fb4b7f11dce",
+      "direct_review_modality": [
+        "EXTRACTED_CURRENT_PDF_TEXT"
+      ],
+      "physical_page_numbering": "ONE_BASED_CURRENT_FILE_SEQUENCE_INCLUDING_APPENDICES",
+      "substantive_passage_pages_reviewed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "scope": "Specified data, processing, mechanism/fitting, validation, uncertainty/limitation and decision-output passages. Title and locator-check pages are included. No whole-document close-reading claim.",
+      "whole_document_close_reading": false,
+      "data_or_source_code_reexecuted": false,
+      "reviewed_sections": [
+        {
+          "section_or_passage": "Relationship between deforestation and rainfall at different geographical scales",
+          "physical_pages": [
+            2,
+            3
+          ],
+          "directly_checked_content": "28–224km MARS/线性与尺度阈值"
+        },
+        {
+          "section_or_passage": "Additional evidence for forest loss causation of rainfall reduction / Future critical forest loss thresholds and associated agricultural economic losses",
+          "physical_pages": [
+            4,
+            5
+          ],
+          "directly_checked_content": "观察关联、反向解释检查、弱/强治理情景"
+        },
+        {
+          "section_or_passage": "Rainfall data / Deforestation data / Anomalies of annual rainfall",
+          "physical_pages": [
+            5,
+            6
+          ],
+          "directly_checked_content": "TRMM v7/PRODES、年度与空间聚合、地理与共同年信号扣除"
+        },
+        {
+          "section_or_passage": "LUCC modelling and associated agricultural economic impact",
+          "physical_pages": [
+            6
+          ],
+          "directly_checked_content": "外生土地需求、减产、价格、面积加权收益和贴现"
+        }
+      ],
+      "old_card_locator_audit": [
+        {
+          "old_section": "Unheaded abstract",
+          "old_subsection": null,
+          "old_physical_pages": [
+            1
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            1
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Relationship between deforestation and rainfall at different geographical scales.",
+          "old_subsection": null,
+          "old_physical_pages": [
+            2,
+            3
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            2,
+            3
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Additional evidence for forest loss causation of rainfall reduction.",
+          "old_subsection": null,
+          "old_physical_pages": [
+            4
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            4
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Future critical forest loss thresholds and associated agricultural economic losses.",
+          "old_subsection": null,
+          "old_physical_pages": [
+            4
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            4,
+            5
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Rainfall data.",
+          "old_subsection": null,
+          "old_physical_pages": [
+            5
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            5
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Deforestation data.",
+          "old_subsection": null,
+          "old_physical_pages": [
+            5
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            5
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "Anomalies of annual rainfall.",
+          "old_subsection": null,
+          "old_physical_pages": [
+            5,
+            6
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            5,
+            6
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        },
+        {
+          "old_section": "LUCC modelling and associated agricultural economic impact.",
+          "old_subsection": null,
+          "old_physical_pages": [
+            6
+          ],
+          "old_html_paragraph_index": null,
+          "current_section_physical_pages": [
+            6
+          ],
+          "status": "LOCATOR_MATCHES_REVIEWED_PASSAGE"
+        }
+      ]
+    }
+  ],
+  "reference_original_draft_sha256": "d408b870e43551b669ee95a34a6c42fa3b5e828163aec5781d9e4bfd578cfccc",
+  "packaged_evidence_note": "Source-paper hashes and reviewed-page records describe the original scoped source review and remain unchanged. The current packaged reference has subsequently undergone topic quarantine and excerpts were removed or shortened. reference_sha256 binds only the current packaged reference bytes; it does not establish that all thirteen original method chains remain complete, re-audit the transformed prose against every paper, or certify new transfer performance. The original packaged-review hash is retained separately.",
+  "reference_sha256_at_original_packaged_review": "11b928ca08b6cedffe6bd2a008394338d362edb1e8e6f82a8edd8a531690eb68",
+  "packaged_reference_transformation_scope": {
+    "kind": "Existingtopicquarantineandshortening, notnewscientificsourceverification",
+    "original_packaged_review_reference_sha256": "11b928ca08b6cedffe6bd2a008394338d362edb1e8e6f82a8edd8a531690eb68",
+    "current_reference_sha256": "416fc6d51c4021d57f670064826d1829e08de59ba768f6f9a7dfb2a541ae1e17",
+    "current_quarantine_placeholder_lines": 6,
+    "source_paper_records_changed": false,
+    "new_paper_bodies_read": 0,
+    "current_reference_full_source_reverification_claimed": false,
+    "archival_quarantine_path_is_not_an_installed_runtime_dependency": true
+  }
+}

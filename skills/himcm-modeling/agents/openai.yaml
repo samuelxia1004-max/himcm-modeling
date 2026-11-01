@@ -1,0 +1,6 @@
+interface:
+  display_name: "HiMCM 数学与构思 · 下一版集成开发"
+  short_description: "从完整题目构思可检验机制，完成数学核验、决策实验与论文交付"
+  default_prompt: "使用 $himcm-modeling，从完整原题和附件形成可检验机制，独立复算关键数学，完成所有任务、审阅和交付。此隔离开发版尚待独立与跨题验证，不能预先宣称获奖或质量达标。"
+policy:
+  allow_implicit_invocation: true

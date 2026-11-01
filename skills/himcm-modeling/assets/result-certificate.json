@@ -1,0 +1,26 @@
+{
+  "result_id": null,
+  "question_id": null,
+  "model_scope": null,
+  "status": "NOT_CERTIFIED",
+  "optimality_status": null,
+  "optimality_status_note": null,
+  "bindings": {
+    "problem_contract": null,
+    "input": null,
+    "evaluator": null,
+    "code": null,
+    "config": null,
+    "execution_record": null,
+    "output": null
+  },
+  "numbers": [],
+  "feasibility": {
+    "status": "NOT_CHECKED",
+    "evidence": []
+  },
+  "validation": [],
+  "claimable_facts": [],
+  "remaining_risks": [],
+  "decision_source": null
+}

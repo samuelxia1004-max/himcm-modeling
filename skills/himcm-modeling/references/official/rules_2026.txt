@@ -1,0 +1,341 @@
+
+
+COMAP: Mathematics Instructional Resources for Innovative Educators
+
+ HiMCM/MidMCM
+                Home
+
+                     About HiMCM/MidMCM
+
+                     Contest Instructions
+
+                   Contest Registration
+
+ Advisor Login
+
+ Previous Contests
+
+ Download Certificates
+
+ Contact Us
+
+ HiMCM® and MidMCM
+                    Contest Registration and Instructions
+  November 4-17, 2026
+RECENT CHANGES TO THE HiMCM and MidMCM RULES ARE HIGHLIGHTED IN RED
+
+                    $100 Registration Fee
+                      *Please register only the teams that will take part in the contest.
+                      Registration fees are not refundable.*
+
+COMAP'S High School Mathematical Contest in Modeling (HiMCM) is an international contest designed to provide high school students with the opportunity to work as team members to engage in and improve their modeling, problem solving, and writing skills. Teams apply mathematics to model, develop, and communicate a solution to a real-world problem. 
+
+COMAP'S Middle Mathematical Contest in Modeling (MidMCM) is an extension of the High School Mathematical Contest in Modeling (HiMCM). It is designed to provide middle school/level age students with the opportunity to work as team members to engage in and improve their modeling, problem solving, and writing skills. Teams apply mathematics to model, develop, and communicate a solution to a real-world problem. 
+
+Contest Dates and Times                    
+
+Registration Deadline: 2:00 pm EST Wednesday, November 4, 2026
+
+Contest Window Opens: 3:00 pm EST Wednesday, November 4, 2026
+
+Contest Window Closes: 8:00 pm EST Tuesday, November 17, 2026
+
+Solution Report Deadline: 9:00 pm EST Tuesday, November 17, 2026
+
+Receipt of Solution: 8:00 pm EST Wednesday, November 18, 2026 we recommend that you login to the contest web site using the Advisor Login link to verify that your team's Electronic Solution was received at COMAP.
+
+Contest Results: The results will be posted on or before January 31, 2027
+
+HiMCM and MidMCM Rules, Registration, and Instructions
+
+I. Participants and Advisors
+                      II. HiMCM and MidMCM Resource Guides
+                      III. Changes for 2026
+                      IV. Contest Rules
+                      V. Contest Registration
+                      VI. Contest Instructions
+                           Before the Contest - Preparing a Team
+                           During the Contest - Choosing and Solving the Problem
+     During the Contest - Preparing a Solution Document
+                           During the Contest - Advisor Activities
+                           After the Contest - Submitting a Solution Document: New online submission process
+                            After the Contest - Advisor Actions
+                      VII. HiMCM and MidMCM Results and Recognition
+                         What are the differences between the designations?
+
+Notes:
+
+COMAP is in the USA Eastern time zone: all times given in these instructions are in terms of Eastern Standard Time (EST) except where local time is noted.
+
+COMAP is the final arbiter of all rules and policies, and may refuse to register, disqualify, or reduce the award level of any team that, in its sole discretion, does not follow contest rules, regulations, or requirements.
+
+Print a copy of these rules and instructions for reference before, during, and after the contest.
+
+I. Participants and Advisors
+
+To participate in HiMCM, up to four (4) current high school (or below) students from the same school/institution or program (see below for more information) form a team. Each team must have a faculty advisor from their school/institution or program. There is no limit to the number of teams a school/institution or program may register and no limit to the number of teams an advisor may advise. The advisor must complete the registration process for each team. 
+
+To participate in MidMCM, up to four (4) middle school/level age students 14½ years of age or below from the same school/institution or program (see below for more information)  form a team. If any one of the team members is older than 14½ years old at the start of the contest, the team can still compete in the HiMCM contest only. Each team must have a faculty advisor from their school/institution or program (see below for more information). There is no limit to the number of teams a school/institution or program (see below for more information) may register and no limit to the number of teams an advisor may advise. The advisor must complete the registration process for each team. 
+
+14½ years of age: For the 2026 contests, students born on or after May 1, 2012 are eligible to join a middle school/level MidMCM team. Students born prior to May 1, 2012 may join a HiMCM team. There are several requirements for HiMCM and MidMCM team advisors before, during, and after the contest. Please read these instructions carefully and be sure to complete all the steps involved. The advisor is responsible for correctly registering teams and completing all steps required for a team's participation in the contest. 
+
+Definitions:
+
+Faculty Advisor: Any faculty or staff member at the same school/institution or program (see below for more information) as the students on the team can serve as the advisor. Advisors do not have to be from the mathematics department. The advisor ensures that the students follow the rules and procedures of the contest. Advisors also act as the main point of contact for the team. 
+
+School or Institution: For the purposes of participating in the HiMCM and MidMCM, a team's school or institution is the primary and comprehensive full-time provider for all of the team members' education studies in all subjects. 
+
+New for 2026 - Program: For the purposes of participating in the HiMCM and MidMCM, a non‑school educational program not founded for the exclusive purpose of participating in mathematics competitions (e.g., dual/joint‑enrollment programs; magnet programs; online high schools; academic or training programs drawing students from multiple schools for a subset of coursework or enrichment; community‑based or nonprofit extracurricular programs).  
+
+Not Eligible as an Affiliation. Tutoring, test‑prep, contest‑prep, and math‑ or STEM‑learning centers whose primary mission is short‑term instruction or competition preparation are not considered Schools/Institutions or Programs for the purposes of registering and competing in COMAP contests.
+
+If you have any questions regarding your Program's eligibility, please email us at himcm@comap.org.
+
+Student Affiliation & Enrollment Clarifications
+
+Dual Affiliations. Students enrolled at a School/Institution and participating in a Program may compete either under their School/Institution or under the same approved Program as their teammates, but not both.
+
+Cross‑School Teams. Teams drawing students from multiple schools are permitted only if all members are affiliated with the same approved Program.
+
+International Equivalency. Non‑U.S. grade levels and age standards must align with the secondary (HiMCM) or middle‑level (MidMCM) definitions and the age limit stated.
+
+Verification & Compliance
+
+                  Verification
+
+COMAP may request documentation to verify student eligibility, age, enrollment/affiliation, Advisor status, and Program approval. Non‑Compliance. Failure to meet or truthfully represent eligibility, approval, or affiliation requirements may result in disqualification at COMAP's discretion. 
+
+II. HiMCM and MidMCM Resource Guides
+
+HiMCM/MidMCM: Registration Walk Through
+The purpose of this article is to assist and guide advisors participating in the High School Mathematical Contest in Modeling (HiMCM) and the Middle Mathematical Contest in Modeling (MidMCM). In the article, COMAP provides information about the contest registration process.
+
+HiMCM/MidMCM: Procedures and Tips for a Great Experience
+The purpose of this "Tips" article is to assist and guide students and advisors participating in the High School Mathematical Contest in Modeling (HiMCM) and the Middle Mathematical Contest in Modeling (MidMCM). In the article, COMAP provides information about the administration of the contests from registration through solution submission, as well as tips to ensure your contest experience is smooth, successful, and enjoyable.
+
+Use of Large Language Models and Generative AI Tools in COMAP Contests
+This policy is motivated by the rise of large language models (LLMs) and generative AI assisted technologies. The policy aims to provide greater transparency and guidance to teams, advisors, and judges. This policy applies to all aspects of student work, from research and development of models (including code creation) to the written report. Since these emerging technologies are quickly evolving, COMAP will refine this policy as appropriate.
+
+NEW HiMCM/MidMCM: Online Submission Process
+                    The purpose of this article is to assist and guide students and advisors participating in HiMCM/MidMCM. In the article, COMAP, provides information about the new online submission process using the new online submission page https://forms.comap.org/242386224483964. You will need your team's control number, advisor id number and your problem choice to complete your submission.
+
+HiMCM/MidMCM: Director's Article and Judges' Commentary
+Read the Consortium HiMCM article and the Consortium MidMCM article, which includes the Director's Article and Judges' Commentary. This article describes what judges look for in the various sections of solutions, along with exemplars for each section.
+
+III. Changes for 2026
+
+● New student affiliation policy.
+
+● Updated AI policy.
+● New online submission process.
+
+● Follow @COMAPMath on X or COMAPCHINAOFFICIAL on Weibo for the most up to date contest information.
+
+IV. Contest Rules
+
+The 2026 contest runs between 3:00 p.m. EST Wednesday, November 4th and 8:00 p.m. EST on Tuesday, November 17, 2026.
+
+A HiMCM team may consist of up to four secondary (or below) students enrolled in the same school/institution or program. A MidMCM team may consist of up to four middle school/level age students 14½ years of age or below enrolled in the same school/institution or program. There is no limit to the number of teams a school/institution or program may register.
+
+Each team must have an advisor. Advisors can serve more than one team. Advisors must register teams prior to the start of the contest on November 4, 2026.
+
+Teams must obtain and use the control number and password assigned to them at registration to participate in the HiMCM and MidMCM.
+
+Advisors must login at the beginning of the contest period (3:00 p.m. on Wednesday, November 4, 2026) to receive the contest problems for their teams.
+
+Not later than the opening of the contest window, advisors must assign team members to a particular team, and students cannot change teams for the duration of the contest.
+
+Once the contest window opens (3:00pm on Wednesday, November 4, 2026), team membership must be set and teams may not use any persons, other than their own team members, to discuss or obtain ideas for working on and solving their problem. Teams may use any "inanimate" resource they find on their own such as: web pages, books, articles, research reports, databases, etc. Teams may not seek help in obtaining answers, ideas, or information, or in locating appropriate resources, from any persons outside of their team to include their advisor, other teachers, other students, and/or experts or professionals in a field relevant to the problem. This restriction includes no use of electronic social media such as, but not limited to: emails, texting, chat rooms, interactive blogs, X, Weibo, help or support sites, etc. Additionally, posting or sharing any part or all of the problem statement, your team's solution process, or any partial or complete work in any form or medium during the contest is strictly prohibited. COMAP will disqualify or deem unsuccessful any team that violates this rule. The relevant issue is one of intent: each team of students is expected to develop all of its substantive analysis and solution without the help of others. Teams are encouraged to meet virtually using electronic communications. BUT, your team members may only communicate with members of their own team. The rule remains that teams may not use any persons, other than their own team members, to discuss or obtain ideas for working on and solving their problem.
+
+Teams must document any outside sources of information by using footnotes, endnotes, or in-line documentation, and include appropriate citations in a reference list of these sources.
+
+Clearly indicate the use of LLMs or other AI tools in your report, including which model was used and for what purpose. Please use inline citations and the reference section. Also append the Report on Use of AI (described here) after your 25-page solution. This new section has no page limit and will not be counted as part of the 25-page solution.
+
+HiMCM Teams may choose to work on either Problem A or B, and submit one solution for the problem of their choice. MidMCM Teams may choose to work on Problem A, B or C, and submit one solution for the problem of their choice. Note if you choose to submit a solution to Problem A or B you are competing in HiMCM. Problem C is reserved solely for MidMCM.
+
+Teams may work on their contest problem at any time during the 14-day window.
+
+The names of the students, advisor, and/or institution must not appear on any page of the solution. The solution must not contain any identifying information other than the team Control Number.
+
+Papers must be submitted as an PDF electronic file, and typed in English, with a readable font of at least 12-point type.
+
+Upon closing of the contest window at 8:00 p.m. EST Tuesday, November 17, 2026, advisors must ensure each team makes no further changes to their solution paper. Advisors must then ensure all solution documents are properly prepared and sent  using the new online submission page
+                    https://forms.comap.org/242386224483964 to COMAP for judging no later than 9:00 p.m. EST Tuesday, November 17, 2026. Any team member or the advisor may submit the PDF submission. 
+
+Parental/Guardian Authorization forms  are now part of the registration process. You should still keep a copy of the Parental/Guardian Authorization forms for your records. But you do not need to send them to COMAP Inc. Parental/Guardian Authorization form.
+
+COMAP follows all accommodations relative to learning conditions for individual students used as part of the local school program in an affected student's daily learning. If specialized staff is required, the school bears the responsibility for providing any specialized assistance as required by law. If such accommodations are required for a student participating, the school should detail them and the extent to which they were utilized as part of the HiMCM and MidMCM activities.
+
+COMAP reserves the right to disqualify or reduce the award level of teams found to have violated the contest rules.
+
+V. Contest Registration
+
+The registration fee for HiMCM and MidMCM is $100 per team. Please register only the teams that will take part in the contest. Registration fees are non-refundable. We accept payment via Credit Card, and payment must be made via our secure web site. We regret that we are not able to accept other payment forms at this time.
+
+Advisors must register all teams before 2:00 p.m. (EST) Wednesday, November 4, 2026.
+                    At that time the registration system will stop accepting new team registrations. To guard against the possibility of interruptions in Internet service we recommend that all teams compete the registration process well in advance of the deadline. COMAP will not accept any late registrations. Note: advisors do not have to designate specific team members when registering "a team." COMAP suggests you register the number of teams needed prior to the deadline and then return to the contest site once teams are set to enter specific students to each "Control Number" team you have registered.
+
+The registration process will take advisors through a series of screens that ask for an email address and contact information. Enter the required information as you step through the screens. Be sure to use a valid current email address so that we can use it to contact you at any point before, during, or after the contest, if necessary.
+
+Registration is via the contest web site. No other forms of registration will be accepted. Advisors may register any number of teams, and should use the same email address and password for all teams under the same advisor.
+
+To register team(s), click the Registration link on the left side of this page. If you have already registered a team or teams for this year's contest and want to register additional teams, email us at himcm@comap.org.
+
+You may specify the team members at the time of registration. Advisors may assign team members to specific teams up until the beginning of the contest period. Once the contest problems are read, team members cannot change. The spelling of all names and institutions is the responsibility of the advisor. This is exactly as they will appear on certificates. COMAP will not reprint certificates.
+
+Once you have completed a team's registration, you will receive a Team Control Number. The screen giving your team control number is the only confirmation that you will receive indicating that you have successfully registered that team. Please note this number or print this screen for future reference.
+
+If at any point before or during the contest you need to change any of the information that you specified when you registered, you may do so by logging in to the contest website with the email address and password that you specified when registering. Once logged in click the Register/Update button and proceed.
+
+Return to the contest website regularly to check for any updated instructions or announcements regarding the contest. Except in extreme circumstances, COMAP will not send any confirmation, reminders, or announcements by email. All communication regarding the contest will be via the contest website and by X and Weibo.
+
+To ensure your teams' papers are considered and judged, you will need to return to the contest website to confirm information about your team.
+
+VI. Contest Instructions
+
+Before the Contest - Preparing a Team
+
+We encourage advisors and faculty to coach and prepare students BEFORE the start of the contest. COMAP offers several resources:
+
+                           a.	Go to the HiMCM/MidMCM web site and review the rules, guidelines, and prior years' problems.
+                           b.	Visit www.mathmodels.org to view previous years' problems and solutions.
+                           c.	Read the Consortium HiMCM article and the Consortium MidMCM article, which includes the Director's Article and Judges' Commentary. This article describes what judges look for in the various sections of solutions, along with exemplars for each section.
+                         d.	HiMCM and MidMCM "Tips" article provides students and advisors tips for before, during, and after the contest.
+
+Ensure that students have access to computers that enable them to word process, use a spreadsheet, and dynamically model both graphs and geometric relationships. Graphing calculators may also be helpful.
+
+Note: Parental/Guardian Authorization forms are no longer required. This step is now part of the registration process. You should still keep a copy of the Parental/Guardian Authorization forms for your records. But you do not need to send them to COMAP Parental/Guardian Authorization form.
+
+During the Contest - Choosing and Solving the Problem
+
+The contest problems become available at 3:00 pm EST on Wednesday, November 4, 2026. When teams are ready to compete, the team advisor must login to view the three problems. Once logged in, look for the *VIEW PROBLEMS* link. We recommend that you print out a copy of both problems for your students to read and choose their problem.
+
+Each HiMCM team can choose either Problem A or Problem B, to solve. Each MidMCM team can choose either Problem A, Problem B, or Problem C to solve. Note if you choose to submit a solution to problem A or B you will be competing in the HiMCM.
+                      • HiMCM problems are Problem A or Problem B – any team may choose. 
+                    • MidMCM problem is Problem C – only teams with all members younger than 14½ years old may choose.
+
+Teams may use any inanimate source of data, materials, computers, software, references, websites, books, etc. Teams should reference all sources used using footnotes, endnotes, or in-line documentation, and include an associated reference list citing all sources.
+
+HiMCM and MidMCM solutions are judged as varying degrees of Successful. Therefore, partial solutions are acceptable and teams are encouraged to complete as much of the problem as they are able to do. HiMCM and MidMCM judges are primarily interested in the team's thought processes, analysis of the problem, modeling approaches, and mathematical methods.
+
+Teams should keep in mind the following guidelines when solving the problem and developing their solution:
+
+Overall, the team's solution should be articulate, concise, and organized in order to allow the reader to easily follow the solution process and conclusions. Key statements should present major ideas and results.
+
+Present a clarification or restatement of the problem as appropriate.
+
+Present a clear exposition of all variables, assumptions, and hypotheses.
+
+Present an analysis of the problem, motivating or justifying the model being used.
+
+Include a design of the model. Discuss how the model could be tested.
+
+Discuss any apparent strengths or weaknesses to your model or approach.
+
+Summarize derivations, computations, or illustrative examples in the main body of the solution, and leave lengthy derivations and/or calculations and data in appropriate appendices.
+
+Provide a conclusion and report results explicitly.
+
+Document resources and references.
+
+During the Contest - Preparing a Solution Document
+
+Teams must submit their entire solution in one Adobe PDF electronic file, consisting of written text, figures, charts, and supporting materials. Papers must be typed in English, with a readable font of at least 12-point type. 
+                    MidMCM Submission Assistance: For MidMCM teams only, advisors may assist students in preparing their final solution for electronic submission. While advisors are not allowed to assist students in the development of the solution, they may assist with actions such as scanning pages, file conversion, and/or preparing the PDF document for submission.
+
+Each page of the solution must contain the team control number and the page number at the top of the page. Use a page header on each page - for example: Team # 1234 , Page 6 of 13.
+
+Solution file should start with the Summary Sheet followed by up to 24 pages of the team's solution (total of 25 pages). A "Table of Contents" is encouraged and does count toward the page limit. Reference list, notes pages, and any appendices do count in the 25-page limit and should be included after the solution pages.
+
+Clearly indicate the use of LLMs or other AI tools in your report, including which model was used and for what purpose. Please use inline citations and the reference section. Also append the Report on Use of AI (described here) after your 25-page solution. This new section has no page limit and will not be counted as part of the 25-page solution.
+
+Names of the students, advisor, and/or institution must not appear on any page of the solution. The solution file must not contain any identifying information other than the team Control Number.
+
+STOP making any changes to the solution at 8:00pm EST on Tuesday, November 17, 2026.
+
+During the Contest - Advisor Activities
+
+	Login to the contest website and enter your email address and password.
+
+Specify the contest (HiMCM or MidMCM) for each team.
+
+For each control number, enter and/or check the team members' names and confirm that they are spelled correctly.
+
+Specify the problem that each team has chosen to solve.
+
+Note: Parental/Guardian Authorization forms are no longer required. This step is now part of the registration process. You should still keep a copy of the Parental/Guardian Authorization forms for your records. But you do not need to send them to COMAP Inc. Parental/Guardian Authorization form.
+
+After the Contest - Submitting a Solution Document - NEW for 2026
+
+ 	Teams must end all work on their solution by 8:00 p.m. EST on Tuesday November 17, 2026, and send an PDF electronic file of its Solution Paper to COMAP by 9:00 p.m. EST on Tuesday, November 17, 2026. *Note: Do not wait until the last minute. Send your solution as soon as it is completed and only send one copy.
+
+No further modifications, enhancements, additions, or improvements may be made to the team's solution paper after 8:00 p.m. EST on Tuesday November 17, 2026. Any changes to the solution will constitute a violation of the contest rules and may result in disqualification.
+
+Each team is required to submit an PDF electronic copy of its solution using the new online submission page 
+                      https://forms.comap.org/242386224483964. Any team member or the advisor may submit the PDF submission.
+
+You will need your team's control number, advisor id number and your problem choice to complete your submission. 
+
+Your electronic PDF solution file MUST be received at COMAP on or before the submission deadline of 9:00 p.m. EST on November 17, 2026. 
+
+Use your team's control number as the name of your PDF attachment. For example: 1234.pdf. *Note: The attachment must be less than 20MB.
+
+Page 1 of the team's PDF electronic solution should be the team summary, followed by the solution and any references and appendices.
+
+Do not include or send programs, software, databases, and/or other files with your solution, as they will not be used in the judging process.
+
+The names of the students, advisor, or institution should not appear on any page of the electronic solution.
+
+COMAP will accept only an Adobe PDF of your solution. Limit one solution per submission form.
+
+Failure by a team to submit a solution by 9:00 p.m. EST on November 17, 2026, in accordance with the above instructions, may result in disqualification or reduction of award level.
+
+Advisors should use the Advisor Login one day after the contest has closed to verify COMAP received your team's electronic solution. In most cases, COMAP will have solution status of all papers posted 24 hours after the contest window ends.
+
+After the Contest - Advisor Actions
+
+ Receipt of Solution. Advisors should use the Advisor Login link one to two days after the contest has closed to verify COMAP received your team's electronic solution. In most cases, COMAP will have solution status of all papers posted 24- hours after the contest window ends. 
+
+Note: Parental/Guardian Authorization forms are no longer required. This step is now part of the registration process. You should still keep a copy of the Parental/Guardian Authorization forms for your records. But you do not need to send them to COMAP. Parental/Guardian Authorization form.
+
+                      VII. HiMCM and MidMCM
+                      Results and Recognition
+
+Judging will be completed in January 2027. Levels of awards are Unsuccessful, Successful Participant, Honorable Mention, Meritorious, Finalist, or Outstanding. Advisors and teams will be notified of the results on or before January 31, 2027, and COMAP will post results on the HiMCM and MidMCM website. COMAP will prepare news releases for local and national dissemination, and professional publications will announce results.
+
+Every team that successfully submits a solution paper will be awarded a PDF certificate of participation.  Click here to download HiMCM and MidMCM certificates.
+
+All USA teams that successfully compete in the HiMCM contest and are awarded a designation of Meritorious or above (Meritorious, Finalist, or Outstanding) will be invited to compete in The International Mathematical Modeling Challenge, IM2C, which will take place March, 2027 through April, 2027. For more information about the International Mathematical Modeling Challenge click here.
+
+All USA teams that successfully compete in the MidMCM contest and are awarded a designation of Finalist or above (Finalist or Outstanding) will be invited to compete in The International Mathematical Modeling Challenge, IM2C, which will take place March, 2027. For more information about the International Mathematical Modeling Challenge click here.
+
+Select teams will have portions of their solution papers published in COMAP's Consortium newsletter among other places. Recognition information will also be sent to local newspapers and radio/television outlets.
+
+We are excited to announce that with support from the National Council of Teachers of Mathematics (NCTM), COMAP added a new NCTM Award that is presented to two of the HiMCM Outstanding teams chosen at final judging and one of the MidMCM Outstanding teams chosen at final judging. Both NCTM and COMAP announce winners on their respective websites.
+
+What are the differences between the designations?
+
+Not Judged - The solution was not submitted correctly. Some examples include damaged or corrupted file, file sent in the wrong format, or not submitting your solution as outlined in the instructions.                     
+
+Disqualified - The team's report was found to be in violation of the contest rules.                    
+
+Disqualified – Plagiarism: The solution paper had undocumented sources, verbatim text, or information lifted from the Internet, and/or was very similar to other papers submitted as determined by judges and/or our pairwise comparison software. All information, ideas, data, algorithms, etc. from outside sources used by team members must have the original source documented and properly referenced. Our pairwise comparison software identifies papers and/or parts of papers as similar to, or exactly the same as, other papers submitted. 
+
+                      Disqualified – Web: COMAP identified the solution paper, or portions of the solution paper as shared or posted, or a team member (or members) were found to have received assistance through interactive web sites or electronic media. Posting or sharing all, or any part of the problem statement, your solution, or partial solution anywhere during the contest weekend is strictly prohibited. Obtaining all, or any part, of anyone else's solution is also prohibited. Contest rules prohibit seeking assistance outside of team members or obtaining help from human sources-in person or via any medium. COMAP continually monitors the Internet during the contest period.  
+
+Unsuccessful Participant - The team's report did not adequately respond to the requirements of the contest problem or a team (or team member) was found to have visited Internet sites discussing the contest problem during the contest period.
+
+Unsuccessful Participant – Web: A team member (or members) visited websites or social media where contest problems were being openly discussed. Contest rules prohibit seeking assistance outside of team members or obtaining help from human sources-in person or via any medium. COMAP is continually monitoring the Internet during the contest period to include websites and social media where contest solutions are being openly discussed.
+
+                      Unsuccessful Participant – Incomplete: The solution paper was found to be significantly incomplete and did not show any serious effort in adequately responding to the contest problem or its requirements. 
+
+Successful Participant - The team made a concerted effort to respond to the contest problem and submit a solution report. The report, however, had incomplete responses to all or some requirements, and/or showed some deficiencies or weakness in the modeling processes, analysis, conclusions, and/or communication.
+
+                    Honorable Mention - he team's solution report indicated an above average effort in addressing all problem requirements, and contained elements that were judged to show sound and supported processes in modeling and problem solving, analysis, conclusions, and communication of results.
+
+                    Meritorious - The team's solution report was excellent in many aspects of modeling and problem solving, analysis, conclusions, and communication. The report addressed all requirements in a clear, well-supported, well-organized, and well-presented manner.
+
+                    Finalist - The designation Finalist recognizes teams whose solution reports are exemplary and therefore reached the final round of judging. These papers present complete and logical analysis in an organized and clear presentation above and beyond simply addressing the requirements. These papers are easy to read, easy to follow, logical, and comprehensive. Finalist papers are among the best of all team submissions. 
+
+                  Outstanding Winner - The designation Outstanding recognizes teams whose solution reports are determined, in the final round of judging, to be the "best of the best." These teams' reports are at the highest level relative to the contest submissions in terms of exemplary student work in modeling and problem solving, analysis, and communication. COMAP may publish and use all or part of these submissions as examples of outstanding student work.
+

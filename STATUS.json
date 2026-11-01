@@ -1,0 +1,47 @@
+{
+  "snapshot_utc": "2026-11-01T12:23:14.934854+00:00",
+  "latest_deliverable": "integration-development06-full93",
+  "source_files": 93,
+  "python_scripts": 21,
+  "source_bytes": 2449352,
+  "installed_default": "v8.3-r4p-full61",
+  "installed_default_unchanged": true,
+  "source_freeze_sha256": "37bf632b193cbb55386b2808131753fb0816975bbbe28fdc5a4d770de76fae1e",
+  "synthetic_integration": {
+    "same_version_author_attempts": 1,
+    "complete_on_time": 1,
+    "observed_completion_fraction": 1.0,
+    "postcheck_elapsed_seconds": 1735.549097,
+    "independent_full_reviewers": 2,
+    "scope": "One engineered maintenance task. A single success is not a stability estimate or a HiMCM result.",
+    "correction": "An initial false myopic-equivalence claim was independently caught by the author, corrected and independently rechecked; original failure preserved.",
+    "terminal_public_freeze_sha256": "2073d7e45db58a54625d869a6aba9ce1de307b37b6da509fdd24e018e517f957"
+  },
+  "formal_himcm": {
+    "case": "2018-A",
+    "candidate_attempts": 1,
+    "accepted_complete": 0,
+    "state_at_last_authority": "RUNNING",
+    "authority_observed_utc": "2026-11-01T12:08:12Z",
+    "original_start_utc": "2026-11-01T11:57:55Z",
+    "original_deadline_utc": "2026-11-01T13:12:55Z",
+    "preregistration_sha256": "ff79a747857b24bca0f5da5de172649eceee0eea4deb4d4263bfe16d6cd568d6",
+    "Q": null,
+    "I": null,
+    "originalmath_and_noskill": "Preregistered, not started at this snapshot"
+  },
+  "stable_0_98_demonstrated": false,
+  "award_probability": null,
+  "interpretation": "Q and I are internal quality and idea rubrics, not an official award line or probability. Earlier version results are not inherited.",
+  "remaining_acceptance": "More than 10 distinct complete problems, same-condition originalmath/no-skill controls, 3 independent authors per problem, complete O/F references and common full reviews.",
+  "packages": {
+    "himcm-modeling-integration-development06.zip": {
+      "sha256": "b8fcd371e80a984d2e6d918c308d7a8d9e1994e6fb1e29264d00a0d506ae4d61",
+      "files": 93
+    },
+    "himcm-modeling-v8.3-r4p.zip": {
+      "sha256": "e18b79910fcaa3968967ced750f793fc3b4c54864cf4ec25a72e44679f6fdc67",
+      "files": 61
+    }
+  }
+}

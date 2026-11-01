@@ -1,2 +1,74 @@
-# himcm-modeling
-HiMCM modeling and idea-development skill: complete 93-file candidate, reproducible tools, independent review workflow, and frozen 61-file baseline.
+# HiMCM Modeling Skill
+
+从完整题面与附件出发，完成构思、数学建模、求解、验证、独立评审、英文论文和PDF交付的自包含技能。
+
+当前可下载的最新源码是 **integration-development06，完整93文件、21个Python脚本**。数学工具以Python标准库实现；PDF检查及可选HTML全页预检需要PyMuPDF，论文构建还需项目选择的构建器。技能不依赖另一个已安装的mathskills。
+
+## 下载与版本
+
+| 交付物 | 状态 | 入口 |
+|---|---|---|
+| 完整93文件候选版 | 最新功能包；已完成一次合成全流程验收，首个HiMCM整题试验进行中 | [ZIP](packages/himcm-modeling-integration-development06.zip) · [技能源码](skills/himcm-modeling/SKILL.md) |
+| v8.3-r4p完整61文件版 | 本机原已安装默认，原ZIP保持冻结；不称稳定O奖版 | [原ZIP](packages/himcm-modeling-v8.3-r4p.zip) |
+
+本仓库是发布时点快照。包内历史版本文字及冻结清单保留原字节；当前验证进度以本README和[STATUS.json](STATUS.json)为准。93文件源码没有为此次上传改写，上传也不自动替换本机默认。
+
+## 能做什么
+
+| 能力 | 具体工作 |
+|---|---|
+| 读题与数据 | 逐问列出实质输出；核验完整附件、实体、单位、时空口径、缺失和来源版本；按目标年份核规则。 |
+| 数学建模 | 从状态、行动、信息、目标和约束建立模型；先手算、解析界、极限和反例，再大规模计算；保留可行性、误差和适用条件。 |
+| Idea构思 | 从少量不同机制出发，设计能区分机制的试验；分析观测等价、共同最优行动、关键测量、信息价值、组合收益和提前停止；用公平基线、消融及决策收益验证贡献。 |
+| 精确计算 | 有限行动决策与后悔、线性规划原对偶证书、矩条件紧界、仿射盒域最坏后悔、序贯信息决策、时间存量与非线性平均。只在适用条件内给证书。 |
+| 验证与独评 | 全新上下文审阅完整原题、PDF及必要科学材料；最多两次FULL和一次SHORT；逐问题复验，任务完整性和错误闭环分别检查。 |
+| 写作与交付 | 英文正文、摘要、图表、题目指定信函/新闻稿、真实AI披露、PDF全页核查；保存源码、数据、结果、失败构建、原钟、评审和复现封包。 |
+
+Idea的目标是能改变决策或揭示结构的可检验贡献。算法数量、复杂名词和更多篇幅不能替代实际收益。
+
+## 使用
+
+将所选ZIP解压，得到 `himcm-modeling/`。交给支持本地skill的智能体读取其中的 `SKILL.md`，并提供完整原题、全部附件、年份、题号、允许的信息模式和总预算。已有同名技能时，先备份或使用单独目录；不要覆盖冻结研究版本。
+
+示例请求：
+
+> 使用这个目录里的HiMCM skill完成所附原题及全部附件。先列出每条要求；独立提出可检验构思，完成基线、求解和关键替代复算，安排全新上下文独立评审并返修，交付英文论文PDF、可编辑源文件、代码数据与复现包。总预算75分钟，包含审阅等待与封包；缺项如实说明。
+
+初始化新项目：
+
+```bash
+python3 skills/himcm-modeling/scripts/init_project.py ./my-himcm-project --year 2018 --problem A
+```
+
+有PDF时的机械检查入口：
+
+```bash
+python3 skills/himcm-modeling/scripts/check_gate.py ./my-himcm-project --pdf final/TEAM.pdf --review-format structured-v1
+```
+
+首次运行先读[完整运行合同](skills/himcm-modeling/references/runtime-contract-r2.md)及[结构化审阅契约](skills/himcm-modeling/references/structured-review.md)。数学小工具按[适用条件](skills/himcm-modeling/references/certified-math-tools.md)选择；机械通过不能替代科学判断。
+
+## 目前验证到什么程度
+
+| 指标 | 当前93文件包 |
+|---|---|
+| 合成全流程按时完成比例 | **1.00（1/1）**；仅一个人工维护决策任务，不代表稳定性 |
+| 独立审阅 | 合成任务两次真实FULL；首稿错误和首次评委漏检均保留，作者自主修正后复验 |
+| 最新HiMCM整题 | 2018A，1次作者尝试，尚在进行；原math与无skill后续按同协议执行 |
+| 整题质量 Q（0–1） | **未测 / null** |
+| 整题构思 I（0–1） | **未测 / null** |
+| 稳定0.98 / 稳定O奖 | **尚未证明** |
+
+此前61、77、90、92文件版本的题目分数不移植给本93文件包。Q/I属于内部量表，不是官方奖线、获奖概率或“使用就能获O”的保证。尚需完成超过10道不同最终整题、同条件三臂对照、每题3次独立作者以及完整O/F参照共同评审。
+
+## 文件与来源
+
+`skills/`为可调用源码，`packages/`保存两份原ZIP，`manifests/`保留源码冻结清单，`STATUS.json`记录发布时点范围。原始赛题、学生论文全文、私人匿名身份key和各作者实验工作目录未作为本次仓库交付物。
+
+学习参考中保留文献、官方规则与来源归属；旧本机路径仅用于来源追溯，不是依赖安装路径。官方规则快照是历史资料，实际比赛或训练应核验目标年份版本。未为第三方材料附加新的开源许可。
+
+校验全部交付文件：
+
+```bash
+python3 verify_delivery.py
+```

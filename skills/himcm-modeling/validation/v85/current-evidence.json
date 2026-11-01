@@ -1,0 +1,42 @@
+{
+  "version": "v8.5-r1",
+  "status": "FROZEN_CANDIDATE_NOT_INSTALLED_NOT_WHOLE_CASE_TESTED",
+  "complete_runtime_files": 77,
+  "whole_author_attempts": 0,
+  "whole_passes": 0,
+  "quality_Q": null,
+  "idea_quality": null,
+  "official_award_probability": null,
+  "source_development_files": 76,
+  "source_freeze_sha256": "29f1e87f92111c501bfed58cd03af9fe0b6171249491d38488f0d1ffeea6c637",
+  "candidate_delta": "Only entry/UI status metadata plus this new evidence file; all remaining74 source files byte-identical. Full77 candidate has not yet run a whole case.",
+  "limited_real_lifecycle": {
+    "attempts": 1,
+    "accepted_with_disclosed_limits": 1,
+    "budget_minutes": 40,
+    "elapsed_seconds_to_final_tool": 1928,
+    "actual_reviews": "one FULL + one fresh SHORT; no scientific issues found; no actual post-critic scientific-error repair case",
+    "first_critic_local_allocation_overrun_seconds": 28,
+    "global_deadline_extended": false,
+    "parent_proof_sha256": "20026ff89be7ef3e8660d5c991c0b2f79ac779938797d878872dbdad3b4ee742",
+    "public_payload_freeze_sha256": "571e263100037ac01ca4a62591ef6749a9b97bc9b032e50cec2e43ee0139eb08",
+    "all_files_verified": 192,
+    "provided_verified": 78,
+    "actual_native_pages": 6,
+    "isolated_byteexact_files": 3,
+    "not_full_HiMCM_case": true
+  },
+  "prior_software_checks": {
+    "root_regressions": 586,
+    "same_initializer_checks": 3,
+    "prospective_replay_invocations": 109,
+    "scope": "source development10, not independent scientific quality scores"
+  },
+  "remaining_limits": [
+    "Malformed/invalid indexed historical review recovery remains fail-closed; preserve all original attempts.",
+    "Typed records cannot prove mathematical truth, complete task decomposition, true reviewer identity or actual reading.",
+    "No proven cross-case advantage, stable.98 or O-award relationship.",
+    "No causal attribution to idea or mathematical module without equal-budget prospective ablation."
+  ],
+  "history": "Existing validation/v83 and inherited runtime-contract version/status statements are preserved provenance, not current candidate results."
+}

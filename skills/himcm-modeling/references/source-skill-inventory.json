@@ -1,0 +1,999 @@
+[
+  {
+    "name": "academic-humanizer",
+    "source_path": "/Users/imac/.codex/skills/academic-humanizer/SKILL.md",
+    "sha256": "1f4501cb7331cffe9018960f8db045c719eea0658ce04e4af5e273ee59785a9c",
+    "chars": 16779,
+    "description": "Improve the clarity and voice of AI-assisted academic writing (papers, theses, rebuttals) and\nfunding proposals (NSF Project Summary/Description, NIH Specific Aims): preserve scholarly\nconventions, match claims to evidence (and, for proposals, claims to feasibility), and match the\nauthor's own voice. It never changes a number, result, or citation, and it is not for evading\nAI-use disclosure. Use when editing AI-assisted academic prose or grant proposals.\n",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md; referenced assets have separate coverage records"
+  },
+  {
+    "name": "anti-defensive-writing",
+    "source_path": "/Users/imac/.codex/skills/anti-defensive-writing/SKILL.md",
+    "sha256": "d4a3547e7155467ecd12efae5580647f7761b68539ce4486a2b871d45bbe3a8f",
+    "chars": 6458,
+    "description": "Reduce defensive writing in drafts and revisions by removing unnecessary caveats, disclaimers, hedges, apology-like framing, negative self-limiting statements, and over-explanations while preserving necessary scope, accuracy, safety, legal, ethical, and methodological limits. Use when drafting or revising academic writing, papers, essays, abstracts, introductions, contribution statements, discussions, conclusions, technical explanations, grant writing, product writing, policy writing, professional reports, or any text the user wants to be clearer, stronger, more direct, more concise, more confident, less verbose, less caveated, less apologetic, or less defensive.",
+    "role": "source-skill",
+    "reading_status": "PREVIOUS_SOURCE_INTEGRATION_RETAINED_NOT_REREAD_THIS_UPDATE"
+  },
+  {
+    "name": "citation-management",
+    "source_path": "/Users/imac/.codex/skills/citation-management/SKILL.md",
+    "sha256": "2b5b41cdbd5383c2f08431ea5b665c6a0c5b5aaa1bf6867f6d25d91e46bc8996",
+    "chars": 13966,
+    "description": "",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md; referenced assets have separate coverage records"
+  },
+  {
+    "name": "cumcm-latex-paper",
+    "source_path": "/Users/imac/.codex/skills/cumcm-latex-paper/SKILL.md",
+    "sha256": "ad35f9d27ad0632a81a02be3374f95992feb02715c12f20e69bff0ac36664770",
+    "chars": 3665,
+    "description": "根据已经完成的数学建模代码、计算结果、答案与图表，撰写或修改中文数模竞赛论文，交付可编译的 LaTeX 工程与 PDF。适用于整篇论文、单问章节、摘要提炼和论文审校；按每问的机理、优化、统计任务选用写法。仅有赛题而尚未完成建模求解时，不进入成稿流程。",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md; referenced assets have separate coverage records"
+  },
+  {
+    "name": "de-AI-writing",
+    "source_path": "/Users/imac/.codex/skills/de-AI-writing/SKILL.md",
+    "sha256": "9d89dcba395a939d5917271f65d9aa2bb0d81561e6ba5673627b0e1b64fdd17e",
+    "chars": 2208,
+    "description": "中文写作、改写、润色、翻译和审阅的去 AI 味技能。用于保留原意和原文风格，减少路标词、讲义腔、模板句式、协作口吻和 AI 痕迹。默认轻量加载，按任务只读取必要参考章节。",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md"
+  },
+  {
+    "name": "humanize",
+    "source_path": "/Users/imac/.codex/skills/humanize/SKILL.md",
+    "sha256": "47608b4bb4cee506a654dc430f029702f66627c8cb0e7e20772e4cd578f9eab8",
+    "chars": 1799,
+    "description": "Rewrite or draft Chinese or English text in clear, natural, plain language while preserving meaning and required genre conventions. Use when the user asks to “说人话”, humanize prose, remove translation-like phrasing, reduce empty grand language, or make explanations easier to follow.",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md"
+  },
+  {
+    "name": "humanizer",
+    "source_path": "/Users/imac/.codex/skills/humanizer/SKILL.md",
+    "sha256": "70938f3cce25970e1ded5fdd194b755c03f1e4e4fa76820958ce78f86b677b1a",
+    "chars": 29563,
+    "description": "Remove signs of AI-generated writing from text. Use when editing or reviewing\ntext to make it sound more natural and human-written. Based on Wikipedia's\ncomprehensive \"Signs of AI writing\" guide. Detects and fixes patterns including:\ninflated symbolism, promotional language, superficial -ing analyses, vague\nattributions, em dash overuse, rule of three, AI vocabulary words, passive\nvoice, negative parallelisms, and filler phrases.\n",
+    "role": "source-skill",
+    "reading_status": "PREVIOUS_SOURCE_INTEGRATION_RETAINED_NOT_REREAD_THIS_UPDATE"
+  },
+  {
+    "name": "hypothesis-generation",
+    "source_path": "/Users/imac/.codex/skills/hypothesis-generation/SKILL.md",
+    "sha256": "03988141652207b38838a5f1d494297f7db715e496b1623f7880e417ad0ce3c4",
+    "chars": 14701,
+    "description": "",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md; referenced assets have separate coverage records"
+  },
+  {
+    "name": "literature-review",
+    "source_path": "/Users/imac/.codex/skills/literature-review/SKILL.md",
+    "sha256": "89c07a723f1be54371d11e0e6d81db2867cfbb97a54ce0b5fc24b1c1468f40da",
+    "chars": 12664,
+    "description": "",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md; referenced assets have separate coverage records"
+  },
+  {
+    "name": "math-modeling-finalizer",
+    "source_path": "/Users/imac/.codex/skills/math-modeling-finalizer/SKILL.md",
+    "sha256": "45c4f58a2b92f09545c78281cc305050aa6b5e94b70676b49a373e14c0630dc5",
+    "chars": 7191,
+    "description": "数学建模项目收口与终审 Skill。用于正式结果已基本冻结后的参赛者尺度代码简化与行为回归、最终完整复审、AI 工具使用详情 DOCX、Word/PDF 排版检查、支撑材料 ZIP 与提交前卫生检查。典型请求包括“结果已经定了，把代码改得更像学生项目”“最后完整审一遍”“检查最终 Word/PDF”“生成 AI 使用详情和支撑材料”。若需要重新建模、修改 evaluator 或正式结果，路由回 math-modeling-solver；正文、摘要、引用语义或公式写作问题路由回 math-modeling-paper；提交后的项目复盘/教学交给 math-modeling-growth。",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md"
+  },
+  {
+    "name": "modeling-abstract-finalizer",
+    "source_path": "/Users/imac/.codex/skills/math-modeling-finalizer/skills/modeling-abstract-finalizer/SKILL.md",
+    "sha256": "f47582adc37cd3bb12cbd55da3d48faab7c680a1a5fe385a8aeb747d3a03a5f6",
+    "chars": 478,
+    "description": "Final abstract consistency check against current Result Certificates and Paper Handoff. Does not create new scientific claims.",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md"
+  },
+  {
+    "name": "modeling-behavior-refactor",
+    "source_path": "/Users/imac/.codex/skills/math-modeling-finalizer/skills/modeling-behavior-refactor/SKILL.md",
+    "sha256": "03ef4ad99f33fa62da0005ead24e5ba82dd36bc8509d8d09c333bd3c36ef5fac",
+    "chars": 688,
+    "description": "Contestant-scale code simplification. Simplify unnecessary engineering structure while preserving mathematical/numerical behavior; any executable hash change requires result/evaluator regression.",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md"
+  },
+  {
+    "name": "modeling-delivery-gate",
+    "source_path": "/Users/imac/.codex/skills/math-modeling-finalizer/skills/modeling-delivery-gate/SKILL.md",
+    "sha256": "4ef3ae8b36bfd0ae66a8c0c89215642ce1fc4bfc84c3a0cc6e8fefbddc8608b0",
+    "chars": 462,
+    "description": "Final delivery checker for support archives, DOCX/static checks and exact-PDF visual review. Missing exact PDF remains NOT_VERIFIED.",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md"
+  },
+  {
+    "name": "modeling-paper-compressor",
+    "source_path": "/Users/imac/.codex/skills/math-modeling-finalizer/skills/modeling-paper-compressor/SKILL.md",
+    "sha256": "e7aca3e66ec002d000724c660c53c6de89ea643977cbcabfdfd3bb0df33e8a70",
+    "chars": 477,
+    "description": "Conditional paper length control. Run only when an explicit page limit is exceeded or the user asks to compress; preserve core claims, formulas, figures and evidence.",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md"
+  },
+  {
+    "name": "modeling-repair-regression",
+    "source_path": "/Users/imac/.codex/skills/math-modeling-finalizer/skills/modeling-repair-regression/SKILL.md",
+    "sha256": "107ec8f62a218d678a83bab0ef79ec313fbff7daff20d2d18e600de1d8bb0b48",
+    "chars": 515,
+    "description": "Targeted repair/regression coordinator. After a confirmed defect is fixed by its owner, rerun the smallest affected downstream checks and behavior comparisons.",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md"
+  },
+  {
+    "name": "modeling-solution-auditor",
+    "source_path": "/Users/imac/.codex/skills/math-modeling-finalizer/skills/modeling-solution-auditor/SKILL.md",
+    "sha256": "87132ce533ee4756bbd87f1ad6462df70f764260c155e7d51332970aab4e286b",
+    "chars": 619,
+    "description": "Final cross-artifact audit using upstream Result Certificates and Paper Handoff. Detect inconsistencies and route them to the correct owner without creating a new scientific registry.",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md"
+  },
+  {
+    "name": "math-modeling-growth",
+    "source_path": "/Users/imac/.codex/skills/math-modeling-growth/SKILL.md",
+    "sha256": "cfd6ce1058e961375adc7818c0069cbdb730f9fbf23f777db7382b9ea41113c1",
+    "chars": 4121,
+    "description": "把真实项目的阶段结果、决策、证据、失败记录和当前进度，转化为通俗、循序渐进、可执行的学习解释与赛后成长报告。用户要求复盘项目、理解自己学到了什么、解释某次决策、生成赛后报告、从项目进度推进学习，或需要按接受度逐步教学时使用；优先读取 Solver、Paper、Finalizer 等上游阶段产物和当前冻结结果。",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md"
+  },
+  {
+    "name": "math-modeling-paper",
+    "source_path": "/Users/imac/.codex/skills/math-modeling-paper/SKILL.md",
+    "sha256": "2bea5c011bd4bd30f7d627255cbb7997537d5003bbe24e1357c717cce8e8dde2",
+    "chars": 6932,
+    "description": "数学建模竞赛证据约束论文写作 Skill。用于论文结构、正文、摘要、引用语义位置、canonical LaTeX、图表叙事、附录/README 与论文内 AI 披露；正式数字只消费 Solver Result Certificate，不重新计算或改写科学结果。适合“重写摘要”“优化正文”“处理引用/公式/图表”“让论文更像竞赛论文”等任务。若问题会改变模型、evaluator 或正式结果，路由回 math-modeling-solver；已冻结结果后的代码人味化、最终 Word/PDF/ZIP 与独立 AI 使用详情交给 math-modeling-finalizer。",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md"
+  },
+  {
+    "name": "math-modeling-solver",
+    "source_path": "/Users/imac/.codex/skills/math-modeling-solver/SKILL.md",
+    "sha256": "12be6403ff1257a4108814935039cea2362337e3ef51b064cf48e7a46bffc13e",
+    "chars": 14513,
+    "description": "数学建模竞赛通用协作求解与结果认证 Skill。用于新题理解、Problem Contract、独立建模发散、Web Research 接入、模型/算法选择、formal evaluator、复杂优化搜索空间审计、程序求解、结果验证与 Result Certificate。尤其适用于“怎么建模”“为什么搜不到更好结果”“evaluator 是否正确”“代码是否真正符合题意”等会改变科学结果的问题。论文措辞、引用与 DOCX 版式交给 math-modeling-paper；已冻结结果后的代码人味化与最终交付交给 math-modeling-finalizer。",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md"
+  },
+  {
+    "name": "mathskills",
+    "source_path": "/Users/imac/.codex/skills/mathskills/SKILL.md",
+    "sha256": "26470bc53318ca73f8892a621858dac2e1dfa9dfb08544383ee275caf9a5c040",
+    "chars": 23576,
+    "description": "End-to-end mathematical modeling competition workflow covering problem interpretation, data auditing, model selection, implementation, validation, visualization, paper writing, and final review. Use when an AI assistant needs to solve or review a mathematical modeling problem, process competition attachments, produce reproducible results, or write a Chinese modeling paper. Designed for tool-capable assistants including Codex, Claude Code, Gemini CLI, Cursor, Copilot, and comparable agents.",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md"
+  },
+  {
+    "name": "academic-figure",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/academic-figure/SKILL.md",
+    "sha256": "ec3c3d4cc336ed2d0dd7f157f44873a81c250604021a10612a8bdf4fd685c8b7",
+    "chars": 452,
+    "description": "Compatibility alias for publication-grade academic figure creation and review. Use for manuscript figures, multi-panel layouts, journal export, or figure QA.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "academic-humanizer",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/academic-humanizer/SKILL.md",
+    "sha256": "3ff041ba6fa9007529842a85586d6fa7050b7db606a7d60a534ca32611b8dde4",
+    "chars": 358,
+    "description": "Compatibility alias for revising academic prose to sound natural while preserving claims, evidence, terminology, citations, and quantitative results.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "academic-research-plotting",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/academic-research-plotting/SKILL.md",
+    "sha256": "a703b24e1f8975a3b09ca32bf31650997370aaae63f18a03b9e79d42dc35cba8",
+    "chars": 363,
+    "description": "Compatibility alias for creating and auditing publication-quality Python research plots across academic disciplines.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "academic-writing-skills",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/academic-writing-skills/SKILL.md",
+    "sha256": "b9fb5e7659372227d5c79f5ba49b7c336b7434568829ac0696f324959f9f87b7",
+    "chars": 282,
+    "description": "Compatibility alias for evidence-grounded academic drafting, revision, formatting, citation verification, and manuscript review.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "agent-figure-gallery",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/agent-figure-gallery/SKILL.md",
+    "sha256": "a11d384af7a28fcc528dc369d8eb4cf6eaa55aef35738421fdfa010b11dcf14e",
+    "chars": 361,
+    "description": "Compatibility alias for selecting and adapting an appropriate scientific figure pattern or reusable gallery asset.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "ai-paper-writing",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/ai-paper-writing/SKILL.md",
+    "sha256": "254f3453cec3038c7bf2ff0328804c276c4b9a4b769fd8b348ba5157f36503b9",
+    "chars": 284,
+    "description": "Compatibility alias for planning, drafting, expanding, compressing, and logically reviewing an academic paper without inventing evidence.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "chinese-thesis-de-ai",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/chinese-thesis-de-ai/SKILL.md",
+    "sha256": "3d95c2f3fae92bd009b6b0fd60df867309ed0c410f655205bb78f28a095b137f",
+    "chars": 395,
+    "description": "Compatibility alias for reducing formulaic AI patterns in Chinese academic writing while protecting technical content and document integrity.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "collab-session",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/collab-session/SKILL.md",
+    "sha256": "d77586b3d3474eb107db2796266431e9cb4df3cc74a1983da7194610c7ea7fe1",
+    "chars": 263,
+    "description": "Compatibility alias for coordinating bounded specialist tasks, shared state, approval gates, and artifact handoffs.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "data-visualization",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/data-visualization/SKILL.md",
+    "sha256": "5651fd3131621446abfe0ce77c06a4db8f84b7b9a43457d163ff80dd9fb4dd84",
+    "chars": 297,
+    "description": "Compatibility alias for exploratory and publication visualization from data ingestion through planning, execution, interpretation, and QA.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "data-wrangler",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/data-wrangler/SKILL.md",
+    "sha256": "508238971b492d022b9284878f2b5a596f7c2312aac275e3045229a64906ff14",
+    "chars": 261,
+    "description": "Compatibility alias for auditable cleaning, conversion, joining, typing, and preparation of mathematical-modeling datasets.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "de-aigc-skill",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/de-AIGC-skill/SKILL.md",
+    "sha256": "6af2e3991917f353a690d47feb11b014c8834f98c69d3f86db9a61fa6f56e176",
+    "chars": 277,
+    "description": "Compatibility alias for controlled Chinese academic humanization with length, terminology, LaTeX, citation, and consistency protection.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "de-ai-flavor",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/de-ai-flavor/SKILL.md",
+    "sha256": "fc19772f07d49998cb092f21060e8dc7b69ea13b10d65d20f22d0a7e24298f20",
+    "chars": 307,
+    "description": "Compatibility alias for auditing Chinese prose for formulaic AI-writing patterns and producing a controlled, technically faithful revision.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "de-aigc-ch",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/de-aigc-ch/SKILL.md",
+    "sha256": "cc0d1d62d12fd40ec7f22e0d1a25fd2a82f20ba7a3e7eb60c9f488f4fa3e5107",
+    "chars": 288,
+    "description": "Compatibility alias for naturalizing Chinese academic prose while protecting evidence, terminology, citations, and numerical consistency.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "find-skill",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/find-skill/SKILL.md",
+    "sha256": "02dc4ad4d1ecd26c1c56a3715302b6ead4a2eceb756e84af2ba3102e79d2b8d8",
+    "chars": 322,
+    "description": "Compatibility alias for resolving a requested capability to a registered specialist Skill or documented fallback.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "finding-unknowns",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/finding-unknowns/SKILL.md",
+    "sha256": "a2e4dae3fe949a944516fe4c29401b4ff4ebb77d379f189b632fc950f7dc689e",
+    "chars": 294,
+    "description": "Compatibility alias for discovering missing information, blind spots, fragile assumptions, and unresolved modeling questions.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "grill-me",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/grill-me/SKILL.md",
+    "sha256": "1ff49607fb0beb1bac1f641bb571350442c74b20971442a26c3725e06b444887",
+    "chars": 286,
+    "description": "Compatibility alias for interrogating a model or plan one decisive question at a time until material decision branches are resolved.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "humanizer-patterns",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/humanizer-patterns/SKILL.md",
+    "sha256": "b09bb5b2cf66c3ebae61d51e7c85b60a5127cbae0be51b9aff4aceccc902dfd9",
+    "chars": 317,
+    "description": "Compatibility alias for auditing prose against recurring AI-writing patterns before controlled academic revision.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "humanizer",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/humanizer/SKILL.md",
+    "sha256": "a020e2ba6f38ef6b57e6c0b4ccbb91b2237e1aeddbcaa2244f16b1eeba8fdce3",
+    "chars": 312,
+    "description": "Compatibility alias for removing formulaic AI-writing patterns from English prose while preserving meaning, evidence, register, and author voice.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "llm-council",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/llm-council/SKILL.md",
+    "sha256": "e7c33f9f8c31aeca1800f3afd7936fb5d53b058dfc06bdafbf8319e54a2cdcd8",
+    "chars": 346,
+    "description": "Compatibility alias for comparing independent modeling viewpoints and synthesizing agreements, conflicts, evidence, and a final recommendation.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "matplotlib-consistency",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/matplotlib-consistency/SKILL.md",
+    "sha256": "42f237f9c4fddec47e724b073c351b4406179b4cd7d84e3a7b41213f58abea93",
+    "chars": 379,
+    "description": "Compatibility alias for consistent, correct Matplotlib styling, APIs, sizing, layout, and export across scientific figures.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "mental-models",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/mental-models/SKILL.md",
+    "sha256": "284fc9de18c93c474497a3505480b460a7f69739596ae9a8e2d5f2f11fce1011",
+    "chars": 346,
+    "description": "Compatibility alias for using cross-disciplinary mental models to analyze a difficult decision, expose tensions, and synthesize recommendations.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "naval-thinking",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/naval-thinking/SKILL.md",
+    "sha256": "b2a51fa2dbdf699d8c0cea290b49a4829ac5fa69e1cbdc0a8cc3cf156d400da9",
+    "chars": 269,
+    "description": "Compatibility alias for applying concise decision principles and long-horizon reasoning to a modeling or strategy choice.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "paper-skill",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/paper-skill/SKILL.md",
+    "sha256": "212fd5544297833584a72a0db3634995085e30e8502610829a9648641f745ab5",
+    "chars": 271,
+    "description": "Compatibility alias for end-to-end evidence-grounded manuscript planning, writing, citation checking, revision, and submission review.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "plot-maxxing",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/plot-maxxing/SKILL.md",
+    "sha256": "e95cd8e38f6614bbd093d1e7957d1c10bebb013eef85135fd03e82a4d5cfa68e",
+    "chars": 277,
+    "description": "Compatibility alias for strengthening the story, hierarchy, annotations, layout, and QA of a technically correct scientific chart.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "rad-skills",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/rad-skills/SKILL.md",
+    "sha256": "9062e01007ccee621d172facc67ee30c401fc07880f89859526545cf2568fea1",
+    "chars": 244,
+    "description": "Compatibility alias for routing research, analysis, and design subtasks through explicit specialist contracts.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "sci-figure",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/sci-figure/SKILL.md",
+    "sha256": "7a1203e25bdcd2fd369c6155ad3c467c47604c2c846c51a9607ceaae84a9fbab",
+    "chars": 360,
+    "description": "Compatibility alias for producing restrained SCI-style data figures with consistent typography, color, annotation, and high-resolution export.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "scipilot-figure",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/scipilot-figure/SKILL.md",
+    "sha256": "c79515fde73f1f547c522bcc1a4ff819a44d7427db7d71b791c2862e855374ea",
+    "chars": 284,
+    "description": "Compatibility alias for contract-first scientific figure planning, generation, technical inspection, visual QA, repair, and export.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "seedex",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/seedex/SKILL.md",
+    "sha256": "add470025be2d0625348e00a00cea3960b26cb492a6c3e03e3243ff32767d887",
+    "chars": 247,
+    "description": "Compatibility alias for structuring an exploratory task and routing it to a bounded specialist workflow.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "agent-skill-creator",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/skill-creator/SKILL.md",
+    "sha256": "b16493caf4ab650d533ff8ffc8b63f4405e1f2dc9ebb819e46a3863eb198ac24",
+    "chars": 43648,
+    "description": "Create cross-platform agent skills from workflow descriptions. Activates when users ask to create an agent, automate a repetitive workflow, create a custom skill, or need advanced agent creation. Triggers on phrases like create agent for, automate workflow, create skill for, every day I have to, daily I need to, turn process into agent, need to automate, create a cross-platform skill, validate this skill, export this skill, migrate this skill. Supports single skills, multi-agent suites, transcript processing, template-based creation, interactive configuration, cross-platform export, and spec validation.",
+    "role": "alias-or-reference",
+    "reading_status": "PREVIOUS_SOURCE_INTEGRATION_RETAINED_NOT_REREAD_THIS_UPDATE"
+  },
+  {
+    "name": "skill-deslop",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/skill-deslop/SKILL.md",
+    "sha256": "7ed04d87b957ab8e0e143f3cf3a73961e9be401d188cee7849ca7b0d8db6615d",
+    "chars": 285,
+    "description": "Compatibility alias for removing filler, formulaic structures, stock AI phrases, and unnatural rhythm from academic prose without diluting content.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "smart-eda",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/smart-eda/SKILL.md",
+    "sha256": "776e8d0d4be64a746ed956f0604a4f49ee21ef1739681aa094de57ec00496fc7",
+    "chars": 264,
+    "description": "Compatibility alias for adaptive exploratory data analysis, data-quality auditing, relationship discovery, and pre-modeling synthesis.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "spark-protocol",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/spark-protocol/SKILL.md",
+    "sha256": "08866baa5843824f1986fb816cd5bba3cfffae161670a161e79633ce631fcf1f",
+    "chars": 270,
+    "description": "Compatibility alias for clarifying an under-specified task and turning it into a bounded, testable specialist assignment.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "statistical-analysis",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/statistical-analysis/SKILL.md",
+    "sha256": "1ccd07f295837c61af080ae8c79591029b7e44cc005ac4949ca4496e001f93da",
+    "chars": 288,
+    "description": "Compatibility alias for assumption-aware statistical testing, effect estimation, uncertainty reporting, diagnostics, and power analysis.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "terminal-plot",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/terminal-plot/SKILL.md",
+    "sha256": "7eb1d336f16a5e966222babc935a36733188f02432a4459410c570a4bc0a7749",
+    "chars": 340,
+    "description": "Compatibility alias for quick terminal-native charts used during data inspection when graphical rendering is unnecessary or unavailable.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "tufte-data-viz",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/tufte-data-viz/SKILL.md",
+    "sha256": "9a2572f9bea903154990c5d678541b1ae9c9fd134a0eff7b83ffb32953cf967d",
+    "chars": 276,
+    "description": "Compatibility alias for low-clutter, comparison-centered, accessible data visualization using Tufte-inspired principles.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "unslop",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/external-skills/unslop/SKILL.md",
+    "sha256": "d300521d498439cc7ed7dd9a55fa333365abada00fbe8520b673d15274784549",
+    "chars": 267,
+    "description": "Compatibility alias for audit-first reconstruction of formulaic AI-generated prose into natural, register-appropriate academic writing.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "modelviz",
+    "source_path": "/Users/imac/.codex/skills/mathskills/references/modelviz/SKILL.md",
+    "sha256": "fb20b2744d398399802d599fac40422423405863f4d7ab97619a7147c5970d34",
+    "chars": 381,
+    "description": "Compatibility alias for selecting and adapting mathematical-modeling visualization templates from structured data and a plotting request.",
+    "role": "compatibility-alias",
+    "reading_status": "ALIAS_READ_AND_CANONICAL_TARGET_RESOLVED",
+    "scope": "Alias entrypoint; canonical target is the actual workflow"
+  },
+  {
+    "name": "academic-humanization",
+    "source_path": "/Users/imac/.codex/skills/mathskills/skills/academic-humanization/SKILL.md",
+    "sha256": "5a1972a3bea01244e7971d3614d3ac71a0ab86e1c1c4418b0d95df7ddeb86f20",
+    "chars": 2994,
+    "description": "Audit and revise Chinese or English academic prose to reduce formulaic AI-writing patterns while preserving equations, citations, frozen numbers, terminology, meaning, length constraints, and scholarly register. Use only after technical content is stable, or when reviewing a completed draft for naturalness and authorship voice.",
+    "role": "canonical-child",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md"
+  },
+  {
+    "name": "academic-translation",
+    "source_path": "/Users/imac/.codex/skills/mathskills/skills/academic-translation/SKILL.md",
+    "sha256": "1fad860e7222b1a76f6e072d0687d8e42af5bf502abdc6eb04730771fe28bfa7",
+    "chars": 1482,
+    "description": "Translate Chinese mathematical-modeling or scientific prose into publication-ready English, or polish English while preserving numbers, equations, citations, terminology, uncertainty, and claim strength. Use for bilingual papers, abstracts, captions, and reviewer-facing text; do not optimize for AI-detector scores.",
+    "role": "canonical-child",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md"
+  },
+  {
+    "name": "academic-writing",
+    "source_path": "/Users/imac/.codex/skills/mathskills/skills/academic-writing/SKILL.md",
+    "sha256": "9d0daf54fdd0e93a16c55b0501dcd509477e4f98cf6f31ebce0d1b3193dd9984",
+    "chars": 2524,
+    "description": "Plan, draft, revise, translate, and verify mathematical-modeling and academic manuscripts with evidence-grounded claims, consistent equations and results, traceable citations, and submission-ready structure. Use after model results are stable or when reviewing an existing paper.",
+    "role": "canonical-child",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md"
+  },
+  {
+    "name": "data-analysis",
+    "source_path": "/Users/imac/.codex/skills/mathskills/skills/data-analysis/SKILL.md",
+    "sha256": "420e1f4ca264b8460a8ac4f3b413d4270349981030dac3d475e379606eec0605",
+    "chars": 2891,
+    "description": "Audit, clean, explore, and statistically analyze mathematical-modeling datasets. Use for CSV, Excel, tabular, time-series, multi-file, missing-data, outlier, distribution, correlation, hypothesis-test, regression-diagnostic, power-analysis, or pre-modeling data tasks.",
+    "role": "canonical-child",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md"
+  },
+  {
+    "name": "jupyter-live-analysis",
+    "source_path": "/Users/imac/.codex/skills/mathskills/skills/jupyter-live-analysis/SKILL.md",
+    "sha256": "f5de24d189fa35c4768c0d89edb1b57364fa85f60bcb00fbd303d3f8afb3faab",
+    "chars": 1596,
+    "description": "Use a stateful Jupyter kernel for iterative mathematical-modeling data exploration, plotting, and small reproducible calculations when persistent variables and visible notebook state materially improve the analysis. Use terminal scripts for final batch runs.",
+    "role": "canonical-child",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md"
+  },
+  {
+    "name": "literature-evidence",
+    "source_path": "/Users/imac/.codex/skills/mathskills/skills/literature-evidence/SKILL.md",
+    "sha256": "c7de5e99fcead2d31aa95c60334bcd87cf81a8e9414c131714e62e2134a9da6f",
+    "chars": 2709,
+    "description": "Build a source-grounded evidence map for a mathematical-modeling project, including algorithm references, domain facts, assumptions, novelty positioning, and citation verification. Use before model selection or whenever a paper claim depends on external literature; do not use it to invent citations or replace the model decision.",
+    "role": "canonical-child",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md"
+  },
+  {
+    "name": "measured-experiment-loop",
+    "source_path": "/Users/imac/.codex/skills/mathskills/skills/measured-experiment-loop/SKILL.md",
+    "sha256": "91dc5ac1826138ea459ebcf0b14deb24acf79abfc509b28e26e9612fd113163c",
+    "chars": 2104,
+    "description": "Run bounded, measurable model or parameter experiments for mathematical-modeling projects. Use when several candidate implementations can be compared by a fixed metric and each trial must be logged, validated, retained, or discarded; do not use for ordinary one-shot coding or open-ended qualitative improvement.",
+    "role": "canonical-child",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md"
+  },
+  {
+    "name": "model-deliberation",
+    "source_path": "/Users/imac/.codex/skills/mathskills/skills/model-deliberation/SKILL.md",
+    "sha256": "58830d1406a1e9213f8ab6f0950e7ab4ec166f2c91eab28ba13db24bb1dc9032",
+    "chars": 2012,
+    "description": "Stress-test mathematical-modeling decisions, discover unknowns and blind spots, compare candidate methods, challenge assumptions, and produce a justified model decision. Use when a modeling direction is unclear, high-impact, disputed, under-specified, or ready for adversarial review.",
+    "role": "canonical-child",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md"
+  },
+  {
+    "name": "national-award-paper-style",
+    "source_path": "/Users/imac/.codex/skills/mathskills/skills/national-award-paper-style/SKILL.md",
+    "sha256": "513f1a2756a2947ba9d1bfb81d2cd33b06630c457ccc69851c122030ad68d4db",
+    "chars": 2953,
+    "description": "Learn from and apply evidence-backed writing, structure, figure, table, appendix, and LaTeX layout patterns observed in national mathematical-modeling award papers. Use during CUMCM paper planning, drafting, figure/table QA, appendix assembly, and final review; do not copy distinctive wording or treat an individual paper as a mandatory template.",
+    "role": "canonical-child",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md"
+  },
+  {
+    "name": "plan-and-execution",
+    "source_path": "/Users/imac/.codex/skills/mathskills/skills/plan-and-execution/SKILL.md",
+    "sha256": "74ff0614c005991ef20f77548d4d4be6a28dd5b6c517854d60e72067cde9366c",
+    "chars": 990,
+    "description": "Turn a multi-stage mathematical-modeling or paper-production specification into a bite-sized, testable implementation plan before making substantial changes. Use for complex projects, not for trivial edits or when the user explicitly wants an uninterrupted one-shot run.",
+    "role": "canonical-child",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md"
+  },
+  {
+    "name": "reproducibility-audit",
+    "source_path": "/Users/imac/.codex/skills/mathskills/skills/reproducibility-audit/SKILL.md",
+    "sha256": "24661d56b51e792ded6d63e99ee3073f42a6004e0f32302629fe8a70cabde3b9",
+    "chars": 2131,
+    "description": "Audit whether a mathematical-modeling project can regenerate its data products, numerical results, figures, and paper from protected inputs and recorded code. Use before final delivery, after major revisions, or when a result cannot be traced; do not modify raw inputs to make a rerun pass.",
+    "role": "canonical-child",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md"
+  },
+  {
+    "name": "research-presentation",
+    "source_path": "/Users/imac/.codex/skills/mathskills/skills/research-presentation/SKILL.md",
+    "sha256": "4a1c3fc3f8cfefeafb1ba85d3d2e1c51e745811d29f60a2be869fde0844297b7",
+    "chars": 1543,
+    "description": "Convert a mathematical-modeling paper, frozen results, figures, or notes into a source-grounded academic presentation with an evidence ledger, narrative outline, speaker notes, editable elements when supported, and rendered QA. Use for defense, group meeting, competition presentation, or paper-to-slides tasks.",
+    "role": "canonical-child",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md"
+  },
+  {
+    "name": "scientific-visualization",
+    "source_path": "/Users/imac/.codex/skills/mathskills/skills/scientific-visualization/SKILL.md",
+    "sha256": "531e1a9bfb6cdc4af941955aa04986f02c1da6882d6a8726533174f1eba2d5ea",
+    "chars": 3062,
+    "description": "Explore data visually and create, review, repair, and export publication-quality scientific figures for mathematical modeling and academic papers. Use for chart selection, plotting code, multi-panel layouts, statistical graphics, figure storytelling, style consistency, accessibility, vector export, and visual QA.",
+    "role": "canonical-child",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md"
+  },
+  {
+    "name": "sql-data-analysis",
+    "source_path": "/Users/imac/.codex/skills/mathskills/skills/sql-data-analysis/SKILL.md",
+    "sha256": "575b1acd8aed55e516447ec8a886b6c449a56cd7c6e4b8c1297b509fbd352c1a",
+    "chars": 1457,
+    "description": "Turn a natural-language modeling-data question plus a DDL or database schema into verified SQL and auditable summaries. Use for SQLite or relational attachments, joins, grouped statistics, and query-plan checks; do not use when the task is purely CSV analysis without a database schema.",
+    "role": "canonical-child",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md"
+  },
+  {
+    "name": "validation-and-robustness",
+    "source_path": "/Users/imac/.codex/skills/mathskills/skills/validation-and-robustness/SKILL.md",
+    "sha256": "76503c53a3801184ca8244995a472d4687cd864182d989b3f63a2d062b83ec65",
+    "chars": 2638,
+    "description": "Design and run evidence-backed validation, sensitivity, ablation, uncertainty, and stress tests for mathematical-modeling solutions. Use after a candidate model exists and before results are frozen; do not add tests merely to select a favorable result.",
+    "role": "canonical-child",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md"
+  },
+  {
+    "name": "workflow-orchestration",
+    "source_path": "/Users/imac/.codex/skills/mathskills/skills/workflow-orchestration/SKILL.md",
+    "sha256": "095a7b968147f79154d55669553f3d19679b5ab5b3bcaaef435a7ec9585e5b06",
+    "chars": 3251,
+    "description": "Coordinate multi-stage mathematical-modeling work, route tasks to specialist skills, maintain state and approval gates, reconcile outputs, and handle missing capabilities. Use when the main mathskills workflow needs to invoke or emulate child skills across different AI platforms.",
+    "role": "canonical-child",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md"
+  },
+  {
+    "name": "nature-academic-search",
+    "source_path": "/Users/imac/.codex/skills/nature-academic-search/SKILL.md",
+    "sha256": "65f44bb5d31f8b2d26687dcdcbc22d3def3ab2b5a26c810cd5e18a6a98d5e681",
+    "chars": 4685,
+    "description": "Multi-source literature search, citation verification, strict independent other-citation audits, article-level citation metric tables, influential citer profiling with citation-context extraction, MeSH search strategy, citation file management (.nbib/.ris/.bib conversion), and reference management (BibTeX, related articles, ID conversion) via MCP tools (PubMed, CrossRef, arXiv, Scopus, ScienceDirect). Use for coordinated literature workflows beyond one MCP call, including 文献检索、 查文献、找文献、文献综述检索、查论文、引文核对、参考文献管理、文献去重、 严格他引、他引判定、排除自引、谁引用了我的文章、引用我的文章的人有没有大牛、 院士引用、校长引用、院长引用、杰青引用、长江学者引用、Fellow引用、文章引用表、 指定文章引用数、严格他引数、整理成表格.",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md; referenced assets have separate coverage records"
+  },
+  {
+    "name": "nature-citation",
+    "source_path": "/Users/imac/.codex/skills/nature-citation/SKILL.md",
+    "sha256": "ada5720816a45e85d3b8c96eedf04255b814cf8bbc6f177d1f12639a2409ed85",
+    "chars": 4706,
+    "description": "",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md; referenced assets have separate coverage records"
+  },
+  {
+    "name": "nature-data",
+    "source_path": "/Users/imac/.codex/skills/nature-data/SKILL.md",
+    "sha256": "9d1c8fd0509e82fbff65d72423a770f28548dcb80e182850bf44a30451b35bc6",
+    "chars": 4511,
+    "description": "",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md; referenced assets have separate coverage records"
+  },
+  {
+    "name": "nature-downloader",
+    "source_path": "/Users/imac/.codex/skills/nature-downloader/SKILL.md",
+    "sha256": "0351f9069e77a4b027893592d295f3c511301bc7d2ec7d299ab49ee2c106be54",
+    "chars": 23813,
+    "description": "Use when a user needs lawful academic full text, CNKI institutional access, English OA retrieval, publisher API access, institutional browser fallback, or supporting information downloads.",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md; referenced assets have separate coverage records"
+  },
+  {
+    "name": "nature-figure",
+    "source_path": "/Users/imac/.codex/skills/nature-figure/SKILL.md",
+    "sha256": "7b4498842342612a3c2677ebac3866e28e609e0dfa3e4d32f5980c46ad5fdded",
+    "chars": 7429,
+    "description": "",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md; referenced assets have separate coverage records"
+  },
+  {
+    "name": "nature-literature-pipeline",
+    "source_path": "/Users/imac/.codex/skills/nature-literature-pipeline/SKILL.md",
+    "sha256": "1dcaa692457ec9c2be409cb7777f834a2db833788b2e9b680baf0e961126b01a",
+    "chars": 4645,
+    "description": "Complete automated literature discovery pipeline: multi-source search → six-dimension scoring → fine reading → formatted delivery → archival.\nCombines a configurable engine with daily cron-driven application layer. Works with Feishu, Telegram, or any messaging platform.\n",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md; referenced assets have separate coverage records"
+  },
+  {
+    "name": "nature-math-modeling-writing",
+    "source_path": "/Users/imac/.codex/skills/nature-math-modeling-writing/SKILL.md",
+    "sha256": "fd799fa8ee5f71e3709b29a929f2586b5a831f27a4975eb9fcc002d2e6337f29",
+    "chars": 10719,
+    "description": "按 Nature 系列计算/方法类期刊的实测文风写作或改写数学建模、算法、机器学习方法、\n数值模拟与统计方法类论文。语料基础：100 篇全文（Nature Methods 30、\nScientific Reports 建模类 30、Nature Computational Science 30、\nNature Machine Intelligence 10；2021–2026）逐篇量化分析。\n何时用：(1) 写或改以\"提出一个方法/模型/算法\"为核心贡献的英文论文；\n(2) 组织 benchmark 对比、消融实验、复杂度分析的叙述顺序；(3) 写方法论文的\n摘要与引言（如何在不夸大的前提下说清新方法比谁强、强多少）；(4) 检查代码/数据\n可得性与可复现性表述是否达标。\n不适用：以人群/社会数据为核心议题的论文（用 nature-social-writing）、\n以湿实验机制为核心的论文（用 nature-life-writing）。\n",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md; referenced assets have separate coverage records"
+  },
+  {
+    "name": "nature-paper-card",
+    "source_path": "/Users/imac/.codex/skills/nature-paper-card/SKILL.md",
+    "sha256": "9f0bc1412059805ae9fee9152d591ca22d59311db99f18c92381722555630d2f",
+    "chars": 9033,
+    "description": "",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md; referenced assets have separate coverage records"
+  },
+  {
+    "name": "nature-polishing",
+    "source_path": "/Users/imac/.codex/skills/nature-polishing/SKILL.md",
+    "sha256": "755c8fd4a2cab45b92c498920e233e3ab8baa9d29eee1e41380e789e7b1b88b9",
+    "chars": 5544,
+    "description": "",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md; referenced assets have separate coverage records"
+  },
+  {
+    "name": "nature-reader",
+    "source_path": "/Users/imac/.codex/skills/nature-reader/SKILL.md",
+    "sha256": "38ce165ee8dd4f5b5f80f42e0e8c50fe1e0bdbc25acb31fb2348ee78fde14fcb",
+    "chars": 4777,
+    "description": "",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md; referenced assets have separate coverage records"
+  },
+  {
+    "name": "nature-ref-verifier",
+    "source_path": "/Users/imac/.codex/skills/nature-ref-verifier/SKILL.md",
+    "sha256": "6a975074d7a1c62c00dd9e8c7367cd2af0ef9d573d6d6ce5ea12f70d9320a516",
+    "chars": 5719,
+    "description": "对学术文献逐条执行多源交叉验证，逐字段对比作者、标题、年份、卷期、页码， 标记卷年/DOI年冲突、作者顺序异常、页码偏差等问题，输出结构化验证报告。 可批量处理整篇论文/开题报告的参考文献列表，也可单条校验，支持与 Zotero 同步修正。",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md; referenced assets have separate coverage records"
+  },
+  {
+    "name": "nature-reviewer",
+    "source_path": "/Users/imac/.codex/skills/nature-reviewer/SKILL.md",
+    "sha256": "88aab215096a1883b56a36e087fa8c2f64b39087461f1e69dbfcf5700ae80c19",
+    "chars": 11683,
+    "description": "",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md; referenced assets have separate coverage records"
+  },
+  {
+    "name": "nature-statistics",
+    "source_path": "/Users/imac/.codex/skills/nature-statistics/SKILL.md",
+    "sha256": "1bd47c137c80637dd23d98a9e830ef18828eac7354842cfacac410aa4df6f7ed",
+    "chars": 7737,
+    "description": "Audit, revise, or draft manuscript statistical reporting for Nature / high-impact journal submissions. Use when the user asks to check statistical analysis sections, p values, confidence intervals, sample size, biological versus technical replicates, randomization, blinding, multiple-comparison correction, model assumptions, figure legends, Results statistics wording, reviewer comments about statistics, or Chinese academic drafts needing publication-ready Statistical analysis text. Also trigger on general paper-statistics requests such as 统计审查、统计分析小节、统计方法、p值、样本量、重复数、多重比较、置信区间、效应量、图注统计、审稿人统计意见.",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md; referenced assets have separate coverage records"
+  },
+  {
+    "name": "nature-writing-studio",
+    "source_path": "/Users/imac/.codex/skills/nature-writing-studio/SKILL.md",
+    "sha256": "edb93d0ba5d28be3ca7714299bd9989ba5b3d44616a2f4d1769f4683491deab6",
+    "chars": 13348,
+    "description": "",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md; referenced assets have separate coverage records"
+  },
+  {
+    "name": "nature-writing",
+    "source_path": "/Users/imac/.codex/skills/nature-writing/SKILL.md",
+    "sha256": "ee5a26c639e40ee1d2df71684873626b3e207651f72662e93d46f9bb14f2b42b",
+    "chars": 5959,
+    "description": "",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md; referenced assets have separate coverage records"
+  },
+  {
+    "name": "no-negative-echo",
+    "source_path": "/Users/imac/.codex/skills/no-negative-echo/SKILL.md",
+    "sha256": "bc49531e87fb0ed5820b000e2f8c5b99fef8f09a302cffed17015805ff065d9a",
+    "chars": 13149,
+    "description": "Reduce negative-constraint and session-history leakage when a discarded proposal or user correction is echoed into final artifacts as a ‘without X’ label, rejected-option explanation, or process residue. Use for 此地无银三百两式 output in prose, code, metadata, and handoffs, including later requests to finish, commit, publish, or open a PR after iterative work; not for ordinary deletion, deprecation, migration, or requirements where the exclusion itself is material.",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md; complete supplementary reading recorded in local-skills-nature-reading.json"
+  },
+  {
+    "name": "peer-review",
+    "source_path": "/Users/imac/.codex/skills/peer-review/SKILL.md",
+    "sha256": "fed0262d707aa1b1c4822e9fb05aa132e1cf333aff695a4de754272d42f5c98b",
+    "chars": 11593,
+    "description": "",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md; referenced assets have separate coverage records"
+  },
+  {
+    "name": "research-paper-writing",
+    "source_path": "/Users/imac/.codex/skills/research-paper-writing/SKILL.md",
+    "sha256": "62ef11c06f2796c74e55ab24908ed31bafebfa0f1b736499d1615ac374cf7f6d",
+    "chars": 4834,
+    "description": "",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md; referenced assets have separate coverage records"
+  },
+  {
+    "name": "evidence-driven-writing",
+    "source_path": "/Users/imac/.codex/skills/research-writing-assistant/skills/evidence-driven-writing/SKILL.md",
+    "sha256": "e9abd429987889fdbbc8c14f48042885cdb13abfe35abaf4c12016705d449f42",
+    "chars": 3805,
+    "description": "",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md; referenced assets have separate coverage records"
+  },
+  {
+    "name": "experiment-results-planning",
+    "source_path": "/Users/imac/.codex/skills/research-writing-assistant/skills/experiment-results-planning/SKILL.md",
+    "sha256": "a4442c07e884ecca40498c77880b10d8e1a72b9a59733ab1ce7c15427f70227c",
+    "chars": 3959,
+    "description": "",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md; referenced assets have separate coverage records"
+  },
+  {
+    "name": "peer-review",
+    "source_path": "/Users/imac/.codex/skills/research-writing-assistant/skills/peer-review/SKILL.md",
+    "sha256": "b540c455b8e1a633828850491fdc8f0ccf4f117197d10273704dca40804441f3",
+    "chars": 2326,
+    "description": "",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md; referenced assets have separate coverage records"
+  },
+  {
+    "name": "statistical-analysis",
+    "source_path": "/Users/imac/.codex/skills/research-writing-assistant/skills/statistical-analysis/SKILL.md",
+    "sha256": "e2b425a9f657605340ed0562fd05e570b21e4612c048ac17d0bac35123e31076",
+    "chars": 3411,
+    "description": "",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md; referenced assets have separate coverage records"
+  },
+  {
+    "name": "verification",
+    "source_path": "/Users/imac/.codex/skills/research-writing-assistant/skills/verification/SKILL.md",
+    "sha256": "126b7a2bc7fbe259885c570ede0b1f8ceb5add2facbe8492266c4ae77b907808",
+    "chars": 2451,
+    "description": "",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md; referenced assets have separate coverage records"
+  },
+  {
+    "name": "scientific-critical-thinking",
+    "source_path": "/Users/imac/.codex/skills/scientific-critical-thinking/SKILL.md",
+    "sha256": "e615da7e6a908791bdbf3a497849b16839aea27d2b42f330bc6d0defce82283c",
+    "chars": 9144,
+    "description": "Evaluate scientific claims and evidence quality. Use for assessing experimental design validity, identifying biases and confounders, applying evidence grading frameworks (GRADE, Cochrane Risk of Bias), or teaching critical analysis. Best for understanding evidence quality, identifying flaws. For formal peer review writing use peer-review.",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md; referenced assets have separate coverage records"
+  },
+  {
+    "name": "scientific-writing",
+    "source_path": "/Users/imac/.codex/skills/scientific-writing/SKILL.md",
+    "sha256": "31f4fb3c0df5d78b87b09f533f360e31acc82043fc2c72c4a3a1a3b825dae035",
+    "chars": 13045,
+    "description": "",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md; referenced assets have separate coverage records"
+  },
+  {
+    "name": "stop-slop",
+    "source_path": "/Users/imac/.codex/skills/stop-slop/SKILL.md",
+    "sha256": "7432a1d9ebdd42b27666da8458af252edf549f723fb14bcd4791425103930310",
+    "chars": 2629,
+    "description": "Remove AI writing patterns from prose. Use when drafting, editing, or reviewing text to eliminate predictable AI tells.",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md"
+  },
+  {
+    "name": "ultimate-de-ai",
+    "source_path": "/Users/imac/.codex/skills/ultimate-de-ai/SKILL.md",
+    "sha256": "fc9bdee57d460c33a2061193b73de7a0ffe7a8ba72e550f01c22eec8e7a8d3d2",
+    "chars": 3754,
+    "description": "审查、改写或终稿复核中文、英文及双语论文与通用文本，清除空泛、模板化、术语堆砌、句句附加意义尾巴、循环论证、虚假对立等 AI 腔，同时保留事实、专业术语、引用边界和作者声音。特别用于检查论文是否只引用作者名字或摘要而未真正理解原文、是否一句塞入过多抽象概念、是否整段停留在概括层、以及“不是…而是…”究竟承担有效修正还是制造无效纠正、虚假排他或预设误解。也适用于用户提出“去 AI 味”“像正常人说话”“humanize”“stop slop”“终极去 AI”、学术润色、改写或审稿时。",
+    "role": "source-skill",
+    "reading_status": "COMPLETE_SKILL_ENTRYPOINT_READ_THIS_UPDATE",
+    "scope": "SKILL.md; referenced assets have separate coverage records"
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "version": "research-draft-2026-10-28.02",
+  "status": "DEVELOPMENT_ONLY_NOT_ACCEPTED",
+  "installed": false,
+  "new_whole_author_attempts": 0,
+  "new_whole_author_passes": 0,
+  "Q": null,
+  "idea_quality": null,
+  "development_tests": {
+    "count": 226,
+    "pass": 226,
+    "independent": false
+  },
+  "inherited_gate_known_defects": true,
+  "not_a_parser_repair_release": true,
+  "original_r2_evidence_is_historical": true,
+  "prior_development_probe": {
+    "version": "2026-10-28.01",
+    "status": "running_at_copy",
+    "scope": "limited synthetic behavior only; no quality score",
+    "source": "Separate parent evidence, not packaged as achieved"
+  },
+  "change_from_draft01": "Entry snapshot ID and interface/evidence metadata only; all mathematics and workflow content unchanged.",
+  "review_interface_development": {
+    "status": "IMPLEMENTED_UNTESTED",
+    "version": "review-interface20261028.01",
+    "default_changed": false,
+    "new_whole_attempts": 0,
+    "Q": null
+  }
+}

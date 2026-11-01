@@ -1,0 +1,89 @@
+{
+  "rules": {
+    "rules_year": null,
+    "rules_source": "<quote/locate the page rule in that year's problem statement or official instructions>",
+    "max_main_pages": null,
+    "target_min_pages": 18,
+    "contest_cutoff_date": "YYYY-MM-DD",
+    "ai_report_excluded_from_main_limit": false,
+    "ai_report_exclusion_rule_quote": "<set true only when that target year's official rules explicitly exempt the AI-use report; paste the exact exemption sentence here and locate it in rules_source; otherwise retain false and count every submitted page>",
+    "excluded_from_cap": [],
+    "excluded_from_cap_example": {
+      "name": "references",
+      "rule_quote": "<the sentence of that year's rules that excludes it>",
+      "first_text": "<>=10 chars starting the section>",
+      "last_text": "<>=10 chars ending it, or omit and set to_end: true>",
+      "to_end": false
+    }
+  },
+  "pdf": {
+    "main_pages": null,
+    "summary_last_text": "<>=15 chars copied from the last line of the Summary Sheet>",
+    "ai_report_first_text": "Report on Use of AI Tools",
+    "short_page_reasons": {}
+  },
+  "requirements": [
+    {
+      "id": "R1",
+      "text": "<sub-question as stated>",
+      "quantitative": true,
+      "result_excerpt": "<exact sentence in the paper that gives the result, with number and unit>",
+      "interpretation_excerpt": "<exact sentence that interprets it>",
+      "exhibits": [
+        "Figure 1",
+        "Table 1"
+      ],
+      "exhibit_not_applicable_reason": ""
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "type": "prediction|empirical_effect|optimization|mechanistic|normative|descriptive|proof",
+      "summary_excerpt": "<exact text of the claim on page 1>",
+      "validation_ids": [
+        "V1"
+      ],
+      "no_independent_data_reason": "",
+      "unvalidated_excerpt": ""
+    }
+  ],
+  "validations": [
+    {
+      "id": "V1",
+      "kind": "external_holdout|external_check|development_holdout|in_sample_replay|reference_law|implementation|feasibility|analytical|consistency|sensitivity",
+      "planned_before_results": true,
+      "used_for_model_selection": false,
+      "pre_cutoff": true,
+      "data_source": "",
+      "source_log_match": "<>=8 chars of the data/source_log.md row for this data (Use = validation)>",
+      "metric": "",
+      "metric_direction": "lower_is_better|higher_is_better",
+      "model_value": null,
+      "baseline_name": "",
+      "baseline_value": null,
+      "baseline_loss_excerpt": "<only if the model loses to the baseline: exact sentence saying so>",
+      "outcome": "pass|fail|mixed",
+      "paper_excerpt": "<exact sentence reporting the result>",
+      "failure_action": {
+        "kind": "repair|restrict_scope|withdraw",
+        "paper_excerpt": "<exact sentence stating what was done>"
+      },
+      "source_ids": [
+        "D1"
+      ]
+    }
+  ],
+  "attachments": [
+    {
+      "id": "A1",
+      "path": "inputs/<file>",
+      "used_in": [
+        "R1"
+      ],
+      "conversion_notes": "",
+      "not_applicable_reason": ""
+    }
+  ],
+  "review_format": "structured-v1"
+}

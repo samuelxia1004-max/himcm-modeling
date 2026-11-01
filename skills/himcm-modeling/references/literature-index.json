@@ -1,0 +1,2569 @@
+[
+  {
+    "id": "N001",
+    "title": "Quantifying the dynamics of failure across science, startups and security",
+    "doi": "10.1038/s41586-019-1725-y",
+    "doi_url": "https://doi.org/10.1038/s41586-019-1725-y",
+    "journal": "Nature",
+    "year": 2019,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41586-019-1725-y",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N003",
+    "title": "Hidden resilience and adaptive dynamics of the global online hate ecology",
+    "doi": "10.1038/s41586-019-1494-7",
+    "doi_url": "https://doi.org/10.1038/s41586-019-1494-7",
+    "journal": "Nature",
+    "year": 2019,
+    "article_type": "Letter",
+    "publisher_url": "https://www.nature.com/articles/s41586-019-1494-7",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N004",
+    "title": "Strong effect of dispersal network structure on ecological dynamics",
+    "doi": "10.1038/nature07395",
+    "doi_url": "https://doi.org/10.1038/nature07395",
+    "journal": "Nature",
+    "year": 2008,
+    "article_type": "Letter",
+    "publisher_url": "https://www.nature.com/articles/nature07395",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N005",
+    "title": "Higher-order interactions stabilize dynamics in competitive network models",
+    "doi": "10.1038/nature23273",
+    "doi_url": "https://doi.org/10.1038/nature23273",
+    "journal": "Nature",
+    "year": 2017,
+    "article_type": "Letter",
+    "publisher_url": "https://www.nature.com/articles/nature23273",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N006",
+    "title": "Universal resilience patterns in complex networks",
+    "doi": "10.1038/nature16948",
+    "doi_url": "https://doi.org/10.1038/nature16948",
+    "journal": "Nature",
+    "year": 2016,
+    "article_type": "Letter",
+    "publisher_url": "https://www.nature.com/articles/nature16948",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "AUTHOR_HOSTED_COPY_VERSION_NOT_FURTHER_VERIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Model formulation / resilience reduction / perturbation comparisons",
+        "scope": "selected public-author-PDF paragraphs; PDF pages 1–2 and TXT character ranges 19500–22500, 27000–30400"
+      }
+    ]
+  },
+  {
+    "id": "N007",
+    "title": "Addressing the minimum fleet problem in on-demand urban mobility",
+    "doi": "10.1038/s41586-018-0095-1",
+    "doi_url": "https://doi.org/10.1038/s41586-018-0095-1",
+    "journal": "Nature",
+    "year": 2018,
+    "article_type": "Letter",
+    "publisher_url": "https://www.nature.com/articles/s41586-018-0095-1",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N008",
+    "title": "A universal model for mobility and migration patterns",
+    "doi": "10.1038/nature10856",
+    "doi_url": "https://doi.org/10.1038/nature10856",
+    "journal": "Nature",
+    "year": 2012,
+    "article_type": "Letter",
+    "publisher_url": "https://www.nature.com/articles/nature10856",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "submittedVersion",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete publisher abstract"
+      },
+      {
+        "section": "模型构造",
+        "pdf_pages": [
+          4,
+          5
+        ],
+        "scope": "selected paragraph excerpts: 就业机会、收益抽样、最近可接受机会及辐射流量段"
+      },
+      {
+        "section": "验证比较",
+        "pdf_pages": [
+          6,
+          7
+        ],
+        "scope": "selected paragraph excerpts: 通勤流量、距离及目的地分布比较段"
+      },
+      {
+        "section": "假设与空间背景",
+        "pdf_pages": [
+          8,
+          8
+        ],
+        "scope": "selected paragraph excerpts: 非均匀人口分布讨论段"
+      },
+      {
+        "section": "数据来源",
+        "pdf_pages": [
+          17,
+          17
+        ],
+        "scope": "selected paragraph excerpts: 移动、迁移、通信与货物流数据说明段"
+      },
+      {
+        "section": "附录拟合检查",
+        "pdf_pages": [
+          32,
+          32
+        ],
+        "scope": "selected paragraph excerpts: 空间划分与拟合误差讨论段"
+      }
+    ]
+  },
+  {
+    "id": "N009",
+    "title": "Allowable carbon emissions lowered by multiple climate targets",
+    "doi": "10.1038/nature12269",
+    "doi_url": "https://doi.org/10.1038/nature12269",
+    "journal": "Nature",
+    "year": 2013,
+    "article_type": "Letter",
+    "publisher_url": "https://www.nature.com/articles/nature12269",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N010",
+    "title": "Long-term relationships between ecological stability and biodiversity in Phanerozoic reefs",
+    "doi": "10.1038/nature03152",
+    "doi_url": "https://doi.org/10.1038/nature03152",
+    "journal": "Nature",
+    "year": 2005,
+    "article_type": "Letter",
+    "publisher_url": "https://www.nature.com/articles/nature03152",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N011",
+    "title": "Biodiversity as a barrier to ecological invasion",
+    "doi": "10.1038/nature00776",
+    "doi_url": "https://doi.org/10.1038/nature00776",
+    "journal": "Nature",
+    "year": 2002,
+    "article_type": "Letter",
+    "publisher_url": "https://www.nature.com/articles/nature00776",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N012",
+    "title": "Coherent ecological dynamics induced by large-scale disturbance",
+    "doi": "10.1038/nature06935",
+    "doi_url": "https://doi.org/10.1038/nature06935",
+    "journal": "Nature",
+    "year": 2008,
+    "article_type": "Letter",
+    "publisher_url": "https://www.nature.com/articles/nature06935",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N013",
+    "title": "Effects of household dynamics on resource consumption and biodiversity",
+    "doi": "10.1038/nature01359",
+    "doi_url": "https://doi.org/10.1038/nature01359",
+    "journal": "Nature",
+    "year": 2003,
+    "article_type": "Letter",
+    "publisher_url": "https://www.nature.com/articles/nature01359",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N014",
+    "title": "Synchronization of animal population dynamics by large-scale climate",
+    "doi": "10.1038/nature01064",
+    "doi_url": "https://doi.org/10.1038/nature01064",
+    "journal": "Nature",
+    "year": 2002,
+    "article_type": "Letter",
+    "publisher_url": "https://www.nature.com/articles/nature01064",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N015",
+    "title": "Rapid evolution drives ecological dynamics in a predator–prey system",
+    "doi": "10.1038/nature01767",
+    "doi_url": "https://doi.org/10.1038/nature01767",
+    "journal": "Nature",
+    "year": 2003,
+    "article_type": "Letter",
+    "publisher_url": "https://www.nature.com/articles/nature01767",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N016",
+    "title": "A simple model of bipartite cooperation for ecological and organizational networks",
+    "doi": "10.1038/nature07532",
+    "doi_url": "https://doi.org/10.1038/nature07532",
+    "journal": "Nature",
+    "year": 2008,
+    "article_type": "Letter",
+    "publisher_url": "https://www.nature.com/articles/nature07532",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N017",
+    "title": "Evolutionary dynamics on any population structure",
+    "doi": "10.1038/nature21723",
+    "doi_url": "https://doi.org/10.1038/nature21723",
+    "journal": "Nature",
+    "year": 2017,
+    "article_type": "Letter",
+    "publisher_url": "https://www.nature.com/articles/nature21723",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "submittedVersion",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete publisher abstract"
+      },
+      {
+        "section": "模型适用条件",
+        "pdf_pages": [
+          2,
+          2
+        ],
+        "scope": "selected paragraph excerpts: 弱选择与图表示段"
+      },
+      {
+        "section": "模型与推导",
+        "pdf_pages": [
+          4,
+          5
+        ],
+        "scope": "selected paragraph excerpts: 死亡—出生更新、合并时间及合作判据段"
+      },
+      {
+        "section": "Monte Carlo核验",
+        "pdf_pages": [
+          6,
+          6
+        ],
+        "scope": "selected paragraph excerpts: 图2说明中的仿真检验段"
+      },
+      {
+        "section": "范围与变体",
+        "pdf_pages": [
+          16,
+          16
+        ],
+        "scope": "selected paragraph excerpts: 收益及更新机制变体段"
+      },
+      {
+        "section": "Appendix J",
+        "pdf_pages": [
+          39,
+          39
+        ],
+        "scope": "selected paragraph excerpts: 模型变体与累积收益段"
+      },
+      {
+        "section": "Appendix J.3",
+        "pdf_pages": [
+          42,
+          42
+        ],
+        "scope": "selected paragraph excerpts: 初始类型出现规则与弱选择段"
+      }
+    ]
+  },
+  {
+    "id": "N018",
+    "title": "Coupled dynamics of body mass and population growth in response to environmental change",
+    "doi": "10.1038/nature09210",
+    "doi_url": "https://doi.org/10.1038/nature09210",
+    "journal": "Nature",
+    "year": 2010,
+    "article_type": "Letter",
+    "publisher_url": "https://www.nature.com/articles/nature09210",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N019",
+    "title": "Resource-use efficiency and plant invasion in low-resource systems",
+    "doi": "10.1038/nature05719",
+    "doi_url": "https://doi.org/10.1038/nature05719",
+    "journal": "Nature",
+    "year": 2007,
+    "article_type": "Letter",
+    "publisher_url": "https://www.nature.com/articles/nature05719",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N020",
+    "title": "Modelling the effects of subjective and objective decision making in scientific peer review",
+    "doi": "10.1038/nature12786",
+    "doi_url": "https://doi.org/10.1038/nature12786",
+    "journal": "Nature",
+    "year": 2013,
+    "article_type": "Letter",
+    "publisher_url": "https://www.nature.com/articles/nature12786",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N021",
+    "title": "Disease-economy trade-offs under alternative epidemic control strategies",
+    "doi": "10.1038/s41467-022-30642-8",
+    "doi_url": "https://doi.org/10.1038/s41467-022-30642-8",
+    "journal": "Nature Communications",
+    "year": 2022,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-022-30642-8",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Results",
+        "subsection": "Methodological contributions",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Results",
+        "subsection": "Robustness to assumptions on coupling parameters and functions",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N022",
+    "title": "Epidemic graph diagrams as analytics for epidemic control in the data-rich era",
+    "doi": "10.1038/s41467-023-43856-1",
+    "doi_url": "https://doi.org/10.1038/s41467-023-43856-1",
+    "journal": "Nature Communications",
+    "year": 2023,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-023-43856-1",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Infection propagator and epidemic threshold",
+        "scope": "selected paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N023",
+    "title": "A network model of Italy shows that intermittent regional strategies can alleviate the COVID-19 epidemic",
+    "doi": "10.1038/s41467-020-18827-5",
+    "doi_url": "https://doi.org/10.1038/s41467-020-18827-5",
+    "journal": "Nature Communications",
+    "year": 2020,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-020-18827-5",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Results",
+        "subsection": "Model formulation and fitting procedure",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Model parameterization from real data and model validation",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N024",
+    "title": "Discontinuous epidemic transition due to limited testing",
+    "doi": "10.1038/s41467-021-22725-9",
+    "doi_url": "https://doi.org/10.1038/s41467-021-22725-9",
+    "journal": "Nature Communications",
+    "year": 2021,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-021-22725-9",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Spatial epidemic model",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Testing and quarantining model",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N025",
+    "title": "Importance of social inequalities to contact patterns, vaccine uptake, and epidemic dynamics",
+    "doi": "10.1038/s41467-024-48332-y",
+    "doi_url": "https://doi.org/10.1038/s41467-024-48332-y",
+    "journal": "Nature Communications",
+    "year": 2024,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-024-48332-y",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Results",
+        "subsection": "Stratified modelling of the Hungarian scenario",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Results",
+        "subsection": "The main determinants of human contact patterns",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N026",
+    "title": "Compensating for population sampling in simulations of epidemic spread on temporal contact networks",
+    "doi": "10.1038/ncomms9860",
+    "doi_url": "https://doi.org/10.1038/ncomms9860",
+    "journal": "Nature Communications",
+    "year": 2015,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/ncomms9860",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Results",
+        "subsection": "Data and methodology",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Results",
+        "subsection": "Limitations",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N027",
+    "title": "Effects of social distancing and isolation on epidemic spreading modeled via dynamical density functional theory",
+    "doi": "10.1038/s41467-020-19024-0",
+    "doi_url": "https://doi.org/10.1038/s41467-020-19024-0",
+    "journal": "Nature Communications",
+    "year": 2020,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-020-19024-0",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Results",
+        "subsection": "SIR-DDFT model",
+        "scope": "selected paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N028",
+    "title": "Nationwide rollout reveals efficacy of epidemic control through digital contact tracing",
+    "doi": "10.1038/s41467-021-26144-8",
+    "doi_url": "https://doi.org/10.1038/s41467-021-26144-8",
+    "journal": "Nature Communications",
+    "year": 2021,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-021-26144-8",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Modelling the technological efficacy",
+        "scope": "selected paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N029",
+    "title": "Realistic control of network dynamics",
+    "doi": "10.1038/ncomms2939",
+    "doi_url": "https://doi.org/10.1038/ncomms2939",
+    "journal": "Nature Communications",
+    "year": 2013,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/ncomms2939",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Identification of compensatory perturbations",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Results",
+        "subsection": "Application to the identification of therapeutic interventions",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N030",
+    "title": "Interconnectedness enhances network resilience of multimodal public transportation systems for Safe-to-Fail urban mobility",
+    "doi": "10.1038/s41467-023-39999-w",
+    "doi_url": "https://doi.org/10.1038/s41467-023-39999-w",
+    "journal": "Nature Communications",
+    "year": 2023,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-023-39999-w",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Network preparedness",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Results",
+        "subsection": "Interconnectedness and network robustness of MPTN",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N031",
+    "title": "Dynamically induced cascading failures in power grids",
+    "doi": "10.1038/s41467-018-04287-5",
+    "doi_url": "https://doi.org/10.1038/s41467-018-04287-5",
+    "journal": "Nature Communications",
+    "year": 2018,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-018-04287-5",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Modeling power grids",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Introduction",
+        "subsection": "Introduction",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N032",
+    "title": "Model-free inference of direct network interactions from nonlinear collective dynamics",
+    "doi": "10.1038/s41467-017-02288-4",
+    "doi_url": "https://doi.org/10.1038/s41467-017-02288-4",
+    "journal": "Nature Communications",
+    "year": 2017,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-017-02288-4",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Results",
+        "subsection": "Revealing direct links in model systems",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Introduction",
+        "subsection": "Introduction",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N033",
+    "title": "Network isolators inhibit failure spreading in complex networks",
+    "doi": "10.1038/s41467-021-23292-9",
+    "doi_url": "https://doi.org/10.1038/s41467-021-23292-9",
+    "journal": "Nature Communications",
+    "year": 2021,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-021-23292-9",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Results",
+        "subsection": "A model for supply networks",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Results",
+        "subsection": "A model for supply networks",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N034",
+    "title": "Spatio-temporal propagation of cascading overload failures in spatially embedded networks",
+    "doi": "10.1038/ncomms10094",
+    "doi_url": "https://doi.org/10.1038/ncomms10094",
+    "journal": "Nature Communications",
+    "year": 2016,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/ncomms10094",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Results",
+        "subsection": "Comparison between simulation and theory",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Results",
+        "subsection": "Comparison between simulation and theory",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N035",
+    "title": "Memory in network flows and its effects on spreading dynamics and community detection",
+    "doi": "10.1038/ncomms5630",
+    "doi_url": "https://doi.org/10.1038/ncomms5630",
+    "journal": "Nature Communications",
+    "year": 2014,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/ncomms5630",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Results",
+        "subsection": "Modelling second-order Markov dynamics",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Results",
+        "subsection": "Memory and spreading processes",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N036",
+    "title": "Similarity and economy of scale in urban transportation networks and optimal transport-based infrastructures",
+    "doi": "10.1038/s41467-024-52313-6",
+    "doi_url": "https://doi.org/10.1038/s41467-024-52313-6",
+    "journal": "Nature Communications",
+    "year": 2024,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-024-52313-6",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Results",
+        "subsection": "Modeling network design in transportation networks",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Introduction",
+        "subsection": "Introduction",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N037",
+    "title": "A digital twin framework for urban parking management and mobility forecasting",
+    "doi": "10.1038/s41467-025-65306-w",
+    "doi_url": "https://doi.org/10.1038/s41467-025-65306-w",
+    "journal": "Nature Communications",
+    "year": 2025,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-025-65306-w",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Results",
+        "subsection": "Simulation and what-if scenarios",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Results",
+        "subsection": "Statistical outputs and distributions",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N038",
+    "title": "The effect of sustainable mobility transition policies on cumulative urban transport emissions and energy demand",
+    "doi": "10.1038/s41467-023-37728-x",
+    "doi_url": "https://doi.org/10.1038/s41467-023-37728-x",
+    "journal": "Nature Communications",
+    "year": 2023,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-023-37728-x",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Methods",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Limitations of the model",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N039",
+    "title": "A stochastic model of randomly accelerated walkers for human mobility",
+    "doi": "10.1038/ncomms12600",
+    "doi_url": "https://doi.org/10.1038/ncomms12600",
+    "journal": "Nature Communications",
+    "year": 2016,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/ncomms12600",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Private transportation data",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Results",
+        "subsection": "The current empirical view",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N040",
+    "title": "Big-data empowered traffic signal control could reduce urban carbon emission",
+    "doi": "10.1038/s41467-025-56701-4",
+    "doi_url": "https://doi.org/10.1038/s41467-025-56701-4",
+    "journal": "Nature Communications",
+    "year": 2025,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-025-56701-4",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Data sources",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Simulation environment calibration",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N041",
+    "title": "Universal model of individual and population mobility on diverse spatial scales",
+    "doi": "10.1038/s41467-017-01892-8",
+    "doi_url": "https://doi.org/10.1038/s41467-017-01892-8",
+    "journal": "Nature Communications",
+    "year": 2017,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-017-01892-8",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Results",
+        "subsection": "Model",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Results",
+        "subsection": "Model prediction and validation",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N042",
+    "title": "A simple contagion process describes spreading of traffic jams in urban networks",
+    "doi": "10.1038/s41467-020-15353-2",
+    "doi_url": "https://doi.org/10.1038/s41467-020-15353-2",
+    "journal": "Nature Communications",
+    "year": 2020,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-020-15353-2",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Results",
+        "subsection": "Modeling contagion dynamics of network traffic jams",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Results",
+        "subsection": "Empirical evidence",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N043",
+    "title": "Data-driven analysis and forecasting of highway traffic dynamics",
+    "doi": "10.1038/s41467-020-15582-5",
+    "doi_url": "https://doi.org/10.1038/s41467-020-15582-5",
+    "journal": "Nature Communications",
+    "year": 2020,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-020-15582-5",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Spatiotemporal binning method",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Introduction",
+        "subsection": "Introduction",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N044",
+    "title": "Anomalous supply shortages from dynamic pricing in on-demand mobility",
+    "doi": "10.1038/s41467-020-18370-3",
+    "doi_url": "https://doi.org/10.1038/s41467-020-18370-3",
+    "journal": "Nature Communications",
+    "year": 2020,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-020-18370-3",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Data sources and acquisition",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Comparison of surge dynamics",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N045",
+    "title": "Uncovering the spatial structure of mobility networks",
+    "doi": "10.1038/ncomms7007",
+    "doi_url": "https://doi.org/10.1038/ncomms7007",
+    "journal": "Nature Communications",
+    "year": 2015,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/ncomms7007",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Results",
+        "subsection": "A null model",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Results",
+        "subsection": "Robustness",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N046",
+    "title": "Reversible Power-to-Gas systems for energy conversion and storage",
+    "doi": "10.1038/s41467-022-29520-0",
+    "doi_url": "https://doi.org/10.1038/s41467-022-29520-0",
+    "journal": "Nature Communications",
+    "year": 2022,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-022-29520-0",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Derivation of the aggregate contribution margins",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Introduction",
+        "subsection": "Introduction",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N047",
+    "title": "Climate change and its influence on water systems increases the cost of electricity system decarbonization",
+    "doi": "10.1038/s41467-024-54162-9",
+    "doi_url": "https://doi.org/10.1038/s41467-024-54162-9",
+    "journal": "Nature Communications",
+    "year": 2024,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-024-54162-9",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_TITLE_DOI_EOF_VERIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Methods",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Introduction",
+        "subsection": "Introduction",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N048",
+    "title": "Scenario-adaptive hierarchical optimisation framework for design in hybrid energy storage systems",
+    "doi": "10.1038/s41467-025-67377-1",
+    "doi_url": "https://doi.org/10.1038/s41467-025-67377-1",
+    "journal": "Nature Communications",
+    "year": 2025,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-025-67377-1",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_UNEDITED_ACCEPTED_ARTICLE_IN_PRESS",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Results",
+        "subsection": "A general design framework of HESSs for industrial parks",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Results",
+        "subsection": "Operational robustness of HESSs under uncertainties",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N050",
+    "title": "A low-carbon electricity sector in Europe risks sustaining regional inequalities in benefits and vulnerabilities",
+    "doi": "10.1038/s41467-023-37946-3",
+    "doi_url": "https://doi.org/10.1038/s41467-023-37946-3",
+    "journal": "Nature Communications",
+    "year": 2023,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-023-37946-3",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_TITLE_DOI_EOF_VERIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Methods",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Evaluating regional sensitivity and adaptive capacity",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N051",
+    "title": "Model structures amplify uncertainty in predicted soil carbon responses to climate change",
+    "doi": "10.1038/s41467-018-04526-9",
+    "doi_url": "https://doi.org/10.1038/s41467-018-04526-9",
+    "journal": "Nature Communications",
+    "year": 2018,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-018-04526-9",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Results",
+        "subsection": "Posterior distribution of model parameters",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Results",
+        "subsection": "Uncertainties in soil carbon projections",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N052",
+    "title": "Constraining climate sensitivity and continental versus seafloor weathering using an inverse geological carbon cycle model",
+    "doi": "10.1038/ncomms15423",
+    "doi_url": "https://doi.org/10.1038/ncomms15423",
+    "journal": "Nature Communications",
+    "year": 2017,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/ncomms15423",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Results",
+        "subsection": "Forward modelling",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Results",
+        "subsection": "Bayesian analysis sensitivity tests",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N053",
+    "title": "Energy requirements and carbon emissions for a low-carbon energy transition",
+    "doi": "10.1038/s41467-022-33976-5",
+    "doi_url": "https://doi.org/10.1038/s41467-022-33976-5",
+    "journal": "Nature Communications",
+    "year": 2022,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-022-33976-5",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Energy transition pathways",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Energy requirements of fossil fuel and biomass technologies",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N054",
+    "title": "Pricing indirect emissions accelerates low—carbon transition of US light vehicle sector",
+    "doi": "10.1038/s41467-021-27247-y",
+    "doi_url": "https://doi.org/10.1038/s41467-021-27247-y",
+    "journal": "Nature Communications",
+    "year": 2021,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-021-27247-y",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Demand﻿–side framework",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Uncertainty analysis",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N055",
+    "title": "21st-century modeled permafrost carbon emissions accelerated by abrupt thaw beneath lakes",
+    "doi": "10.1038/s41467-018-05738-9",
+    "doi_url": "https://doi.org/10.1038/s41467-018-05738-9",
+    "journal": "Nature Communications",
+    "year": 2018,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-018-05738-9",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Results",
+        "subsection": "Permafrost carbon models and present-day emissions",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Uncertainty",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N056",
+    "title": "Intrinsic ecological dynamics drive biodiversity turnover in model metacommunities",
+    "doi": "10.1038/s41467-021-23769-7",
+    "doi_url": "https://doi.org/10.1038/s41467-021-23769-7",
+    "journal": "Nature Communications",
+    "year": 2021,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-021-23769-7",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Metacommunity assembly",
+        "scope": "selected paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N057",
+    "title": "Biodiversity stabilizes plant communities through statistical-averaging effects rather than compensatory dynamics",
+    "doi": "10.1038/s41467-022-35514-9",
+    "doi_url": "https://doi.org/10.1038/s41467-022-35514-9",
+    "journal": "Nature Communications",
+    "year": 2022,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-022-35514-9",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Results",
+        "subsection": "Theoretical framework",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Results",
+        "subsection": "Empirical analyses",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N058",
+    "title": "Temporal dynamics of climate change exposure and opportunities for global marine biodiversity",
+    "doi": "10.1038/s41467-024-49736-6",
+    "doi_url": "https://doi.org/10.1038/s41467-024-49736-6",
+    "journal": "Nature Communications",
+    "year": 2024,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-024-49736-6",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Climate data",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Introduction",
+        "subsection": "Introduction",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N059",
+    "title": "The spatiotemporal scaling laws of urban population dynamics",
+    "doi": "10.1038/s41467-025-58286-4",
+    "doi_url": "https://doi.org/10.1038/s41467-025-58286-4",
+    "journal": "Nature Communications",
+    "year": 2025,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-025-58286-4",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Data description",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Results",
+        "subsection": "Spatial and temporal scale invariance of population fluctuations",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N060",
+    "title": "More frequent extreme climate events stabilize reindeer population dynamics",
+    "doi": "10.1038/s41467-019-09332-5",
+    "doi_url": "https://doi.org/10.1038/s41467-019-09332-5",
+    "journal": "Nature Communications",
+    "year": 2019,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-019-09332-5",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Study area and species",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Introduction",
+        "subsection": "Introduction",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N061",
+    "title": "Integrated optimization modelling framework for low-carbon and green regional transitions through resource-based industrial symbiosis",
+    "doi": "10.1038/s41467-024-48249-6",
+    "doi_url": "https://doi.org/10.1038/s41467-024-48249-6",
+    "journal": "Nature Communications",
+    "year": 2024,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-024-48249-6",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Methods",
+        "scope": "selected paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N062",
+    "title": "Impacts of irrigated agriculture on food–energy–water–CO2 nexus across metacoupled systems",
+    "doi": "10.1038/s41467-020-19520-3",
+    "doi_url": "https://doi.org/10.1038/s41467-020-19520-3",
+    "journal": "Nature Communications",
+    "year": 2020,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-020-19520-3",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Results",
+        "subsection": "Environmental impacts under model scenarios",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Step 4: uncertainty calculation",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N063",
+    "title": "Emulator-based Bayesian optimization for efficient multi-objective calibration of an individual-based model of malaria",
+    "doi": "10.1038/s41467-021-27486-z",
+    "doi_url": "https://doi.org/10.1038/s41467-021-27486-z",
+    "journal": "Nature Communications",
+    "year": 2021,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-021-27486-z",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Results",
+        "subsection": "Calibration workflow",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Results",
+        "subsection": "Calibration workflow",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N064",
+    "title": "Learning about climate change uncertainty enables flexible water infrastructure planning",
+    "doi": "10.1038/s41467-019-09677-x",
+    "doi_url": "https://doi.org/10.1038/s41467-019-09677-x",
+    "journal": "Nature Communications",
+    "year": 2019,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-019-09677-x",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Results",
+        "subsection": "Planning framework and scenarios",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Results",
+        "subsection": "Bayesian learning about climate change uncertainty",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N065",
+    "title": "Uncertainty in ensembles of global biodiversity scenarios",
+    "doi": "10.1038/s41467-019-09519-w",
+    "doi_url": "https://doi.org/10.1038/s41467-019-09519-w",
+    "journal": "Nature Communications",
+    "year": 2019,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41467-019-09519-w",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Statistical analyses",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Results",
+        "subsection": "Species-level uncertainty analyses",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N066",
+    "title": "Model-based financial regulations impair the transition to net-zero carbon emissions",
+    "doi": "10.1038/s41558-024-01972-w",
+    "doi_url": "https://doi.org/10.1038/s41558-024-01972-w",
+    "journal": "Nature Climate Change",
+    "year": 2024,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41558-024-01972-w",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Results",
+        "subsection": "Simulation of a divestment strategy",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Main",
+        "subsection": "Main",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N067",
+    "title": "Constraining the increased frequency of global precipitation extremes under warming",
+    "doi": "10.1038/s41558-022-01329-1",
+    "doi_url": "https://doi.org/10.1038/s41558-022-01329-1",
+    "journal": "Nature Climate Change",
+    "year": 2022,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41558-022-01329-1",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N068",
+    "title": "Uncertainty in temperature projections reduced using carbon cycle and climate observations",
+    "doi": "10.1038/nclimate1903",
+    "doi_url": "https://doi.org/10.1038/nclimate1903",
+    "journal": "Nature Climate Change",
+    "year": 2013,
+    "article_type": "Letter",
+    "publisher_url": "https://www.nature.com/articles/nclimate1903",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N069",
+    "title": "The costs of achieving climate targets and the sources of uncertainty",
+    "doi": "10.1038/s41558-020-0732-1",
+    "doi_url": "https://doi.org/10.1038/s41558-020-0732-1",
+    "journal": "Nature Climate Change",
+    "year": 2020,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41558-020-0732-1",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N071",
+    "title": "Observational constraints on low cloud feedback reduce uncertainty of climate sensitivity",
+    "doi": "10.1038/s41558-021-01039-0",
+    "doi_url": "https://doi.org/10.1038/s41558-021-01039-0",
+    "journal": "Nature Climate Change",
+    "year": 2021,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41558-021-01039-0",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "submittedVersion",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete publisher abstract"
+      },
+      {
+        "section": "模型与方法",
+        "pdf_pages": [
+          6,
+          7
+        ],
+        "scope": "selected paragraph excerpts: 气象控制变量、去趋势异常及多变量回归段"
+      },
+      {
+        "section": "Marine heatwave test case",
+        "pdf_pages": [
+          8,
+          8
+        ],
+        "scope": "selected paragraph excerpts: 独立卫星与样本外事件检验段"
+      },
+      {
+        "section": "Implications for climate sensitivity",
+        "pdf_pages": [
+          13,
+          16
+        ],
+        "scope": "selected paragraph excerpts: 多来源整合、两种推断方法及单篇约束范围段"
+      },
+      {
+        "section": "Methods / Observational datasets",
+        "pdf_pages": [
+          23,
+          24
+        ],
+        "scope": "selected paragraph excerpts: 卫星来源、云层定义及数据处理段"
+      },
+      {
+        "section": "Methods / Global Climate Models",
+        "pdf_pages": [
+          26,
+          26
+        ],
+        "scope": "selected paragraph excerpts: 时间窗口敏感性与模型输入段"
+      }
+    ]
+  },
+  {
+    "id": "N072",
+    "title": "Uncertainty in simulating wheat yields under climate change",
+    "doi": "10.1038/nclimate1916",
+    "doi_url": "https://doi.org/10.1038/nclimate1916",
+    "journal": "Nature Climate Change",
+    "year": 2013,
+    "article_type": "Letter",
+    "publisher_url": "https://www.nature.com/articles/nclimate1916",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N073",
+    "title": "Assessing the size and uncertainty of remaining carbon budgets",
+    "doi": "10.1038/s41558-023-01848-5",
+    "doi_url": "https://doi.org/10.1038/s41558-023-01848-5",
+    "journal": "Nature Climate Change",
+    "year": 2023,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41558-023-01848-5",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Methods",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Main",
+        "subsection": "Main",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      },
+      {
+        "section": "Methods",
+        "scope": "additional model/statistical-method paragraphs"
+      }
+    ]
+  },
+  {
+    "id": "N074",
+    "title": "Quantified, localized health benefits of accelerated carbon dioxide emissions reductions",
+    "doi": "10.1038/s41558-018-0108-y",
+    "doi_url": "https://doi.org/10.1038/s41558-018-0108-y",
+    "journal": "Nature Climate Change",
+    "year": 2018,
+    "article_type": "Letter",
+    "publisher_url": "https://www.nature.com/articles/s41558-018-0108-y",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Methods / Atmospheric Modeling",
+        "scope": "first two paragraphs"
+      },
+      {
+        "section": "Methods / Health Impact Methodology",
+        "scope": "first two paragraphs"
+      }
+    ]
+  },
+  {
+    "id": "N075",
+    "title": "Damage function uncertainty increases the social cost of methane and nitrous oxide",
+    "doi": "10.1038/s41558-023-01803-4",
+    "doi_url": "https://doi.org/10.1038/s41558-023-01803-4",
+    "journal": "Nature Climate Change",
+    "year": 2023,
+    "article_type": "Analysis",
+    "publisher_url": "https://www.nature.com/articles/s41558-023-01803-4",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N076",
+    "title": "Multi-year field measurements of home storage systems and their use in capacity estimation",
+    "doi": "10.1038/s41560-024-01620-9",
+    "doi_url": "https://doi.org/10.1038/s41560-024-01620-9",
+    "journal": "Nature Energy",
+    "year": 2024,
+    "article_type": "Resource",
+    "publisher_url": "https://www.nature.com/articles/s41560-024-01620-9",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Battery model and relaxation phase detection",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Main",
+        "subsection": "Main",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      },
+      {
+        "section": "Methods",
+        "scope": "additional model/statistical-method paragraphs"
+      }
+    ]
+  },
+  {
+    "id": "N079",
+    "title": "Implications of intercontinental renewable electricity trade for energy systems and emissions",
+    "doi": "10.1038/s41560-022-01136-0",
+    "doi_url": "https://doi.org/10.1038/s41560-022-01136-0",
+    "journal": "Nature Energy",
+    "year": 2022,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41560-022-01136-0",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N080",
+    "title": "Heavy-duty truck electrification and the impacts of depot charging on electricity distribution systems",
+    "doi": "10.1038/s41560-021-00855-0",
+    "doi_url": "https://doi.org/10.1038/s41560-021-00855-0",
+    "journal": "Nature Energy",
+    "year": 2021,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41560-021-00855-0",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N081",
+    "title": "Hydropower plans in eastern and southern Africa increase risk of concurrent climate-related electricity supply disruption",
+    "doi": "10.1038/s41560-017-0037-4",
+    "doi_url": "https://doi.org/10.1038/s41560-017-0037-4",
+    "journal": "Nature Energy",
+    "year": 2017,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41560-017-0037-4",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "AUTHOR_ACCEPTED_MANUSCRIPT",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete publisher abstract"
+      },
+      {
+        "section": "版本说明",
+        "pdf_pages": [
+          1,
+          1
+        ],
+        "scope": "selected paragraph excerpts: LSE封面中的Accepted version与author final accepted version"
+      },
+      {
+        "section": "Intra-regional clusters",
+        "pdf_pages": [
+          7,
+          8
+        ],
+        "scope": "selected paragraph excerpts: 降雨与径流区别、数据源比较段"
+      },
+      {
+        "section": "Discussion",
+        "pdf_pages": [
+          12,
+          14
+        ],
+        "scope": "selected paragraph excerpts: 完工假设、相关性非平稳性及共享电力范围段"
+      },
+      {
+        "section": "Methods / Defining rainfall clusters",
+        "pdf_pages": [
+          16,
+          17
+        ],
+        "scope": "selected paragraph excerpts: 时间聚合、PCA、K-means与聚类选择段"
+      },
+      {
+        "section": "Methods / Robustness and hydropower sites",
+        "pdf_pages": [
+          18,
+          19
+        ],
+        "scope": "selected paragraph excerpts: 聚类数、时段、替代数据及额定容量范围段"
+      }
+    ]
+  },
+  {
+    "id": "N082",
+    "title": "The design space for long-duration energy storage in decarbonized power systems",
+    "doi": "10.1038/s41560-021-00796-8",
+    "doi_url": "https://doi.org/10.1038/s41560-021-00796-8",
+    "journal": "Nature Energy",
+    "year": 2021,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41560-021-00796-8",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N083",
+    "title": "Asymmetric risk and fuel neutrality in electricity capacity markets",
+    "doi": "10.1038/s41560-019-0476-1",
+    "doi_url": "https://doi.org/10.1038/s41560-019-0476-1",
+    "journal": "Nature Energy",
+    "year": 2019,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41560-019-0476-1",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N084",
+    "title": "The role of flexible geothermal power in decarbonized electricity systems",
+    "doi": "10.1038/s41560-023-01437-y",
+    "doi_url": "https://doi.org/10.1038/s41560-023-01437-y",
+    "journal": "Nature Energy",
+    "year": 2024,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41560-023-01437-y",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N085",
+    "title": "Modelling the potential for wind energy integration on China’s coal-heavy electricity grid",
+    "doi": "10.1038/nenergy.2016.86",
+    "doi_url": "https://doi.org/10.1038/nenergy.2016.86",
+    "journal": "Nature Energy",
+    "year": 2016,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/nenergy201686",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N086",
+    "title": "Historical dynamics of landslide risk from population and forest-cover changes in the Kivu Rift",
+    "doi": "10.1038/s41893-021-00757-9",
+    "doi_url": "https://doi.org/10.1038/s41893-021-00757-9",
+    "journal": "Nature Sustainability",
+    "year": 2021,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41893-021-00757-9",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N087",
+    "title": "Actors’ diversity and the resilience of social-ecological systems to global change",
+    "doi": "10.1038/s41893-019-0236-z",
+    "doi_url": "https://doi.org/10.1038/s41893-019-0236-z",
+    "journal": "Nature Sustainability",
+    "year": 2019,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41893-019-0236-z",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N088",
+    "title": "Ecological risk assessment of marine plastic pollution",
+    "doi": "10.1038/s41893-025-01620-x",
+    "doi_url": "https://doi.org/10.1038/s41893-025-01620-x",
+    "journal": "Nature Sustainability",
+    "year": 2025,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41893-025-01620-x",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N089",
+    "title": "Wisdom of stakeholder crowds in complex social–ecological systems",
+    "doi": "10.1038/s41893-019-0467-z",
+    "doi_url": "https://doi.org/10.1038/s41893-019-0467-z",
+    "journal": "Nature Sustainability",
+    "year": 2020,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41893-019-0467-z",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N090",
+    "title": "Integrated scenarios to support analysis of the food–energy–water nexus",
+    "doi": "10.1038/s41893-019-0418-8",
+    "doi_url": "https://doi.org/10.1038/s41893-019-0418-8",
+    "journal": "Nature Sustainability",
+    "year": 2019,
+    "article_type": "Analysis",
+    "publisher_url": "https://www.nature.com/articles/s41893-019-0418-8",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N091",
+    "title": "Global assessment of water challenges under uncertainty in water scarcity projections",
+    "doi": "10.1038/s41893-018-0134-9",
+    "doi_url": "https://doi.org/10.1038/s41893-018-0134-9",
+    "journal": "Nature Sustainability",
+    "year": 2018,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41893-018-0134-9",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N092",
+    "title": "COVID-19 medical waste dataset and city-level disposal optimization strategies",
+    "doi": "10.1038/s41893-025-01550-8",
+    "doi_url": "https://doi.org/10.1038/s41893-025-01550-8",
+    "journal": "Nature Sustainability",
+    "year": 2025,
+    "article_type": "Resource",
+    "publisher_url": "https://www.nature.com/articles/s41893-025-01550-8",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N093",
+    "title": "African food system and biodiversity mainly affected by urbanization via dietary shifts",
+    "doi": "10.1038/s41893-024-01362-2",
+    "doi_url": "https://doi.org/10.1038/s41893-024-01362-2",
+    "journal": "Nature Sustainability",
+    "year": 2024,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41893-024-01362-2",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Model design",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Model design",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  },
+  {
+    "id": "N094",
+    "title": "Leveraging biodiversity to maximize nutrition and resilience of global fisheries",
+    "doi": "10.1038/s41893-025-01577-x",
+    "doi_url": "https://doi.org/10.1038/s41893-025-01577-x",
+    "journal": "Nature Sustainability",
+    "year": 2025,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41893-025-01577-x",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N095",
+    "title": "A multi-model assessment of food security implications of climate change mitigation",
+    "doi": "10.1038/s41893-019-0286-2",
+    "doi_url": "https://doi.org/10.1038/s41893-019-0286-2",
+    "journal": "Nature Sustainability",
+    "year": 2019,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s41893-019-0286-2",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N096",
+    "title": "Discovering network dynamics with neural symbolic regression",
+    "doi": "10.1038/s43588-025-00893-8",
+    "doi_url": "https://doi.org/10.1038/s43588-025-00893-8",
+    "journal": "Nature Computational Science",
+    "year": 2025,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s43588-025-00893-8",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N097",
+    "title": "Autonomous inference of complex network dynamics from incomplete and noisy data",
+    "doi": "10.1038/s43588-022-00217-0",
+    "doi_url": "https://doi.org/10.1038/s43588-022-00217-0",
+    "journal": "Nature Computational Science",
+    "year": 2022,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s43588-022-00217-0",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N098",
+    "title": "A laboratory and simulation platform to integrate individual life history traits and population dynamics",
+    "doi": "10.1038/s43588-022-00190-8",
+    "doi_url": "https://doi.org/10.1038/s43588-022-00190-8",
+    "journal": "Nature Computational Science",
+    "year": 2022,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s43588-022-00190-8",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "ABSTRACT_AVAILABLE",
+    "reading_depth": "ABSTRACT_REVIEWED",
+    "pdf_version": null,
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      }
+    ]
+  },
+  {
+    "id": "N099",
+    "title": "The impact of uncertainty on predictions of the CovidSim epidemiological code",
+    "doi": "10.1038/s43588-021-00028-9",
+    "doi_url": "https://doi.org/10.1038/s43588-021-00028-9",
+    "journal": "Nature Computational Science",
+    "year": 2021,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s43588-021-00028-9",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Methods",
+        "subsection": "Methods",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Results",
+        "subsection": "Uncertainty in CovidSim",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      },
+      {
+        "section": "Methods",
+        "scope": "additional model/statistical-method paragraphs"
+      }
+    ]
+  },
+  {
+    "id": "N100",
+    "title": "Constructing custom thermodynamics using deep learning",
+    "doi": "10.1038/s43588-023-00581-5",
+    "doi_url": "https://doi.org/10.1038/s43588-023-00581-5",
+    "journal": "Nature Computational Science",
+    "year": 2023,
+    "article_type": "Article",
+    "publisher_url": "https://www.nature.com/articles/s43588-023-00581-5",
+    "metadata_verification": "PUBLISHER_DEPOSITED_CROSSREF_RECORD",
+    "availability": "FULL_TEXT_AVAILABLE",
+    "reading_depth": "FULL_TEXT_SECTION_REVIEWED",
+    "pdf_version": "PUBLISHER_PDF_VERSION_NOT_FURTHER_CLASSIFIED",
+    "reviewed_sections": [
+      {
+        "section": "Abstract",
+        "scope": "complete abstract"
+      },
+      {
+        "section": "Results",
+        "subsection": "Modeling spatial epidemics",
+        "scope": "selected paragraph excerpt"
+      },
+      {
+        "section": "Results",
+        "subsection": "Experimental validation",
+        "scope": "selected validation/calibration/assumption paragraph excerpt"
+      }
+    ]
+  }
+]
